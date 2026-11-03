@@ -1,4 +1,8 @@
-# What-if · Eine Minute Zukunft · Cartoonfilm V2
+# What-if · Eine Minute Zukunft · Cartoonfilm V2 / V3
+
+V3 ergänzt die gespielte Straßenszene um fette, wortgenaue Akzenttexte, maskierte Text-Reveals, gezeichnete Unterstreichungen, einen am Telefon verankerten Fokus, einen Impuls an der tatsächlichen grünen Ampel und einen Pfeil zur Gefahrenstelle. Kurze eigene Soundeffekte folgen denselben Text-Cues und werden unter der Stimme abgesenkt. Die zusätzliche Gestaltung folgt dem neuesten Nutzerfeedback; die früheren Verbote von Textoverlays im archivierten Master-Prompt gelten für V3 daher nicht mehr.
+
+Nach dem unten beschriebenen Audio-Setup: `npm run render:v3`. Komposition: `WhatIfCartoonV3`. Ausgabe: `out/WhatIf_Eine_Minute_Zukunft_Hook_v3_30s.mp4`; Prüfungen und Kontaktbögen: `out/qc-v3/`. V2 bleibt separat renderbar. Details: `docs/V3_TEXT_UND_GRAFIK.md`.
 
 Eine in einer einzigen Straßenwelt gespielte 30-Sekunden-Cartoonszene. Schwarzer runder Kopf, weiße Mimik, orangefarbener Hoodie, warme Stadt. Zukunftsvision, beschädigtes Telefon, tatsächliches Fahrzeugrad, Rückkehr, Schrittabbruch und Vorbeifahrt verwenden dieselben Weltkoordinaten. Kein Countdown, Lageplan oder Erklärkarten.
 

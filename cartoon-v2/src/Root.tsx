@@ -1,8 +1,10 @@
 import React from 'react';
 import {Composition,Folder} from 'remotion';
 import {CartoonFilm} from './cartoon-v2/CartoonFilm';
+import {CartoonFilmV3} from './graphics-v3/CartoonFilmV3';
 import {OpeningShot,VisionShot,PhoneShot,WheelShot,ReturnShot,GreenShot,DecisionShot,RealisationShot} from './cartoon-v2/Shots';
 export const Root: React.FC = () => <>
+ <Composition id="WhatIfCartoonV3" component={CartoonFilmV3} width={1920} height={1080} fps={30} durationInFrames={900}/>
  <Composition id="WhatIfCartoonV2" component={CartoonFilm} width={1920} height={1080} fps={30} durationInFrames={900}/>
  <Folder name="Cartoon-V2-Shots">
  <Composition id="V2-Opening" component={OpeningShot} width={1920} height={1080} fps={30} durationInFrames={45}/>

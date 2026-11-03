@@ -1,0 +1,16 @@
+{
+  "ampel": {"from":0.58,"to":1.43,"sound":"tick","gain":0.018},
+  "suddenly": {"from":1.48,"to":2.65,"sound":"reveal","gain":0.030},
+  "asphalt": {"from":2.80,"to":4.28,"sound":"low","gain":0.023},
+  "broken": {"from":5.34,"to":6.50,"sound":"glass","gain":0.025},
+  "tyres": {"from":7.10,"to":8.55,"sound":"sweep","gain":0.017},
+  "gone": {"from":9.60,"to":10.45,"sound":"reverse","gain":0.021},
+  "later": {"from":12.94,"to":14.32,"sound":"double","gain":0.026},
+  "green": {"from":14.52,"to":15.48,"sound":"chime","gain":0.024},
+  "stop": {"from":16.14,"to":17.23,"sound":"low","gain":0.032},
+  "there": {"from":19.32,"to":21.37,"sound":"tick","gain":0.023},
+  "future": {"from":22.84,"to":24.15,"sound":"reveal","gain":0.020},
+  "changed": {"from":24.32,"to":25.53,"sound":"chime","gain":0.027},
+  "question": {"from":25.72,"to":28.03,"sound":"sweep","gain":0.019},
+  "ahead": {"from":28.58,"to":30.25,"sound":"double","gain":0.029}
+}

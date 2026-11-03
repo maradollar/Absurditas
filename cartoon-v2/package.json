@@ -6,14 +6,17 @@
     "studio": "remotion studio src/index.ts",
     "typecheck": "tsc --noEmit",
     "render": "bash scripts/render.sh",
-    "qc": ".venv/bin/python scripts/qc.py"
+    "qc": ".venv/bin/python scripts/qc.py",
+    "render:v3": "bash scripts/render_v3.sh",
+    "qc:v3": ".venv/bin/python scripts/qc_v3.py"
   },
   "dependencies": {
     "@remotion/cli": "4.0.540",
+    "@remotion/fonts": "4.0.540",
     "@remotion/media": "4.0.540",
-    "remotion": "4.0.540",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "remotion": "4.0.540"
   },
   "devDependencies": {
     "@types/react": "19.2.14",

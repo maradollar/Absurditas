@@ -1,0 +1,125 @@
+{
+  "sample_rate": 48000,
+  "duration": 30,
+  "voice_changed": false,
+  "source": "Original locally synthesized sound effects",
+  "speech_ducking": true,
+  "accent_peak": 0.0875244140625,
+  "mix_peak": 0.759735107421875,
+  "events": [
+    {
+      "time": 0.58,
+      "duration": 0.14,
+      "type": "tick",
+      "visual": "ampel"
+    },
+    {
+      "time": 1.48,
+      "duration": 0.34,
+      "type": "reveal",
+      "visual": "suddenly"
+    },
+    {
+      "time": 2.8,
+      "duration": 0.28,
+      "type": "low",
+      "visual": "asphalt"
+    },
+    {
+      "time": 5.34,
+      "duration": 0.29,
+      "type": "glass",
+      "visual": "broken"
+    },
+    {
+      "time": 7.1,
+      "duration": 0.36,
+      "type": "sweep",
+      "visual": "tyres"
+    },
+    {
+      "time": 9.6,
+      "duration": 0.31,
+      "type": "reverse",
+      "visual": "gone"
+    },
+    {
+      "time": 12.94,
+      "duration": 0.42,
+      "type": "double",
+      "visual": "later"
+    },
+    {
+      "time": 14.52,
+      "duration": 0.39,
+      "type": "chime",
+      "visual": "green"
+    },
+    {
+      "time": 16.14,
+      "duration": 0.28,
+      "type": "low",
+      "visual": "stop"
+    },
+    {
+      "time": 19.32,
+      "duration": 0.14,
+      "type": "tick",
+      "visual": "there"
+    },
+    {
+      "time": 22.84,
+      "duration": 0.34,
+      "type": "reveal",
+      "visual": "future"
+    },
+    {
+      "time": 24.32,
+      "duration": 0.39,
+      "type": "chime",
+      "visual": "changed"
+    },
+    {
+      "time": 25.72,
+      "duration": 0.36,
+      "type": "sweep",
+      "visual": "question"
+    },
+    {
+      "time": 28.58,
+      "duration": 0.42,
+      "type": "double",
+      "visual": "ahead"
+    },
+    {
+      "time": 0.78,
+      "duration": 0.14,
+      "type": "tick",
+      "visual": "AMPEL"
+    },
+    {
+      "time": 3.2,
+      "duration": 0.14,
+      "type": "tick",
+      "visual": "ASPHALT"
+    },
+    {
+      "time": 7.7,
+      "duration": 0.14,
+      "type": "tick",
+      "visual": "REIFEN"
+    },
+    {
+      "time": 16.26,
+      "duration": 0.14,
+      "type": "tick",
+      "visual": "LOS"
+    },
+    {
+      "time": 29.12,
+      "duration": 0.14,
+      "type": "tick",
+      "visual": "VORAUS"
+    }
+  ]
+}

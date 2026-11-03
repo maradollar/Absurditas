@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image,ImageDraw,ImageFont
 ROOT=Path(__file__).resolve().parents[1]
 VIDEO=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/'out/WhatIf_Eine_Minute_Zukunft_Hook_v2_30s.mp4'
-OUT=VIDEO.parent/'qc';OUT.mkdir(exist_ok=True)
+OUT=Path(sys.argv[2]) if len(sys.argv)>2 else VIDEO.parent/'qc';OUT.mkdir(exist_ok=True)
 def cmd(*args):return subprocess.check_output(list(args))
 probe=json.loads(cmd('ffprobe','-v','error','-count_frames','-show_streams','-show_format','-of','json',str(VIDEO)))
 v=next(s for s in probe['streams'] if s['codec_type']=='video');a=next(s for s in probe['streams'] if s['codec_type']=='audio')
