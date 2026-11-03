@@ -1,0 +1,12 @@
+Absurditas: synthetische deutsche Stimmprobe
+
+A: Piper/Thorsten, Textfassung im normalen Probentempo.
+B: dieselbe Erzeugung mit um Faktor 0,88 reduziertem Tempo, bei gleicher Tonhoehe.
+
+Beide Dateien sind KI-generierte Sprachsynthese. Sie sind keine Kopie der Referenzstimme.
+Keine Musik und keine Soundeffekte, damit die Stimme beurteilt werden kann.
+
+Quelle: https://github.com/thorstenMueller/Thorsten-Voice
+Modell: offizielle sherpa-onnx-Verteilung vits-piper-de_DE-thorsten-high.
+Modellkarte: Datensatzlizenz CC0.
+Der finale 30-Sekunden-Film wird nach der Stimmenwahl auf die Aufnahme abgestimmt.
