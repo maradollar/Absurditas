@@ -1,0 +1,6 @@
+node_modules
+.venv
+out/
+__pycache__/
+.models/
+public/cartoon-v2/*.wav

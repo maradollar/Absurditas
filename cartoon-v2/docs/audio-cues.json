@@ -1,0 +1,44 @@
+{
+  "source": "ElevenLabs_2026-11-03T20_03_11_Stephan - Warm and Friendly_pvc_s50_m2.mp3",
+  "source_start": 0,
+  "source_end": 30,
+  "speed": 1,
+  "mix_peak": 0.7719676749206243,
+  "cues": [
+    {
+      "time": 1.48,
+      "duration": 0.65,
+      "name": "Wahrnehmungswechsel"
+    },
+    {
+      "time": 7.04,
+      "duration": 1.05,
+      "name": "Bremsendes Fahrzeug in der Vision"
+    },
+    {
+      "time": 10.02,
+      "duration": 0.3,
+      "name": "Kleidung bei Rückkehr"
+    },
+    {
+      "time": 15.0,
+      "duration": 0.22,
+      "name": "Gewichtsverlagerung"
+    },
+    {
+      "time": 22.35,
+      "duration": 0.28,
+      "name": "Telefon kontrollieren"
+    },
+    {
+      "time": 16.2,
+      "duration": 0.17,
+      "name": "Fuß setzt wieder auf dem Gehweg auf"
+    },
+    {
+      "time": 14.1,
+      "duration": 5.1,
+      "name": "Annäherung links, Vorbeifahrt, Entfernung rechts"
+    }
+  ]
+}

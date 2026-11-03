@@ -1,0 +1,774 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.66,
+    "text": " Du stehst an einer Ampel, plötzlich siehst du dich selbst auf dem Asphalt liegen, neben",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.2,
+        "word": " Du",
+        "probability": 0.9187361598014832
+      },
+      {
+        "start": 0.2,
+        "end": 0.46,
+        "word": " stehst",
+        "probability": 0.98099485039711
+      },
+      {
+        "start": 0.46,
+        "end": 0.58,
+        "word": " an",
+        "probability": 0.9915788173675537
+      },
+      {
+        "start": 0.58,
+        "end": 0.78,
+        "word": " einer",
+        "probability": 0.9824302196502686
+      },
+      {
+        "start": 0.78,
+        "end": 1.1,
+        "word": " Ampel,",
+        "probability": 0.9899630844593048
+      },
+      {
+        "start": 1.48,
+        "end": 1.76,
+        "word": " plötzlich",
+        "probability": 0.954863429069519
+      },
+      {
+        "start": 1.76,
+        "end": 2.14,
+        "word": " siehst",
+        "probability": 0.9926272630691528
+      },
+      {
+        "start": 2.14,
+        "end": 2.28,
+        "word": " du",
+        "probability": 0.9384236931800842
+      },
+      {
+        "start": 2.28,
+        "end": 2.4,
+        "word": " dich",
+        "probability": 0.9827636480331421
+      },
+      {
+        "start": 2.4,
+        "end": 2.8,
+        "word": " selbst",
+        "probability": 0.9373504519462585
+      },
+      {
+        "start": 2.8,
+        "end": 3.06,
+        "word": " auf",
+        "probability": 0.9773290753364563
+      },
+      {
+        "start": 3.06,
+        "end": 3.2,
+        "word": " dem",
+        "probability": 0.9982682466506958
+      },
+      {
+        "start": 3.2,
+        "end": 3.48,
+        "word": " Asphalt",
+        "probability": 0.9708496630191803
+      },
+      {
+        "start": 3.48,
+        "end": 3.88,
+        "word": " liegen,",
+        "probability": 0.9343821406364441
+      },
+      {
+        "start": 4.42,
+        "end": 4.66,
+        "word": " neben",
+        "probability": 0.8989039063453674
+      }
+    ]
+  },
+  {
+    "start": 4.66,
+    "end": 10.72,
+    "text": " dir dein zerbrochenes Handy, du hörst quietschende Reifen, dann ist das Bild verschwunden, du",
+    "words": [
+      {
+        "start": 4.66,
+        "end": 4.9,
+        "word": " dir",
+        "probability": 0.9966748952865601
+      },
+      {
+        "start": 4.9,
+        "end": 5.34,
+        "word": " dein",
+        "probability": 0.8234373927116394
+      },
+      {
+        "start": 5.34,
+        "end": 5.96,
+        "word": " zerbrochenes",
+        "probability": 0.9766247421503067
+      },
+      {
+        "start": 5.96,
+        "end": 6.16,
+        "word": " Handy,",
+        "probability": 0.9949813485145569
+      },
+      {
+        "start": 6.68,
+        "end": 6.74,
+        "word": " du",
+        "probability": 0.949544370174408
+      },
+      {
+        "start": 6.74,
+        "end": 7.1,
+        "word": " hörst",
+        "probability": 0.9793841242790222
+      },
+      {
+        "start": 7.1,
+        "end": 7.7,
+        "word": " quietschende",
+        "probability": 0.8146815523505211
+      },
+      {
+        "start": 7.7,
+        "end": 8.16,
+        "word": " Reifen,",
+        "probability": 0.9866352081298828
+      },
+      {
+        "start": 8.66,
+        "end": 8.86,
+        "word": " dann",
+        "probability": 0.9878324270248413
+      },
+      {
+        "start": 8.86,
+        "end": 9.2,
+        "word": " ist",
+        "probability": 0.989556610584259
+      },
+      {
+        "start": 9.2,
+        "end": 9.38,
+        "word": " das",
+        "probability": 0.9988264441490173
+      },
+      {
+        "start": 9.38,
+        "end": 9.6,
+        "word": " Bild",
+        "probability": 0.9981417655944824
+      },
+      {
+        "start": 9.6,
+        "end": 10.14,
+        "word": " verschwunden,",
+        "probability": 0.9951657056808472
+      },
+      {
+        "start": 10.64,
+        "end": 10.72,
+        "word": " du",
+        "probability": 0.9833574295043945
+      }
+    ]
+  },
+  {
+    "start": 10.72,
+    "end": 14.96,
+    "text": " stehst immer noch sicher auf dem Gehweg, eine Minute später wird die Ampel grün,",
+    "words": [
+      {
+        "start": 10.72,
+        "end": 11.0,
+        "word": " stehst",
+        "probability": 0.9946901798248291
+      },
+      {
+        "start": 11.0,
+        "end": 11.24,
+        "word": " immer",
+        "probability": 0.9907751679420471
+      },
+      {
+        "start": 11.24,
+        "end": 11.42,
+        "word": " noch",
+        "probability": 0.990060567855835
+      },
+      {
+        "start": 11.42,
+        "end": 11.66,
+        "word": " sicher",
+        "probability": 0.9972426891326904
+      },
+      {
+        "start": 11.66,
+        "end": 11.9,
+        "word": " auf",
+        "probability": 0.9984051585197449
+      },
+      {
+        "start": 11.9,
+        "end": 12.0,
+        "word": " dem",
+        "probability": 0.9982593655586243
+      },
+      {
+        "start": 12.0,
+        "end": 12.4,
+        "word": " Gehweg,",
+        "probability": 0.9498297969500223
+      },
+      {
+        "start": 12.94,
+        "end": 13.1,
+        "word": " eine",
+        "probability": 0.9263968467712402
+      },
+      {
+        "start": 13.1,
+        "end": 13.32,
+        "word": " Minute",
+        "probability": 0.9876027703285217
+      },
+      {
+        "start": 13.32,
+        "end": 13.68,
+        "word": " später",
+        "probability": 0.9990422129631042
+      },
+      {
+        "start": 13.68,
+        "end": 14.02,
+        "word": " wird",
+        "probability": 0.9938311576843262
+      },
+      {
+        "start": 14.02,
+        "end": 14.14,
+        "word": " die",
+        "probability": 0.9977360963821411
+      },
+      {
+        "start": 14.14,
+        "end": 14.52,
+        "word": " Ampel",
+        "probability": 0.9975621104240417
+      },
+      {
+        "start": 14.52,
+        "end": 14.96,
+        "word": " grün,",
+        "probability": 0.9751391410827637
+      }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 20.2,
+    "text": " doch diesmal gehst du nicht los, ein Auto schießt über die Kreuzung, genau dort wo",
+    "words": [
+      {
+        "start": 15.4,
+        "end": 15.52,
+        "word": " doch",
+        "probability": 0.9921932816505432
+      },
+      {
+        "start": 15.52,
+        "end": 15.82,
+        "word": " diesmal",
+        "probability": 0.9870302975177765
+      },
+      {
+        "start": 15.82,
+        "end": 16.04,
+        "word": " gehst",
+        "probability": 0.9905592799186707
+      },
+      {
+        "start": 16.04,
+        "end": 16.14,
+        "word": " du",
+        "probability": 0.9797098636627197
+      },
+      {
+        "start": 16.14,
+        "end": 16.26,
+        "word": " nicht",
+        "probability": 0.9977896213531494
+      },
+      {
+        "start": 16.26,
+        "end": 16.54,
+        "word": " los,",
+        "probability": 0.9982882142066956
+      },
+      {
+        "start": 17.04,
+        "end": 17.2,
+        "word": " ein",
+        "probability": 0.9971137046813965
+      },
+      {
+        "start": 17.2,
+        "end": 17.58,
+        "word": " Auto",
+        "probability": 0.9918867945671082
+      },
+      {
+        "start": 17.58,
+        "end": 18.14,
+        "word": " schießt",
+        "probability": 0.995214601357778
+      },
+      {
+        "start": 18.14,
+        "end": 18.24,
+        "word": " über",
+        "probability": 0.9960786700248718
+      },
+      {
+        "start": 18.24,
+        "end": 18.36,
+        "word": " die",
+        "probability": 0.9986419081687927
+      },
+      {
+        "start": 18.36,
+        "end": 18.86,
+        "word": " Kreuzung,",
+        "probability": 0.9626476764678955
+      },
+      {
+        "start": 19.32,
+        "end": 19.6,
+        "word": " genau",
+        "probability": 0.9930302500724792
+      },
+      {
+        "start": 19.6,
+        "end": 19.92,
+        "word": " dort",
+        "probability": 0.9953356385231018
+      },
+      {
+        "start": 19.92,
+        "end": 20.2,
+        "word": " wo",
+        "probability": 0.6859476566314697
+      }
+    ]
+  },
+  {
+    "start": 20.2,
+    "end": 25.02,
+    "text": " du gerade gestanden hättest, du hast eben deine eigene Zukunft gesehen und verändert.",
+    "words": [
+      {
+        "start": 20.2,
+        "end": 20.3,
+        "word": " du",
+        "probability": 0.9915521144866943
+      },
+      {
+        "start": 20.3,
+        "end": 20.6,
+        "word": " gerade",
+        "probability": 0.9500973224639893
+      },
+      {
+        "start": 20.6,
+        "end": 20.98,
+        "word": " gestanden",
+        "probability": 0.9928630888462067
+      },
+      {
+        "start": 20.98,
+        "end": 21.48,
+        "word": " hättest,",
+        "probability": 0.9909583727518717
+      },
+      {
+        "start": 21.92,
+        "end": 22.0,
+        "word": " du",
+        "probability": 0.9805177450180054
+      },
+      {
+        "start": 22.0,
+        "end": 22.16,
+        "word": " hast",
+        "probability": 0.9968762397766113
+      },
+      {
+        "start": 22.16,
+        "end": 22.34,
+        "word": " eben",
+        "probability": 0.9798399806022644
+      },
+      {
+        "start": 22.34,
+        "end": 22.54,
+        "word": " deine",
+        "probability": 0.9761571288108826
+      },
+      {
+        "start": 22.54,
+        "end": 22.84,
+        "word": " eigene",
+        "probability": 0.9967658519744873
+      },
+      {
+        "start": 22.84,
+        "end": 23.18,
+        "word": " Zukunft",
+        "probability": 0.9977644681930542
+      },
+      {
+        "start": 23.18,
+        "end": 23.6,
+        "word": " gesehen",
+        "probability": 0.9974107146263123
+      },
+      {
+        "start": 23.6,
+        "end": 24.32,
+        "word": " und",
+        "probability": 0.9126487374305725
+      },
+      {
+        "start": 24.32,
+        "end": 25.02,
+        "word": " verändert.",
+        "probability": 0.9895161390304565
+      }
+    ]
+  },
+  {
+    "start": 25.02,
+    "end": 29.8,
+    "text": " Was wäre, wenn du das jederzeit könntest? Immer genau eine Minute voraus.",
+    "words": [
+      {
+        "start": 25.02,
+        "end": 25.78,
+        "word": " Was",
+        "probability": 0.26522499322891235
+      },
+      {
+        "start": 25.78,
+        "end": 26.02,
+        "word": " wäre,",
+        "probability": 0.9862396121025085
+      },
+      {
+        "start": 26.14,
+        "end": 26.22,
+        "word": " wenn",
+        "probability": 0.9943296909332275
+      },
+      {
+        "start": 26.22,
+        "end": 26.34,
+        "word": " du",
+        "probability": 0.943528413772583
+      },
+      {
+        "start": 26.34,
+        "end": 26.52,
+        "word": " das",
+        "probability": 0.9694833755493164
+      },
+      {
+        "start": 26.52,
+        "end": 27.04,
+        "word": " jederzeit",
+        "probability": 0.9915227890014648
+      },
+      {
+        "start": 27.04,
+        "end": 27.62,
+        "word": " könntest?",
+        "probability": 0.9872776865959167
+      },
+      {
+        "start": 28.04,
+        "end": 28.2,
+        "word": " Immer",
+        "probability": 0.9628130793571472
+      },
+      {
+        "start": 28.2,
+        "end": 28.58,
+        "word": " genau",
+        "probability": 0.9944763779640198
+      },
+      {
+        "start": 28.58,
+        "end": 28.84,
+        "word": " eine",
+        "probability": 0.9218593835830688
+      },
+      {
+        "start": 28.84,
+        "end": 29.12,
+        "word": " Minute",
+        "probability": 0.992665708065033
+      },
+      {
+        "start": 29.12,
+        "end": 29.8,
+        "word": " voraus.",
+        "probability": 0.9843104084332784
+      }
+    ]
+  },
+  {
+    "start": 30.18,
+    "end": 33.7,
+    "text": " Am ersten Tag wäre diese Fähigkeit vermutlich das Beste, was dir je passiert ist.",
+    "words": [
+      {
+        "start": 30.18,
+        "end": 30.28,
+        "word": " Am",
+        "probability": 0.9579046964645386
+      },
+      {
+        "start": 30.28,
+        "end": 30.48,
+        "word": " ersten",
+        "probability": 0.8408948183059692
+      },
+      {
+        "start": 30.48,
+        "end": 30.8,
+        "word": " Tag",
+        "probability": 0.9896676540374756
+      },
+      {
+        "start": 30.8,
+        "end": 31.0,
+        "word": " wäre",
+        "probability": 0.9915910959243774
+      },
+      {
+        "start": 31.0,
+        "end": 31.24,
+        "word": " diese",
+        "probability": 0.9881858825683594
+      },
+      {
+        "start": 31.24,
+        "end": 31.78,
+        "word": " Fähigkeit",
+        "probability": 0.9925510088602701
+      },
+      {
+        "start": 31.78,
+        "end": 32.14,
+        "word": " vermutlich",
+        "probability": 0.9850494265556335
+      },
+      {
+        "start": 32.14,
+        "end": 32.32,
+        "word": " das",
+        "probability": 0.9969237446784973
+      },
+      {
+        "start": 32.32,
+        "end": 32.64,
+        "word": " Beste,",
+        "probability": 0.918650895357132
+      },
+      {
+        "start": 32.68,
+        "end": 32.78,
+        "word": " was",
+        "probability": 0.9923099279403687
+      },
+      {
+        "start": 32.78,
+        "end": 32.9,
+        "word": " dir",
+        "probability": 0.9854906797409058
+      },
+      {
+        "start": 32.9,
+        "end": 33.04,
+        "word": " je",
+        "probability": 0.9628822207450867
+      },
+      {
+        "start": 33.04,
+        "end": 33.3,
+        "word": " passiert",
+        "probability": 0.9974629878997803
+      },
+      {
+        "start": 33.3,
+        "end": 33.7,
+        "word": " ist.",
+        "probability": 0.9898366332054138
+      }
+    ]
+  },
+  {
+    "start": 34.08,
+    "end": 36.58,
+    "text": " Du würdest dein Glas auffangen, bevor es vom Tisch fällt,",
+    "words": [
+      {
+        "start": 34.08,
+        "end": 34.16,
+        "word": " Du",
+        "probability": 0.9930205941200256
+      },
+      {
+        "start": 34.16,
+        "end": 34.42,
+        "word": " würdest",
+        "probability": 0.9821849167346954
+      },
+      {
+        "start": 34.42,
+        "end": 34.6,
+        "word": " dein",
+        "probability": 0.5330896973609924
+      },
+      {
+        "start": 34.6,
+        "end": 34.98,
+        "word": " Glas",
+        "probability": 0.9948009252548218
+      },
+      {
+        "start": 34.98,
+        "end": 35.54,
+        "word": " auffangen,",
+        "probability": 0.9692073861757914
+      },
+      {
+        "start": 35.62,
+        "end": 35.84,
+        "word": " bevor",
+        "probability": 0.9979134202003479
+      },
+      {
+        "start": 35.84,
+        "end": 36.0,
+        "word": " es",
+        "probability": 0.9797582626342773
+      },
+      {
+        "start": 36.0,
+        "end": 36.12,
+        "word": " vom",
+        "probability": 0.997309684753418
+      },
+      {
+        "start": 36.12,
+        "end": 36.34,
+        "word": " Tisch",
+        "probability": 0.991486668586731
+      },
+      {
+        "start": 36.34,
+        "end": 36.58,
+        "word": " fällt,",
+        "probability": 0.9815824031829834
+      }
+    ]
+  },
+  {
+    "start": 37.1,
+    "end": 41.04,
+    "text": " die langsame Supermarktkasse vermeiden und genau wissen,",
+    "words": [
+      {
+        "start": 37.1,
+        "end": 37.2,
+        "word": " die",
+        "probability": 0.9909708499908447
+      },
+      {
+        "start": 37.2,
+        "end": 37.74,
+        "word": " langsame",
+        "probability": 0.7021729350090027
+      },
+      {
+        "start": 37.74,
+        "end": 38.98,
+        "word": " Supermarktkasse",
+        "probability": 0.9576678574085236
+      },
+      {
+        "start": 38.98,
+        "end": 39.54,
+        "word": " vermeiden",
+        "probability": 0.9929768145084381
+      },
+      {
+        "start": 39.54,
+        "end": 40.16,
+        "word": " und",
+        "probability": 0.5757614970207214
+      },
+      {
+        "start": 40.16,
+        "end": 40.6,
+        "word": " genau",
+        "probability": 0.992901623249054
+      },
+      {
+        "start": 40.6,
+        "end": 41.04,
+        "word": " wissen,",
+        "probability": 0.9963409304618835
+      }
+    ]
+  },
+  {
+    "start": 41.18,
+    "end": 41.98,
+    "text": " wann du losrehst.",
+    "words": [
+      {
+        "start": 41.18,
+        "end": 41.32,
+        "word": " wann",
+        "probability": 0.9907599687576294
+      },
+      {
+        "start": 41.32,
+        "end": 41.52,
+        "word": " du",
+        "probability": 0.9895761013031006
+      },
+      {
+        "start": 41.52,
+        "end": 41.98,
+        "word": " losrehst.",
+        "probability": 0.6545920247832934
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "rear_foot_drift_px": 0,
+  "planted_front_foot_y": 973.5,
+  "near_curb_y": 954,
+  "maximum_front_foot_lift_px": 41.4,
+  "vehicle_never_reverses": true,
+  "vehicle_front_reaches_crosswalk_frame": 519,
+  "vehicle_rear_clears_crosswalk_frame": 546,
+  "key_samples": [
+    {
+      "frame": 436,
+      "front": [
+        53,
+        0
+      ],
+      "car_x": -400
+    },
+    {
+      "frame": 454,
+      "front": [
+        69.58025951304855,
+        -21.185887155562035
+      ],
+      "car_x": -249.76749999999998
+    },
+    {
+      "frame": 464,
+      "front": [
+        89,
+        -46
+      ],
+      "car_x": -174.88000000000005
+    },
+    {
+      "frame": 475,
+      "front": [
+        71,
+        -23
+      ],
+      "car_x": -79.87093750000005
+    },
+    {
+      "frame": 486,
+      "front": [
+        53,
+        0
+      ],
+      "car_x": 20.655623436795267
+    },
+    {
+      "frame": 505,
+      "front": [
+        53,
+        0
+      ],
+      "car_x": 260
+    },
+    {
+      "frame": 530,
+      "front": [
+        53,
+        0
+      ],
+      "car_x": 935.0728862973759
+    },
+    {
+      "frame": 550,
+      "front": [
+        53,
+        0
+      ],
+      "car_x": 1621.1385307879098
+    },
+    {
+      "frame": 577,
+      "front": [
+        53,
+        0
+      ],
+      "car_x": 2590
+    }
+  ]
+}
