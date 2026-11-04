@@ -1,0 +1,361 @@
+{
+  "duration": 344.0,
+  "source_duration": 343.379563,
+  "source_sha256": "a8c8cb8080f4c1f3c2136e0ef8e233a157140aaf7fcf6b2e044e4b43ec76da38",
+  "speed": 1,
+  "pitch_changed": false,
+  "source_kept_complete": true,
+  "sample_rate": 48000,
+  "music": [
+    "The Descent",
+    "Carefree",
+    "Dream Culture"
+  ],
+  "speech_ducking": true,
+  "master_gain_db": -0.16000000000000014,
+  "events": [
+    {
+      "time": 6.447,
+      "duration": 1.05,
+      "source": "Existing original Absurditas foley without voice",
+      "name": "vehicle / tyre"
+    },
+    {
+      "time": 19.567,
+      "duration": 4.6,
+      "source": "Existing original Absurditas foley without voice",
+      "name": "vehicle / tyre"
+    },
+    {
+      "time": 0.02,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 9.03,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 44.253,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 64.987,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 70.563,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 80.987,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 87.33,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 98.287,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 102.15,
+      "duration": 0.35,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "click-soft.mp3"
+    },
+    {
+      "time": 116.33,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 118.787,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 122.083,
+      "duration": 0.35,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "click-soft.mp3"
+    },
+    {
+      "time": 127.917,
+      "duration": 0.35,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "click-soft.mp3"
+    },
+    {
+      "time": 133.417,
+      "duration": 0.35,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "click-soft.mp3"
+    },
+    {
+      "time": 144.587,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 150.887,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 158.197,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 183.73,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 186.287,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 191.253,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 206.263,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 215.753,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 229.487,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 263.353,
+      "duration": 0.55,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 281.03,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 301.863,
+      "duration": 0.45,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "whoosh-short.mp3"
+    },
+    {
+      "time": 70.893,
+      "duration": 0.65,
+      "source": "Original deterministic sound design",
+      "name": "cloth"
+    },
+    {
+      "time": 72.083,
+      "duration": 0.42,
+      "source": "Original deterministic sound design",
+      "name": "cup"
+    },
+    {
+      "time": 66.351,
+      "duration": 1.3,
+      "source": "Original deterministic sound design",
+      "name": "pour"
+    },
+    {
+      "time": 73.733,
+      "duration": 0.45,
+      "source": "Original deterministic sound design",
+      "name": "cloth"
+    },
+    {
+      "time": 87.36,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 87.516,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 87.672,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 87.828,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 87.984,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 88.14,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 88.296,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 88.451,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 88.607,
+      "duration": 0.16,
+      "source": "Original deterministic sound design",
+      "name": "footstep"
+    },
+    {
+      "time": 81.467,
+      "duration": 5.85333,
+      "source": "Original deterministic sound design",
+      "name": "train"
+    },
+    {
+      "time": 88.933,
+      "duration": 0.13,
+      "source": "Original deterministic sound design",
+      "name": "beep"
+    },
+    {
+      "time": 89.233,
+      "duration": 0.13,
+      "source": "Original deterministic sound design",
+      "name": "beep"
+    },
+    {
+      "time": 91.75,
+      "duration": 0.13,
+      "source": "Original deterministic sound design",
+      "name": "beep"
+    },
+    {
+      "time": 88.783,
+      "duration": 0.65,
+      "source": "Original deterministic sound design",
+      "name": "door"
+    },
+    {
+      "time": 91.9,
+      "duration": 3.48667,
+      "source": "Original deterministic sound design",
+      "name": "train"
+    },
+    {
+      "time": 102.3,
+      "duration": 0.4,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "key-press.mp3"
+    },
+    {
+      "time": 123.6,
+      "duration": 0.8,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "notification.mp3"
+    },
+    {
+      "time": 151.217,
+      "duration": 0.2,
+      "source": "Original deterministic sound design",
+      "name": "kick"
+    },
+    {
+      "time": 151.967,
+      "duration": 1.50333,
+      "source": "Original deterministic sound design",
+      "name": "crowd"
+    },
+    {
+      "time": 155.883,
+      "duration": 0.2,
+      "source": "Original deterministic sound design",
+      "name": "kick"
+    },
+    {
+      "time": 156.633,
+      "duration": 1.6033400000000002,
+      "source": "Original deterministic sound design",
+      "name": "crowd"
+    },
+    {
+      "time": 160.383,
+      "duration": 0.5,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "error.mp3"
+    },
+    {
+      "time": 270.933,
+      "duration": 0.65,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "notification.mp3"
+    },
+    {
+      "time": 304.383,
+      "duration": 0.35,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "click-soft.mp3"
+    },
+    {
+      "time": 339.533,
+      "duration": 0.35,
+      "source": "HyperFrames bundled Pixabay",
+      "name": "click-soft.mp3"
+    }
+  ],
+  "critical_listening": false
+}

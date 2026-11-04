@@ -1,0 +1,13 @@
+# Konkrete Logik- und Schnittentscheidungen
+
+- Ein Vorausblick zeigt einen kurzen Moment aus der eigenen Sicht bei Jetzt +60 Sekunden. Er spielt nicht die gesamte folgende Minute ab. Das Ergebnis hängt vom bisherigen Kurs ab; eine geänderte Entscheidung kann es verändern. Weder die Gegenwart noch Gespräche werden zurückgespult.
+- Der Hook zeigt zuerst eine mögliche Unfallfolge. In der Gegenwart bleibt die Figur auf dem Gehweg. Der Lieferwagen fährt auf der Fahrbahn bei Rot; die Fußgängerampel ist grün. 07:59 und 08:00 auf der Armbanduhr machen die Minute konkret. Die erzählte Zeit wird durch die Montage verkürzt.
+- Die Kaffeetasse steht zuerst bei x830. In der Vision kippt sie und Kaffee erreicht die Tastatur. Tatsächlich wird sie nach links zu x740 versetzt. Danach streift der Ärmel die leere alte Stelle. Der Laptop bleibt trocken. Hand und Tasse folgen derselben Bewegung.
+- Beim verpassten Zug sieht man geschlossene Türen. Tatsächlich läuft die Figur zum offenen Einstieg und steigt mit dem Rücken zur Kamera ein. Ein Wechsel zwischen Außen- und Innenebene übernimmt die korrekte Türverdeckung; ein naher Blick auf den Schritt hält die Aktion lesbar.
+- Der Börsenwert ist vor dem Kauf 100,00 €, im Vorausblick 101,28 €. Zehn Anteile ergeben 12,80 € Kursgewinn. 2,90 € Gebühren und 1,40 € schlechtere Ausführung ergeben 8,50 € netto. Dies sind ausdrücklich illustrative Werte.
+- Die Lottoziehung liegt bei 20:00; Jetzt ist 14:28, der Vorausblick reicht bis 14:29. Er liefert keine Lottozahlen für den Abend.
+- Der Fußball wird über die Torlinie gespielt, kurz ein 1:0 angezeigt, danach prüft der Videoassistent. Das aberkannte Tor setzt die Anzeige auf 0:0. Die gezeigte Wette bleibt offen: Ein aberkanntes Tor bedeutet für diese dargestellte Nächstes-Tor-Wette keine automatische Niederlage oder Auszahlung.
+- Die freie Straße ist ein einzelner Zukunftsmoment und keine Sicherheitsgarantie für die ganze Minute. Das Smartphone ist vor dem Einstecken sichtbar; anschließend blickt die Figur in beide Richtungen.
+- Beim Gespräch werden die verletzten Reaktionen nur als Möglichkeiten markiert. Der Freund fragt in der tatsächlich laufenden Gegenwart nach Aufmerksamkeit. Es gibt keinen magischen Neustart des Gesprächs.
+- Der Anruf wird zuerst in der Hand, danach auf dem Tisch mit Lautsprecher inszeniert. Die Gegeneinstellung zeigt den Freund in seinem eigenen Raum. Es wird keine neue, nicht gelieferte Freundesstimme erfunden.
+- Der Schluss fragt nach der persönlichen Entscheidung und enthält den gesprochenen und sichtbaren Abo-Aufruf. Stil, Kleidung und Figuridentität bleiben erhalten.

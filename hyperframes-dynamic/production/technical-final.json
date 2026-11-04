@@ -1,0 +1,32 @@
+{
+  "file": "WhatIf_Eine_Minute_Voraus_HyperFrames_Dynamic_v2_1080p.mp4",
+  "sha256": "f9140e5ea3c7369f0cda14118f1845c042465d94fd0dd0a3424772e2156cc61b",
+  "bytes": 80258998,
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "duration": "344.000000",
+    "nb_read_frames": "10320",
+    "pix_fmt": "yuv420p"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "344.000000"
+  },
+  "full_decode": "passed",
+  "black_frames": 0,
+  "minimum_frame_mean_rgb": 96.40287037037037,
+  "audio_peak": 0.7568538188934326,
+  "voice_to_decoded_mix_correlation_at_zero_lag": 0.9922356595168728,
+  "loudness": {
+    "input_i": "-14.53",
+    "input_tp": "-2.40",
+    "input_lra": "3.10"
+  },
+  "review_frames": 636,
+  "critical_listening": false
+}

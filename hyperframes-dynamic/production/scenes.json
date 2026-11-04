@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "s001-ground",
+    "start": 0,
+    "world": "street",
+    "action": "ground",
+    "camera": [
+      950,
+      833,
+      3.4
+    ],
+    "future": true,
+    "accent": "ASPHALT.",
+    "anchor": "",
+    "match": 1,
+    "end": 3.22,
+    "duration": 3.22
+  },
+  {
+    "id": "s002-broken",
+    "start": 3.0,
+    "world": "street",
+    "action": "broken",
+    "camera": [
+      872,
+      855,
+      4.0
+    ],
+    "future": true,
+    "accent": "ZERBROCHEN.",
+    "anchor": "Neben dir liegt",
+    "match": 1.0,
+    "end": 6.58667,
+    "duration": 3.58667
+  },
+  {
+    "id": "s003-brake",
+    "start": 6.36667,
+    "world": "street",
+    "action": "brake",
+    "camera": [
+      1470,
+      790,
+      2.5
+    ],
+    "future": true,
+    "accent": "BREMSEN.",
+    "anchor": "Bremsen kreischen",
+    "match": 1.0,
+    "end": 9.22,
+    "duration": 2.85333
+  },
+  {
+    "id": "s004-return",
+    "start": 9.0,
+    "world": "street",
+    "action": "return",
+    "camera": [
+      900,
+      554,
+      1.04
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du stehst noch",
+    "match": 1.0,
+    "end": 11.38667,
+    "duration": 2.38667
+  },
+  {
+    "id": "s005-realize",
+    "start": 11.16667,
+    "world": "street",
+    "action": "realize",
+    "camera": [
+      820,
+      454,
+      1.85
+    ],
+    "future": false,
+    "accent": "KEIN ALBTRAUM.",
+    "anchor": "Das war kein Albtraum",
+    "match": 1.0,
+    "end": 13.18667,
+    "duration": 2.02
+  },
+  {
+    "id": "s006-watch",
+    "start": 12.96667,
+    "world": "street",
+    "action": "watch",
+    "camera": [
+      920,
+      668,
+      2.1
+    ],
+    "future": false,
+    "accent": "GLEICH PASSIERT ES.",
+    "anchor": "Du hast gesehen",
+    "match": 1.0,
+    "end": 16.45333,
+    "duration": 3.48666
+  },
+  {
+    "id": "s007-green",
+    "start": 16.23333,
+    "world": "street",
+    "action": "green",
+    "camera": [
+      1060,
+      580,
+      1.12
+    ],
+    "future": false,
+    "accent": "GRÜN.",
+    "anchor": "Als die Ampel",
+    "match": 1.0,
+    "end": 19.78667,
+    "duration": 3.55334
+  },
+  {
+    "id": "s008-pass",
+    "start": 19.56667,
+    "world": "street",
+    "action": "pass",
+    "camera": [
+      1010,
+      620,
+      1.08
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Ein Lieferwagen",
+    "match": 1.0,
+    "end": 22.45333,
+    "duration": 2.88666
+  },
+  {
+    "id": "s009-driver",
+    "start": 22.23333,
+    "world": "street",
+    "action": "driver",
+    "camera": [
+      1150,
+      722,
+      2.15
+    ],
+    "future": false,
+    "accent": "ER HAT ROT.",
+    "anchor": "Der Fahrer hat Rot",
+    "match": 1.0,
+    "end": 24.38667,
+    "duration": 2.15334
+  },
+  {
+    "id": "s010-relief",
+    "start": 24.16667,
+    "world": "street",
+    "action": "relief",
+    "camera": [
+      820,
+      465,
+      1.62
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du lebst weil",
+    "match": 1.0,
+    "end": 28.22,
+    "duration": 4.05333
+  },
+  {
+    "id": "s011-question",
+    "start": 28.0,
+    "world": "street",
+    "action": "question",
+    "camera": [
+      960,
+      555,
+      1.02
+    ],
+    "future": false,
+    "accent": "1 MINUTE VORAUS?",
+    "anchor": "Was wäre wenn",
+    "match": 1.0,
+    "end": 33.28667,
+    "duration": 5.28667
+  },
+  {
+    "id": "s012-confident",
+    "start": 33.06667,
+    "world": "kitchen",
+    "action": "confident",
+    "camera": [
+      900,
+      570,
+      1.04
+    ],
+    "future": false,
+    "accent": "IMMER EINEN SCHRITT VORAUS.",
+    "anchor": "Zuerst klingt",
+    "match": 1.0,
+    "end": 42.35333,
+    "duration": 9.28666
+  },
+  {
+    "id": "s013-rule",
+    "start": 42.13333,
+    "world": "street",
+    "action": "rule",
+    "camera": [
+      840,
+      490,
+      1.42
+    ],
+    "future": false,
+    "accent": "EINE REGEL.",
+    "anchor": "Doch es gibt eine Regel",
+    "match": 1.0,
+    "end": 44.45333,
+    "duration": 2.32
+  },
+  {
+    "id": "s014-moment",
+    "start": 44.23333,
+    "world": "street",
+    "action": "moment",
+    "camera": [
+      1040,
+      690,
+      1.5
+    ],
+    "future": true,
+    "accent": "EIN AUSSCHNITT.",
+    "anchor": "Du siehst keine ganze Minute",
+    "match": 1.0,
+    "end": 47.48667,
+    "duration": 3.25334
+  },
+  {
+    "id": "s015-perspective",
+    "start": 47.26667,
+    "world": "street",
+    "action": "perspective",
+    "camera": [
+      950,
+      746,
+      1.8
+    ],
+    "future": true,
+    "accent": "DEINE PERSPEKTIVE.",
+    "anchor": "Du bekommst einen kurzen Ausschnitt",
+    "match": 1.0,
+    "end": 50.58667,
+    "duration": 3.32
+  },
+  {
+    "id": "s016-watchfuture",
+    "start": 50.36667,
+    "world": "street",
+    "action": "watchfuture",
+    "camera": [
+      920,
+      668,
+      2.1
+    ],
+    "future": true,
+    "accent": "GENAU +60 SEKUNDEN.",
+    "anchor": "genau 60 Sekunden später",
+    "match": 1.0,
+    "end": 52.85333,
+    "duration": 2.48666
+  },
+  {
+    "id": "s017-path",
+    "start": 52.63333,
+    "world": "street",
+    "action": "path",
+    "camera": [
+      950,
+      575,
+      1.06
+    ],
+    "future": true,
+    "accent": "",
+    "anchor": "Er zeigt was passieren würde",
+    "match": 1.0,
+    "end": 57.15333,
+    "duration": 4.52
+  },
+  {
+    "id": "s018-choose",
+    "start": 56.93333,
+    "world": "street",
+    "action": "choose",
+    "camera": [
+      950,
+      575,
+      1.06
+    ],
+    "future": false,
+    "accent": "DU ÄNDERST DEN KURS.",
+    "anchor": "Änderst du deine Entscheidung",
+    "match": 1.0,
+    "end": 60.35333,
+    "duration": 3.42
+  },
+  {
+    "id": "s019-noreset",
+    "start": 60.13333,
+    "world": "street",
+    "action": "noreset",
+    "camera": [
+      820,
+      480,
+      1.6
+    ],
+    "future": false,
+    "accent": "KEIN ZURÜCKSPULEN.",
+    "anchor": "Nachsehen kannst du",
+    "match": 1.0,
+    "end": 62.95333,
+    "duration": 2.82
+  },
+  {
+    "id": "s020-establish",
+    "start": 62.73333,
+    "world": "kitchen",
+    "action": "establish",
+    "camera": [
+      950,
+      558,
+      1.0
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du probierst es aus",
+    "match": 1.0,
+    "end": 65.18667,
+    "duration": 2.45334
+  },
+  {
+    "id": "s021-spill",
+    "start": 64.96667,
+    "world": "kitchen",
+    "action": "spill",
+    "camera": [
+      980,
+      747,
+      2.05
+    ],
+    "future": true,
+    "accent": "",
+    "anchor": "In der Küche siehst du Kaffee",
+    "match": 1.0,
+    "end": 68.18667,
+    "duration": 3.22
+  },
+  {
+    "id": "s022-sleeve",
+    "start": 67.96667,
+    "world": "kitchen",
+    "action": "sleeve",
+    "camera": [
+      829,
+      740,
+      2.65
+    ],
+    "future": false,
+    "accent": "DEIN ÄRMEL.",
+    "anchor": "Dein Ärmel hängt",
+    "match": 1.0,
+    "end": 70.75333,
+    "duration": 2.78666
+  },
+  {
+    "id": "s023-move",
+    "start": 70.53333,
+    "world": "kitchen",
+    "action": "move",
+    "camera": [
+      812,
+      744,
+      2.5
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Diesmal schiebst du sie weg",
+    "match": 1.0,
+    "end": 73.45333,
+    "duration": 2.92
+  },
+  {
+    "id": "s024-brush",
+    "start": 73.23333,
+    "world": "kitchen",
+    "action": "brush",
+    "camera": [
+      845,
+      737,
+      2.3
+    ],
+    "future": false,
+    "accent": "DIE STELLE BLEIBT FREI.",
+    "anchor": "Eine Minute später streift",
+    "match": 1.0,
+    "end": 77.45333,
+    "duration": 4.22
+  },
+  {
+    "id": "s025-dry",
+    "start": 77.23333,
+    "world": "kitchen",
+    "action": "dry",
+    "camera": [
+      1120,
+      656,
+      2.4
+    ],
+    "future": false,
+    "accent": "LAPTOP GERETTET.",
+    "anchor": "Keine Tasse",
+    "match": 1.0,
+    "end": 81.18667,
+    "duration": 3.95334
+  },
+  {
+    "id": "s026-missed",
+    "start": 80.96667,
+    "world": "station",
+    "action": "missed",
+    "camera": [
+      1100,
+      560,
+      1.25
+    ],
+    "future": true,
+    "accent": "KNAPP VERPASST.",
+    "anchor": "Draußen zeigt dein Vorausblick",
+    "match": 1.0,
+    "end": 87.52,
+    "duration": 6.55333
+  },
+  {
+    "id": "s027-run",
+    "start": 87.3,
+    "world": "station",
+    "action": "run",
+    "camera": [
+      940,
+      585,
+      1.02
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Also läufst du los",
+    "match": 1.0,
+    "end": 88.95333,
+    "duration": 1.65333
+  },
+  {
+    "id": "s028-board",
+    "start": 88.73333,
+    "world": "station",
+    "action": "board",
+    "camera": [
+      1150,
+      865,
+      2.1
+    ],
+    "future": false,
+    "accent": "GESCHAFFT.",
+    "anchor": "und steigst rechtzeitig ein",
+    "match": 1.0,
+    "end": 91.92,
+    "duration": 3.18667
+  },
+  {
+    "id": "s029-depart",
+    "start": 91.7,
+    "world": "station",
+    "action": "depart",
+    "camera": [
+      960,
+      570,
+      1.0
+    ],
+    "future": false,
+    "accent": "ZWEI BESSERE ERGEBNISSE.",
+    "anchor": "Zwei Entscheidungen",
+    "match": 1.0,
+    "end": 95.48667,
+    "duration": 3.78667
+  },
+  {
+    "id": "s030-boss",
+    "start": 95.26667,
+    "world": "office",
+    "action": "boss",
+    "camera": [
+      965,
+      570,
+      1.0
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Bei der Arbeit",
+    "match": 1.0,
+    "end": 98.48667,
+    "duration": 3.22
+  },
+  {
+    "id": "s031-search",
+    "start": 98.26667,
+    "world": "office",
+    "action": "search",
+    "camera": [
+      1120,
+      625,
+      2.4
+    ],
+    "future": true,
+    "accent": "WO IST DIE ZAHL?",
+    "anchor": "Im Vorausblick suchst du",
+    "match": 1.0,
+    "end": 102.02,
+    "duration": 3.75333
+  },
+  {
+    "id": "s032-answer",
+    "start": 101.8,
+    "world": "office",
+    "action": "answer",
+    "camera": [
+      1120,
+      625,
+      2.4
+    ],
+    "future": false,
+    "accent": "RECHTZEITIG.",
+    "anchor": "Jetzt öffnest du",
+    "match": 1.0,
+    "end": 105.78667,
+    "duration": 3.98667
+  },
+  {
+    "id": "s033-joke",
+    "start": 105.56667,
+    "world": "office",
+    "action": "joke",
+    "camera": [
+      1040,
+      525,
+      1.18
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Eine Kollegin",
+    "match": 1.0,
+    "end": 109.75333,
+    "duration": 4.18666
+  },
+  {
+    "id": "s034-laugh",
+    "start": 109.53333,
+    "world": "office",
+    "action": "laugh",
+    "camera": [
+      640,
+      463,
+      1.85
+    ],
+    "future": false,
+    "accent": "DU KENNST DIE POINTE.",
+    "anchor": "Du lachst trotzdem",
+    "match": 1.0,
+    "end": 112.68667,
+    "duration": 3.15334
+  },
+  {
+    "id": "s035-money",
+    "start": 112.46667,
+    "world": "stock",
+    "action": "money",
+    "camera": [
+      930,
+      563,
+      1.05
+    ],
+    "future": false,
+    "accent": "REICH WERDEN?",
+    "anchor": "Dann kommt die Frage",
+    "match": 1.0,
+    "end": 116.52,
+    "duration": 4.05333
+  },
+  {
+    "id": "s036-chart",
+    "start": 116.3,
+    "world": "stock",
+    "action": "chart",
+    "camera": [
+      1120,
+      629,
+      2.35
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du öffnest einen Aktienkurs",
+    "match": 1.0,
+    "end": 118.98667,
+    "duration": 2.68667
+  },
+  {
+    "id": "s037-rise",
+    "start": 118.76667,
+    "world": "stock",
+    "action": "rise",
+    "camera": [
+      1120,
+      629,
+      2.35
+    ],
+    "future": true,
+    "accent": "DER PREIS STEIGT.",
+    "anchor": "Ein Blick voraus",
+    "match": 1.0,
+    "end": 121.95333,
+    "duration": 3.18666
+  },
+  {
+    "id": "s038-buy",
+    "start": 121.73333,
+    "world": "stock",
+    "action": "buy",
+    "camera": [
+      1120,
+      629,
+      2.35
+    ],
+    "future": false,
+    "accent": "KAUFEN.",
+    "anchor": "Du kaufst",
+    "match": 1.0,
+    "end": 123.42,
+    "duration": 1.68667
+  },
+  {
+    "id": "s039-profit",
+    "start": 123.2,
+    "world": "stock",
+    "action": "profit",
+    "camera": [
+      1120,
+      629,
+      2.35
+    ],
+    "future": false,
+    "accent": "ERSTER GEWINN.",
+    "anchor": "Kurz darauf erscheint",
+    "match": 1.0,
+    "end": 126.05333,
+    "duration": 2.85333
+  },
+  {
+    "id": "s040-repeat",
+    "start": 125.83333,
+    "world": "stock",
+    "action": "repeat",
+    "camera": [
+      945,
+      567,
+      1.1
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du versuchst es wieder",
+    "match": 1.0,
+    "end": 127.78667,
+    "duration": 1.95334
+  },
+  {
+    "id": "s041-fees",
+    "start": 127.56667,
+    "world": "stock",
+    "action": "fees",
+    "camera": [
+      1120,
+      629,
+      2.35
+    ],
+    "future": false,
+    "accent": "DIE KOSTEN BLEIBEN.",
+    "anchor": "Doch Gebühren",
+    "match": 1.0,
+    "end": 133.28667,
+    "duration": 5.72
+  },
+  {
+    "id": "s042-net",
+    "start": 133.06667,
+    "world": "stock",
+    "action": "net",
+    "camera": [
+      1120,
+      629,
+      2.35
+    ],
+    "future": false,
+    "accent": "KURS ≠ NETTOGEWINN.",
+    "anchor": "Den Kurs hast du",
+    "match": 1.0,
+    "end": 139.82,
+    "duration": 6.75333
+  },
+  {
+    "id": "s043-lotto",
+    "start": 139.6,
+    "world": "stock",
+    "action": "lotto",
+    "camera": [
+      1230,
+      715,
+      2.0
+    ],
+    "future": false,
+    "accent": "ZIEHUNG: HEUTE ABEND.",
+    "anchor": "Und die Lotto",
+    "match": 1.0,
+    "end": 144.78667,
+    "duration": 5.18667
+  },
+  {
+    "id": "s044-horizon",
+    "start": 144.56667,
+    "world": "stock",
+    "action": "horizon",
+    "camera": [
+      1170,
+      680,
+      1.85
+    ],
+    "future": true,
+    "accent": "NUR DIE NÄCHSTE MINUTE.",
+    "anchor": "Dein Blick reicht",
+    "match": 1.0,
+    "end": 147.75333,
+    "duration": 3.18666
+  },
+  {
+    "id": "s045-football",
+    "start": 147.53333,
+    "world": "living",
+    "action": "football",
+    "camera": [
+      960,
+      555,
+      1.0
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Beim Fußball",
+    "match": 1.0,
+    "end": 151.08667,
+    "duration": 3.55334
+  },
+  {
+    "id": "s046-goalvision",
+    "start": 150.86667,
+    "world": "living",
+    "action": "goalvision",
+    "camera": [
+      1070,
+      488,
+      1.42
+    ],
+    "future": true,
+    "accent": "TOR?",
+    "anchor": "Du siehst einen Stürmer",
+    "match": 1.0,
+    "end": 153.62,
+    "duration": 2.75333
+  },
+  {
+    "id": "s047-bet",
+    "start": 153.4,
+    "world": "living",
+    "action": "bet",
+    "camera": [
+      960,
+      580,
+      1.0
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du setzt auf das Tor",
+    "match": 1.0,
+    "end": 155.75333,
+    "duration": 2.35333
+  },
+  {
+    "id": "s048-goal",
+    "start": 155.53333,
+    "world": "living",
+    "action": "goal",
+    "camera": [
+      1070,
+      488,
+      1.42
+    ],
+    "future": false,
+    "accent": "TOR!",
+    "anchor": "Der Ball geht rein",
+    "match": 1.0,
+    "end": 158.38667,
+    "duration": 2.85334
+  },
+  {
+    "id": "s049-var",
+    "start": 158.16667,
+    "world": "living",
+    "action": "var",
+    "camera": [
+      960,
+      478,
+      1.45
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Dann meldet sich",
+    "match": 1.0,
+    "end": 160.45333,
+    "duration": 2.28666
+  },
+  {
+    "id": "s050-offside",
+    "start": 160.23333,
+    "world": "living",
+    "action": "offside",
+    "camera": [
+      1050,
+      488,
+      1.42
+    ],
+    "future": false,
+    "accent": "ABSEITS.",
+    "anchor": "Abseits",
+    "match": 1.0,
+    "end": 164.48667,
+    "duration": 4.25334
+  },
+  {
+    "id": "s051-limited",
+    "start": 164.26667,
+    "world": "living",
+    "action": "limited",
+    "camera": [
+      960,
+      555,
+      1.0
+    ],
+    "future": false,
+    "accent": "DER AUSSCHNITT WAR ZU KURZ.",
+    "anchor": "Dein Ausschnitt hatte",
+    "match": 1.0,
+    "end": 167.62,
+    "duration": 3.35333
+  },
+  {
+    "id": "s052-pending",
+    "start": 167.4,
+    "world": "living",
+    "action": "pending",
+    "camera": [
+      960,
+      580,
+      1.0
+    ],
+    "future": false,
+    "accent": "ABGEGEBEN. NICHT GEWONNEN.",
+    "anchor": "Die Wette ist längst",
+    "match": 1.0,
+    "end": 170.15333,
+    "duration": 2.75333
+  },
+  {
+    "id": "s053-reaction",
+    "start": 169.93333,
+    "world": "living",
+    "action": "reaction",
+    "camera": [
+      620,
+      760,
+      1.7
+    ],
+    "future": false,
+    "accent": "RICHTIG GESEHEN. FALSCH GEDEUTET.",
+    "anchor": "Du hast etwas Richtiges",
+    "match": 1.0,
+    "end": 174.85333,
+    "duration": 4.92
+  },
+  {
+    "id": "s054-overconfident",
+    "start": 174.63333,
+    "world": "stock",
+    "action": "overconfident",
+    "camera": [
+      640,
+      466,
+      1.75
+    ],
+    "future": false,
+    "accent": "ZU SICHER.",
+    "anchor": "Genau hier wird",
+    "match": 1.0,
+    "end": 180.12,
+    "duration": 5.48667
+  },
+  {
+    "id": "s055-information",
+    "start": 179.9,
+    "world": "stock",
+    "action": "information",
+    "camera": [
+      1120,
+      629,
+      2.35
+    ],
+    "future": false,
+    "accent": "WAS FEHLT IM BILD?",
+    "anchor": "Also vergisst du",
+    "match": 0.9629629629629629,
+    "end": 183.92,
+    "duration": 4.02
+  },
+  {
+    "id": "s056-crossing",
+    "start": 183.7,
+    "world": "street",
+    "action": "crossing",
+    "camera": [
+      960,
+      550,
+      1.05
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "An der nächsten Kreuzung",
+    "match": 1.0,
+    "end": 186.48667,
+    "duration": 2.78667
+  },
+  {
+    "id": "s057-empty",
+    "start": 186.26667,
+    "world": "street",
+    "action": "empty",
+    "camera": [
+      1175,
+      715,
+      1.55
+    ],
+    "future": true,
+    "accent": "EIN FREIER MOMENT.",
+    "anchor": "Freie Straße",
+    "match": 1.0,
+    "end": 189.25333,
+    "duration": 2.98666
+  },
+  {
+    "id": "s058-stop",
+    "start": 189.03333,
+    "world": "street",
+    "action": "stop",
+    "camera": [
+      840,
+      610,
+      1.35
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Dann hältst du inne",
+    "match": 1.0,
+    "end": 191.45333,
+    "duration": 2.42
+  },
+  {
+    "id": "s059-single",
+    "start": 191.23333,
+    "world": "street",
+    "action": "single",
+    "camera": [
+      1160,
+      705,
+      1.4
+    ],
+    "future": true,
+    "accent": "EIN MOMENT ≠ EINE MINUTE.",
+    "anchor": "Du hast einen einzigen Moment",
+    "match": 1.0,
+    "end": 193.85333,
+    "duration": 2.62
+  },
+  {
+    "id": "s060-side",
+    "start": 193.63333,
+    "world": "street",
+    "action": "side",
+    "camera": [
+      1550,
+      525,
+      1.65
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Nicht alles was",
+    "match": 1.0,
+    "end": 198.28667,
+    "duration": 4.65334
+  },
+  {
+    "id": "s061-pocket",
+    "start": 198.06667,
+    "world": "street",
+    "action": "pocket",
+    "camera": [
+      900,
+      710,
+      1.9
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du steckst das Handy weg",
+    "match": 1.0,
+    "end": 199.55333,
+    "duration": 1.48666
+  },
+  {
+    "id": "s062-look",
+    "start": 199.33333,
+    "world": "street",
+    "action": "look",
+    "camera": [
+      820,
+      460,
+      1.6
+    ],
+    "future": false,
+    "accent": "LINKS. RECHTS. MITDENKEN.",
+    "anchor": "und schaust nach links",
+    "match": 1.0,
+    "end": 206.45333,
+    "duration": 7.12
+  },
+  {
+    "id": "s063-arrival",
+    "start": 206.23333,
+    "world": "cafe",
+    "action": "arrival",
+    "camera": [
+      960,
+      560,
+      1.0
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Bis hierhin hast du",
+    "match": 1.0,
+    "end": 210.95333,
+    "duration": 4.72
+  },
+  {
+    "id": "s064-friend",
+    "start": 210.73333,
+    "world": "cafe",
+    "action": "friend",
+    "camera": [
+      1300,
+      457,
+      1.65
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Jetzt sitzt dir",
+    "match": 1.0,
+    "end": 215.95333,
+    "duration": 5.22
+  },
+  {
+    "id": "s065-job",
+    "start": 215.73333,
+    "world": "cafe",
+    "action": "job",
+    "camera": [
+      1330,
+      500,
+      1.65
+    ],
+    "future": true,
+    "accent": "JOB VERLOREN.",
+    "anchor": "Du schaust voraus",
+    "match": 1.0,
+    "end": 222.98667,
+    "duration": 7.25334
+  },
+  {
+    "id": "s066-thinking",
+    "start": 222.76667,
+    "world": "cafe",
+    "action": "thinking",
+    "camera": [
+      640,
+      457,
+      1.9
+    ],
+    "future": false,
+    "accent": "DIE PERFEKTE ANTWORT?",
+    "anchor": "Sofort suchst du",
+    "match": 1.0,
+    "end": 229.68667,
+    "duration": 6.92
+  },
+  {
+    "id": "s067-hurt",
+    "start": 229.46667,
+    "world": "cafe",
+    "action": "hurt",
+    "camera": [
+      1315,
+      475,
+      1.65
+    ],
+    "future": true,
+    "accent": "",
+    "anchor": "Du prüfst eine Reaktion",
+    "match": 1.0,
+    "end": 234.28667,
+    "duration": 4.82
+  },
+  {
+    "id": "s068-tryagain",
+    "start": 234.06667,
+    "world": "cafe",
+    "action": "tryagain",
+    "camera": [
+      1330,
+      490,
+      1.65
+    ],
+    "future": true,
+    "accent": "NOCH EIN VERSUCH.",
+    "anchor": "Also versuchst du eine andere",
+    "match": 1.0,
+    "end": 240.25333,
+    "duration": 6.18666
+  },
+  {
+    "id": "s069-distracted",
+    "start": 240.03333,
+    "world": "cafe",
+    "action": "distracted",
+    "camera": [
+      980,
+      550,
+      1.08
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Während du mögliche Gespräche",
+    "match": 1.0,
+    "end": 244.78667,
+    "duration": 4.75334
+  },
+  {
+    "id": "s070-talk",
+    "start": 244.56667,
+    "world": "cafe",
+    "action": "talk",
+    "camera": [
+      1330,
+      470,
+      1.65
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Dein Freund erzählt",
+    "match": 1.0,
+    "end": 247.78667,
+    "duration": 3.22
+  },
+  {
+    "id": "s071-away",
+    "start": 247.56667,
+    "world": "cafe",
+    "action": "away",
+    "camera": [
+      640,
+      467,
+      1.8
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Dein Blick wandert weg",
+    "match": 1.0,
+    "end": 250.28667,
+    "duration": 2.72
+  },
+  {
+    "id": "s072-question",
+    "start": 250.06667,
+    "world": "cafe",
+    "action": "question",
+    "camera": [
+      1330,
+      480,
+      1.6
+    ],
+    "future": false,
+    "accent": "HÖRST DU MIR ZU?",
+    "anchor": "hörst du mir überhaupt zu",
+    "match": 1.0,
+    "end": 252.28667,
+    "duration": 2.22
+  },
+  {
+    "id": "s073-shock",
+    "start": 252.06667,
+    "world": "cafe",
+    "action": "shock",
+    "camera": [
+      640,
+      470,
+      1.85
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Diesen Satz hattest du",
+    "match": 1.0,
+    "end": 256.75333,
+    "duration": 4.68666
+  },
+  {
+    "id": "s074-distance",
+    "start": 256.53333,
+    "world": "cafe",
+    "action": "distance",
+    "camera": [
+      980,
+      550,
+      1.0
+    ],
+    "future": false,
+    "accent": "DER ECHTE MOMENT GEHT VERLOREN.",
+    "anchor": "dass du den Menschen",
+    "match": 1.0,
+    "end": 263.55333,
+    "duration": 7.02
+  },
+  {
+    "id": "s075-gift",
+    "start": 263.33333,
+    "world": "cafe",
+    "action": "gift",
+    "camera": [
+      1150,
+      775,
+      2.5
+    ],
+    "future": true,
+    "accent": "KEINE ÜBERRASCHUNG MEHR.",
+    "anchor": "Eine Überraschung",
+    "match": 1.0,
+    "end": 267.05333,
+    "duration": 3.72
+  },
+  {
+    "id": "s076-jokereprise",
+    "start": 266.83333,
+    "world": "office",
+    "action": "jokereprise",
+    "camera": [
+      1390,
+      485,
+      1.8
+    ],
+    "future": true,
+    "accent": "",
+    "anchor": "Ein Witz wartet",
+    "match": 1.0,
+    "end": 270.85333,
+    "duration": 4.02
+  },
+  {
+    "id": "s077-message",
+    "start": 270.63333,
+    "world": "dinner",
+    "action": "message",
+    "camera": [
+      960,
+      580,
+      1.0
+    ],
+    "future": true,
+    "accent": "SCHON GELESEN.",
+    "anchor": "Du kennst Nachrichten",
+    "match": 1.0,
+    "end": 274.05333,
+    "duration": 3.42
+  },
+  {
+    "id": "s078-reactions",
+    "start": 273.83333,
+    "world": "cafe",
+    "action": "reactions",
+    "camera": [
+      1315,
+      475,
+      1.65
+    ],
+    "future": true,
+    "accent": "",
+    "anchor": "Reaktionen bevor",
+    "match": 1.0,
+    "end": 277.75333,
+    "duration": 3.92
+  },
+  {
+    "id": "s079-compulsion",
+    "start": 277.53333,
+    "world": "dinner",
+    "action": "compulsion",
+    "camera": [
+      640,
+      450,
+      1.8
+    ],
+    "future": false,
+    "accent": "NUR NOCH EIN BLICK.",
+    "anchor": "Jeder Blick macht",
+    "match": 1.0,
+    "end": 281.22,
+    "duration": 3.68667
+  },
+  {
+    "id": "s080-dinner",
+    "start": 281.0,
+    "world": "dinner",
+    "action": "dinner",
+    "camera": [
+      960,
+      560,
+      1.0
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Am Abend sitzt",
+    "match": 1.0,
+    "end": 283.58667,
+    "duration": 2.58667
+  },
+  {
+    "id": "s081-temptation",
+    "start": 283.36667,
+    "world": "dinner",
+    "action": "temptation",
+    "camera": [
+      1090,
+      755,
+      2.1
+    ],
+    "future": false,
+    "accent": "WAS KOMMT GLEICH?",
+    "anchor": "Du könntest prüfen",
+    "match": 1.0,
+    "end": 289.65333,
+    "duration": 6.28666
+  },
+  {
+    "id": "s082-hesitate",
+    "start": 289.43333,
+    "world": "dinner",
+    "action": "hesitate",
+    "camera": [
+      640,
+      468,
+      1.85
+    ],
+    "future": false,
+    "accent": "NUR ZUR SICHERHEIT?",
+    "anchor": "Nur kurz",
+    "match": 1.0,
+    "end": 292.48667,
+    "duration": 3.05334
+  },
+  {
+    "id": "s083-wait",
+    "start": 292.26667,
+    "world": "dinner",
+    "action": "wait",
+    "camera": [
+      1020,
+      740,
+      2.1
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Eine Minute einfach",
+    "match": 1.0,
+    "end": 296.65333,
+    "duration": 4.38666
+  },
+  {
+    "id": "s084-uncertainty",
+    "start": 296.43333,
+    "world": "dinner",
+    "action": "uncertainty",
+    "camera": [
+      960,
+      550,
+      1.05
+    ],
+    "future": false,
+    "accent": "UNSICHERHEIT ZULASSEN.",
+    "anchor": "Früher musstest du",
+    "match": 1.0,
+    "end": 302.05333,
+    "duration": 5.62
+  },
+  {
+    "id": "s085-decide",
+    "start": 301.83333,
+    "world": "dinner",
+    "action": "decide",
+    "camera": [
+      640,
+      467,
+      1.75
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Genau das versuchst du",
+    "match": 1.0,
+    "end": 304.15333,
+    "duration": 2.32
+  },
+  {
+    "id": "s086-call",
+    "start": 303.93333,
+    "world": "dinner",
+    "action": "call",
+    "camera": [
+      960,
+      580,
+      1.0
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Du rufst deinen Freund",
+    "match": 1.0,
+    "end": 307.78667,
+    "duration": 3.85334
+  },
+  {
+    "id": "s087-speaker",
+    "start": 307.56667,
+    "world": "dinner",
+    "action": "speaker",
+    "camera": [
+      1100,
+      740,
+      2.0
+    ],
+    "future": false,
+    "accent": "OHNE VORAUSZUSCHAUEN.",
+    "anchor": "Ohne seine Antwort",
+    "match": 1.0,
+    "end": 310.48667,
+    "duration": 2.92
+  },
+  {
+    "id": "s088-apology",
+    "start": 310.26667,
+    "world": "dinner",
+    "action": "apology",
+    "camera": [
+      640,
+      470,
+      1.8
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Vorhin war ich abgelenkt",
+    "match": 1.0,
+    "end": 313.42,
+    "duration": 3.15333
+  },
+  {
+    "id": "s089-friendcall",
+    "start": 313.2,
+    "world": "cafe",
+    "action": "friendcall",
+    "camera": [
+      1315,
+      480,
+      1.6
+    ],
+    "future": false,
+    "accent": "",
+    "anchor": "Erzähl mir bitte",
+    "match": 1.0,
+    "end": 316.05333,
+    "duration": 2.85333
+  },
+  {
+    "id": "s090-listen",
+    "start": 315.83333,
+    "world": "dinner",
+    "action": "listen",
+    "camera": [
+      640,
+      470,
+      1.8
+    ],
+    "future": false,
+    "accent": "DU HÖRST ZU.",
+    "anchor": "Zum ersten Mal heute",
+    "match": 1.0,
+    "end": 321.45333,
+    "duration": 5.62
+  },
+  {
+    "id": "s091-saved",
+    "start": 321.23333,
+    "world": "street",
+    "action": "saved",
+    "camera": [
+      960,
+      555,
+      1.02
+    ],
+    "future": false,
+    "accent": "VORSPRUNG RETTET LEBEN.",
+    "anchor": "Eine Minute Vorsprung",
+    "match": 1.0,
+    "end": 325.12,
+    "duration": 3.88667
+  },
+  {
+    "id": "s092-life",
+    "start": 324.9,
+    "world": "dinner",
+    "action": "life",
+    "camera": [
+      960,
+      555,
+      1.02
+    ],
+    "future": false,
+    "accent": "WIE WILLST DU LEBEN?",
+    "anchor": "Trotzdem hat sie",
+    "match": 1.0,
+    "end": 329.62,
+    "duration": 4.72
+  },
+  {
+    "id": "s093-choice",
+    "start": 329.4,
+    "world": "dinner",
+    "action": "choice",
+    "camera": [
+      640,
+      470,
+      1.65
+    ],
+    "future": false,
+    "accent": "IMMER? NUR BEI GEFAHR?",
+    "anchor": "Würdest du ständig",
+    "match": 1.0,
+    "end": 333.28667,
+    "duration": 3.88667
+  },
+  {
+    "id": "s094-release",
+    "start": 333.06667,
+    "world": "dinner",
+    "action": "release",
+    "camera": [
+      960,
+      555,
+      1.02
+    ],
+    "future": false,
+    "accent": "ODER WIEDER LOSWERDEN?",
+    "anchor": "Oder würdest du",
+    "match": 1.0,
+    "end": 337.55333,
+    "duration": 4.48666
+  },
+  {
+    "id": "s095-comment",
+    "start": 337.33333,
+    "world": "dinner",
+    "action": "comment",
+    "camera": [
+      960,
+      555,
+      1.02
+    ],
+    "future": false,
+    "accent": "DEINE ENTSCHEIDUNG?",
+    "anchor": "Schreib deine Entscheidung",
+    "match": 1.0,
+    "end": 339.45333,
+    "duration": 2.12
+  },
+  {
+    "id": "s096-subscribe",
+    "start": 339.23333,
+    "world": "dinner",
+    "action": "subscribe",
+    "camera": [
+      960,
+      555,
+      1.02
+    ],
+    "future": false,
+    "accent": "ABONNIEREN",
+    "anchor": "und abonnier den Kanal",
+    "match": 1.0,
+    "end": 344.0,
+    "duration": 4.76667
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "duration": 344.0,
+  "shots": 96,
+  "mean_shot_seconds": 3.5833333333333335,
+  "min_shot_seconds": 1.2666600000000001,
+  "max_shot_seconds": 9.066659999999999,
+  "worlds": [
+    "cafe",
+    "dinner",
+    "kitchen",
+    "living",
+    "office",
+    "station",
+    "stock",
+    "street"
+  ],
+  "future_rule": "Single moment, own perspective, now + 60 seconds; conditional on current course."
+}

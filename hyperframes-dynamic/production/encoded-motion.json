@@ -1,0 +1,674 @@
+[
+  {
+    "id": "s001-ground",
+    "start": 0,
+    "end": 3.22,
+    "mean_adjacent_pixel_change": 0.39343186134852803,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s002-broken",
+    "start": 3.0,
+    "end": 6.58667,
+    "mean_adjacent_pixel_change": 0.13372867249271742,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s003-brake",
+    "start": 6.36667,
+    "end": 9.22,
+    "mean_adjacent_pixel_change": 0.3843420314253647,
+    "changed_frames_fraction": 0.9848484848484849
+  },
+  {
+    "id": "s004-return",
+    "start": 9.0,
+    "end": 11.38667,
+    "mean_adjacent_pixel_change": 0.03800008735150245,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s005-realize",
+    "start": 11.16667,
+    "end": 13.18667,
+    "mean_adjacent_pixel_change": 0.10053071364046974,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s006-watch",
+    "start": 12.96667,
+    "end": 16.45333,
+    "mean_adjacent_pixel_change": 0.20192674291938995,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s007-green",
+    "start": 16.23333,
+    "end": 19.78667,
+    "mean_adjacent_pixel_change": 0.10584569654882156,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s008-pass",
+    "start": 19.56667,
+    "end": 22.45333,
+    "mean_adjacent_pixel_change": 1.0024875621890545,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s009-driver",
+    "start": 22.23333,
+    "end": 24.38667,
+    "mean_adjacent_pixel_change": 3.588839573268922,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s010-relief",
+    "start": 24.16667,
+    "end": 28.22,
+    "mean_adjacent_pixel_change": 0.13258964233841686,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s011-question",
+    "start": 28.0,
+    "end": 33.28667,
+    "mean_adjacent_pixel_change": 0.04777810846560847,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s012-confident",
+    "start": 33.06667,
+    "end": 42.35333,
+    "mean_adjacent_pixel_change": 0.028947340197340198,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s013-rule",
+    "start": 42.13333,
+    "end": 44.45333,
+    "mean_adjacent_pixel_change": 0.17953022875816993,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s014-moment",
+    "start": 44.23333,
+    "end": 47.48667,
+    "mean_adjacent_pixel_change": 0.00577443741209564,
+    "changed_frames_fraction": 0.5443037974683544
+  },
+  {
+    "id": "s015-perspective",
+    "start": 47.26667,
+    "end": 50.58667,
+    "mean_adjacent_pixel_change": 0.0035775462962962966,
+    "changed_frames_fraction": 0.15
+  },
+  {
+    "id": "s016-watchfuture",
+    "start": 50.36667,
+    "end": 52.85333,
+    "mean_adjacent_pixel_change": 0.27180976430976433,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s017-path",
+    "start": 52.63333,
+    "end": 57.15333,
+    "mean_adjacent_pixel_change": 0.0028165558721114274,
+    "changed_frames_fraction": 0.9145299145299145
+  },
+  {
+    "id": "s018-choose",
+    "start": 56.93333,
+    "end": 60.35333,
+    "mean_adjacent_pixel_change": 0.16629133597883597,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s019-noreset",
+    "start": 60.13333,
+    "end": 62.95333,
+    "mean_adjacent_pixel_change": 0.185939253647587,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s020-establish",
+    "start": 62.73333,
+    "end": 65.18667,
+    "mean_adjacent_pixel_change": 0.019012626262626262,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s021-spill",
+    "start": 64.96667,
+    "end": 68.18667,
+    "mean_adjacent_pixel_change": 0.1090533309283309,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s022-sleeve",
+    "start": 67.96667,
+    "end": 70.75333,
+    "mean_adjacent_pixel_change": 0.08250361689814814,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s023-move",
+    "start": 70.53333,
+    "end": 73.45333,
+    "mean_adjacent_pixel_change": 0.34481951154052604,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s024-brush",
+    "start": 73.23333,
+    "end": 77.45333,
+    "mean_adjacent_pixel_change": 0.17324459876543213,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s025-dry",
+    "start": 77.23333,
+    "end": 81.18667,
+    "mean_adjacent_pixel_change": 0.0189662037037037,
+    "changed_frames_fraction": 0.97
+  },
+  {
+    "id": "s026-missed",
+    "start": 80.96667,
+    "end": 87.52,
+    "mean_adjacent_pixel_change": 0.1955666718978866,
+    "changed_frames_fraction": 0.9887005649717514
+  },
+  {
+    "id": "s027-run",
+    "start": 87.3,
+    "end": 88.95333,
+    "mean_adjacent_pixel_change": 1.7262955495818397,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s028-board",
+    "start": 88.73333,
+    "end": 91.92,
+    "mean_adjacent_pixel_change": 1.6091687710437712,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s029-depart",
+    "start": 91.7,
+    "end": 95.48667,
+    "mean_adjacent_pixel_change": 2.1225529452324667,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s030-boss",
+    "start": 95.26667,
+    "end": 98.48667,
+    "mean_adjacent_pixel_change": 0.03772667147667147,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s031-search",
+    "start": 98.26667,
+    "end": 102.02,
+    "mean_adjacent_pixel_change": 0.007093538430904022,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s032-answer",
+    "start": 101.8,
+    "end": 105.78667,
+    "mean_adjacent_pixel_change": 0.07426155115511551,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s033-joke",
+    "start": 105.56667,
+    "end": 109.75333,
+    "mean_adjacent_pixel_change": 0.04811954053109714,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s034-laugh",
+    "start": 109.53333,
+    "end": 112.68667,
+    "mean_adjacent_pixel_change": 0.03167976364522418,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s035-money",
+    "start": 112.46667,
+    "end": 116.52,
+    "mean_adjacent_pixel_change": 0.03864401779230211,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s036-chart",
+    "start": 116.3,
+    "end": 118.98667,
+    "mean_adjacent_pixel_change": 0.033115292712066896,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s037-rise",
+    "start": 118.76667,
+    "end": 121.95333,
+    "mean_adjacent_pixel_change": 0.02576937134502924,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s038-buy",
+    "start": 121.73333,
+    "end": 123.42,
+    "mean_adjacent_pixel_change": 0.018686342592592595,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s039-profit",
+    "start": 123.2,
+    "end": 126.05333,
+    "mean_adjacent_pixel_change": 0.01857172470978441,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s040-repeat",
+    "start": 125.83333,
+    "end": 127.78667,
+    "mean_adjacent_pixel_change": 0.028226851851851854,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s041-fees",
+    "start": 127.56667,
+    "end": 133.28667,
+    "mean_adjacent_pixel_change": 0.02892026072124756,
+    "changed_frames_fraction": 0.993421052631579
+  },
+  {
+    "id": "s042-net",
+    "start": 133.06667,
+    "end": 139.82,
+    "mean_adjacent_pixel_change": 0.014257867840518112,
+    "changed_frames_fraction": 0.9890710382513661
+  },
+  {
+    "id": "s043-lotto",
+    "start": 139.6,
+    "end": 144.78667,
+    "mean_adjacent_pixel_change": 0.008761996485536631,
+    "changed_frames_fraction": 0.9781021897810219
+  },
+  {
+    "id": "s044-horizon",
+    "start": 144.56667,
+    "end": 147.75333,
+    "mean_adjacent_pixel_change": 0.011448891325536063,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s045-football",
+    "start": 147.53333,
+    "end": 151.08667,
+    "mean_adjacent_pixel_change": 0.022619160353535353,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s046-goalvision",
+    "start": 150.86667,
+    "end": 153.62,
+    "mean_adjacent_pixel_change": 0.020485008818342157,
+    "changed_frames_fraction": 0.7619047619047619
+  },
+  {
+    "id": "s047-bet",
+    "start": 153.4,
+    "end": 155.75333,
+    "mean_adjacent_pixel_change": 0.0038368055555555555,
+    "changed_frames_fraction": 0.9423076923076923
+  },
+  {
+    "id": "s048-goal",
+    "start": 155.53333,
+    "end": 158.38667,
+    "mean_adjacent_pixel_change": 0.0207345218352681,
+    "changed_frames_fraction": 0.6716417910447762
+  },
+  {
+    "id": "s049-var",
+    "start": 158.16667,
+    "end": 160.45333,
+    "mean_adjacent_pixel_change": 0.003200113378684807,
+    "changed_frames_fraction": 0.8163265306122449
+  },
+  {
+    "id": "s050-offside",
+    "start": 160.23333,
+    "end": 164.48667,
+    "mean_adjacent_pixel_change": 0.019942235813795443,
+    "changed_frames_fraction": 0.963302752293578
+  },
+  {
+    "id": "s051-limited",
+    "start": 164.26667,
+    "end": 167.62,
+    "mean_adjacent_pixel_change": 0.010426954732510287,
+    "changed_frames_fraction": 0.9753086419753086
+  },
+  {
+    "id": "s052-pending",
+    "start": 167.4,
+    "end": 170.15333,
+    "mean_adjacent_pixel_change": 0.008039641203703705,
+    "changed_frames_fraction": 0.734375
+  },
+  {
+    "id": "s053-reaction",
+    "start": 169.93333,
+    "end": 174.85333,
+    "mean_adjacent_pixel_change": 0.07685400516795865,
+    "changed_frames_fraction": 0.9844961240310077
+  },
+  {
+    "id": "s054-overconfident",
+    "start": 174.63333,
+    "end": 180.12,
+    "mean_adjacent_pixel_change": 0.07638001014713344,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s055-information",
+    "start": 179.9,
+    "end": 183.92,
+    "mean_adjacent_pixel_change": 0.016733819215254863,
+    "changed_frames_fraction": 0.9900990099009901
+  },
+  {
+    "id": "s056-crossing",
+    "start": 183.7,
+    "end": 186.48667,
+    "mean_adjacent_pixel_change": 0.02267770655270655,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s057-empty",
+    "start": 186.26667,
+    "end": 189.25333,
+    "mean_adjacent_pixel_change": 0.005255952380952382,
+    "changed_frames_fraction": 0.9571428571428572
+  },
+  {
+    "id": "s058-stop",
+    "start": 189.03333,
+    "end": 191.45333,
+    "mean_adjacent_pixel_change": 0.229869255829904,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s059-single",
+    "start": 191.23333,
+    "end": 193.85333,
+    "mean_adjacent_pixel_change": 0.007063271604938271,
+    "changed_frames_fraction": 0.36666666666666664
+  },
+  {
+    "id": "s060-side",
+    "start": 193.63333,
+    "end": 198.28667,
+    "mean_adjacent_pixel_change": 0.1478298132843588,
+    "changed_frames_fraction": 0.5206611570247934
+  },
+  {
+    "id": "s061-pocket",
+    "start": 198.06667,
+    "end": 199.55333,
+    "mean_adjacent_pixel_change": 0.7876398148148148,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s062-look",
+    "start": 199.33333,
+    "end": 206.45333,
+    "mean_adjacent_pixel_change": 0.041887939221272555,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s063-arrival",
+    "start": 206.23333,
+    "end": 210.95333,
+    "mean_adjacent_pixel_change": 0.03120934959349593,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s064-friend",
+    "start": 210.73333,
+    "end": 215.95333,
+    "mean_adjacent_pixel_change": 0.0229062667740204,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s065-job",
+    "start": 215.73333,
+    "end": 222.98667,
+    "mean_adjacent_pixel_change": 0.030332216638749302,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s066-thinking",
+    "start": 222.76667,
+    "end": 229.68667,
+    "mean_adjacent_pixel_change": 0.038146424349881795,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s067-hurt",
+    "start": 229.46667,
+    "end": 234.28667,
+    "mean_adjacent_pixel_change": 0.030931666666666666,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s068-tryagain",
+    "start": 234.06667,
+    "end": 240.25333,
+    "mean_adjacent_pixel_change": 0.03415634761267291,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s069-distracted",
+    "start": 240.03333,
+    "end": 244.78667,
+    "mean_adjacent_pixel_change": 0.04191662933094385,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s070-talk",
+    "start": 244.56667,
+    "end": 247.78667,
+    "mean_adjacent_pixel_change": 0.028547979797979798,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s071-away",
+    "start": 247.56667,
+    "end": 250.28667,
+    "mean_adjacent_pixel_change": 0.06404905913978495,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s072-question",
+    "start": 250.06667,
+    "end": 252.28667,
+    "mean_adjacent_pixel_change": 0.12547478329393225,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s073-shock",
+    "start": 252.06667,
+    "end": 256.75333,
+    "mean_adjacent_pixel_change": 0.028736225895316804,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s074-distance",
+    "start": 256.53333,
+    "end": 263.55333,
+    "mean_adjacent_pixel_change": 0.03513551311728395,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s075-gift",
+    "start": 263.33333,
+    "end": 267.05333,
+    "mean_adjacent_pixel_change": 0.06682770808442852,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s076-jokereprise",
+    "start": 266.83333,
+    "end": 270.85333,
+    "mean_adjacent_pixel_change": 0.059698393246187365,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s077-message",
+    "start": 270.63333,
+    "end": 274.05333,
+    "mean_adjacent_pixel_change": 0.0051416446208112886,
+    "changed_frames_fraction": 0.17857142857142858
+  },
+  {
+    "id": "s078-reactions",
+    "start": 273.83333,
+    "end": 277.75333,
+    "mean_adjacent_pixel_change": 0.01929503367003367,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s079-compulsion",
+    "start": 277.53333,
+    "end": 281.22,
+    "mean_adjacent_pixel_change": 0.07526318438003221,
+    "changed_frames_fraction": 0.9891304347826086
+  },
+  {
+    "id": "s080-dinner",
+    "start": 281.0,
+    "end": 283.58667,
+    "mean_adjacent_pixel_change": 0.016428515379786568,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s081-temptation",
+    "start": 283.36667,
+    "end": 289.65333,
+    "mean_adjacent_pixel_change": 0.06959483892176199,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s082-hesitate",
+    "start": 289.43333,
+    "end": 292.48667,
+    "mean_adjacent_pixel_change": 0.1023382800608828,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s083-wait",
+    "start": 292.26667,
+    "end": 296.65333,
+    "mean_adjacent_pixel_change": 0.1473819857804233,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s084-uncertainty",
+    "start": 296.43333,
+    "end": 302.05333,
+    "mean_adjacent_pixel_change": 0.02756280864197531,
+    "changed_frames_fraction": 0.9933333333333333
+  },
+  {
+    "id": "s085-decide",
+    "start": 301.83333,
+    "end": 304.15333,
+    "mean_adjacent_pixel_change": 0.13407452795933186,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s086-call",
+    "start": 303.93333,
+    "end": 307.78667,
+    "mean_adjacent_pixel_change": 0.0029935089728904164,
+    "changed_frames_fraction": 0.31958762886597936
+  },
+  {
+    "id": "s087-speaker",
+    "start": 307.56667,
+    "end": 310.48667,
+    "mean_adjacent_pixel_change": 0.0316421568627451,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s088-apology",
+    "start": 310.26667,
+    "end": 313.42,
+    "mean_adjacent_pixel_change": 0.09515154320987655,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s089-friendcall",
+    "start": 313.2,
+    "end": 316.05333,
+    "mean_adjacent_pixel_change": 0.0255873410724157,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s090-listen",
+    "start": 315.83333,
+    "end": 321.45333,
+    "mean_adjacent_pixel_change": 0.03322021604938272,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s091-saved",
+    "start": 321.23333,
+    "end": 325.12,
+    "mean_adjacent_pixel_change": 0.058985496976568415,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s092-life",
+    "start": 324.9,
+    "end": 329.62,
+    "mean_adjacent_pixel_change": 0.03906572556162721,
+    "changed_frames_fraction": 0.9918032786885246
+  },
+  {
+    "id": "s093-choice",
+    "start": 329.4,
+    "end": 333.28667,
+    "mean_adjacent_pixel_change": 0.11478198223733937,
+    "changed_frames_fraction": 0.9897959183673469
+  },
+  {
+    "id": "s094-release",
+    "start": 333.06667,
+    "end": 337.55333,
+    "mean_adjacent_pixel_change": 0.03740619967793882,
+    "changed_frames_fraction": 0.9652173913043478
+  },
+  {
+    "id": "s095-comment",
+    "start": 337.33333,
+    "end": 339.45333,
+    "mean_adjacent_pixel_change": 0.07138888888888889,
+    "changed_frames_fraction": 1.0
+  },
+  {
+    "id": "s096-subscribe",
+    "start": 339.23333,
+    "end": 344.0,
+    "mean_adjacent_pixel_change": 0.036428651433691756,
+    "changed_frames_fraction": 0.9838709677419355
+  }
+]

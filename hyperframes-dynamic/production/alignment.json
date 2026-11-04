@@ -1,0 +1,4977 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.46,
+    "text": " Du siehst Asphalt, direkt vor deinem Gesicht.",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.2,
+        "word": " Du",
+        "probability": 0.94298255443573
+      },
+      {
+        "start": 0.2,
+        "end": 0.5,
+        "word": " siehst",
+        "probability": 0.9960047006607056
+      },
+      {
+        "start": 0.5,
+        "end": 0.92,
+        "word": " Asphalt,",
+        "probability": 0.8006630539894104
+      },
+      {
+        "start": 1.34,
+        "end": 1.66,
+        "word": " direkt",
+        "probability": 0.994162380695343
+      },
+      {
+        "start": 1.66,
+        "end": 1.88,
+        "word": " vor",
+        "probability": 0.9994396567344666
+      },
+      {
+        "start": 1.88,
+        "end": 2.14,
+        "word": " deinem",
+        "probability": 0.9887503087520599
+      },
+      {
+        "start": 2.14,
+        "end": 2.46,
+        "word": " Gesicht.",
+        "probability": 0.9996139407157898
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 5.32,
+    "text": " Neben dir liegt dein zerbrochenes Handy.",
+    "words": [
+      {
+        "start": 3.06,
+        "end": 3.38,
+        "word": " Neben",
+        "probability": 0.8354334235191345
+      },
+      {
+        "start": 3.38,
+        "end": 3.62,
+        "word": " dir",
+        "probability": 0.9635517001152039
+      },
+      {
+        "start": 3.62,
+        "end": 4.2,
+        "word": " liegt",
+        "probability": 0.8745519518852234
+      },
+      {
+        "start": 4.2,
+        "end": 4.42,
+        "word": " dein",
+        "probability": 0.9700690507888794
+      },
+      {
+        "start": 4.42,
+        "end": 5.08,
+        "word": " zerbrochenes",
+        "probability": 0.956418514251709
+      },
+      {
+        "start": 5.08,
+        "end": 5.32,
+        "word": " Handy.",
+        "probability": 0.9956346154212952
+      }
+    ]
+  },
+  {
+    "start": 6.42,
+    "end": 8.64,
+    "text": " Bremsen kreischen, dann ist das Bild weg.",
+    "words": [
+      {
+        "start": 6.42,
+        "end": 6.78,
+        "word": " Bremsen",
+        "probability": 0.9763970772425333
+      },
+      {
+        "start": 6.78,
+        "end": 7.16,
+        "word": " kreischen,",
+        "probability": 0.8606645266215006
+      },
+      {
+        "start": 7.64,
+        "end": 7.82,
+        "word": " dann",
+        "probability": 0.9943944215774536
+      },
+      {
+        "start": 7.82,
+        "end": 8.0,
+        "word": " ist",
+        "probability": 0.9899911880493164
+      },
+      {
+        "start": 8.0,
+        "end": 8.18,
+        "word": " das",
+        "probability": 0.998938262462616
+      },
+      {
+        "start": 8.18,
+        "end": 8.36,
+        "word": " Bild",
+        "probability": 0.9985232949256897
+      },
+      {
+        "start": 8.36,
+        "end": 8.64,
+        "word": " weg.",
+        "probability": 0.9986442923545837
+      }
+    ]
+  },
+  {
+    "start": 9.06,
+    "end": 10.38,
+    "text": " Du stehst noch auf dem Gehweg.",
+    "words": [
+      {
+        "start": 9.06,
+        "end": 9.2,
+        "word": " Du",
+        "probability": 0.9944315552711487
+      },
+      {
+        "start": 9.2,
+        "end": 9.54,
+        "word": " stehst",
+        "probability": 0.9845007658004761
+      },
+      {
+        "start": 9.54,
+        "end": 9.72,
+        "word": " noch",
+        "probability": 0.996177077293396
+      },
+      {
+        "start": 9.72,
+        "end": 9.9,
+        "word": " auf",
+        "probability": 0.9990022778511047
+      },
+      {
+        "start": 9.9,
+        "end": 10.02,
+        "word": " dem",
+        "probability": 0.9987295269966125
+      },
+      {
+        "start": 10.02,
+        "end": 10.38,
+        "word": " Gehweg.",
+        "probability": 0.9272452394167582
+      }
+    ]
+  },
+  {
+    "start": 11.24,
+    "end": 12.5,
+    "text": " Das war kein Albtraum.",
+    "words": [
+      {
+        "start": 11.24,
+        "end": 11.66,
+        "word": " Das",
+        "probability": 0.9851275086402893
+      },
+      {
+        "start": 11.66,
+        "end": 11.86,
+        "word": " war",
+        "probability": 0.997744083404541
+      },
+      {
+        "start": 11.86,
+        "end": 12.06,
+        "word": " kein",
+        "probability": 0.9950910806655884
+      },
+      {
+        "start": 12.06,
+        "end": 12.5,
+        "word": " Albtraum.",
+        "probability": 0.9077846010526022
+      }
+    ]
+  },
+  {
+    "start": 13.04,
+    "end": 15.1,
+    "text": " Du hast gesehen, was in einer Minute passieren wird.",
+    "words": [
+      {
+        "start": 13.04,
+        "end": 13.14,
+        "word": " Du",
+        "probability": 0.9981383085250854
+      },
+      {
+        "start": 13.14,
+        "end": 13.28,
+        "word": " hast",
+        "probability": 0.9985059499740601
+      },
+      {
+        "start": 13.28,
+        "end": 13.6,
+        "word": " gesehen,",
+        "probability": 0.9953438639640808
+      },
+      {
+        "start": 13.6,
+        "end": 13.8,
+        "word": " was",
+        "probability": 0.9980736970901489
+      },
+      {
+        "start": 13.8,
+        "end": 13.96,
+        "word": " in",
+        "probability": 0.9942981600761414
+      },
+      {
+        "start": 13.96,
+        "end": 14.16,
+        "word": " einer",
+        "probability": 0.9830151796340942
+      },
+      {
+        "start": 14.16,
+        "end": 14.4,
+        "word": " Minute",
+        "probability": 0.993428647518158
+      },
+      {
+        "start": 14.4,
+        "end": 14.74,
+        "word": " passieren",
+        "probability": 0.9118180871009827
+      },
+      {
+        "start": 14.74,
+        "end": 15.1,
+        "word": " wird.",
+        "probability": 0.9985740184783936
+      }
+    ]
+  },
+  {
+    "start": 16.28,
+    "end": 18.54,
+    "text": " Als die Ampel auf Grün springt, bleibst du stehen.",
+    "words": [
+      {
+        "start": 16.28,
+        "end": 16.48,
+        "word": " Als",
+        "probability": 0.9951677322387695
+      },
+      {
+        "start": 16.48,
+        "end": 16.64,
+        "word": " die",
+        "probability": 0.9980912804603577
+      },
+      {
+        "start": 16.64,
+        "end": 16.94,
+        "word": " Ampel",
+        "probability": 0.9923517107963562
+      },
+      {
+        "start": 16.94,
+        "end": 17.1,
+        "word": " auf",
+        "probability": 0.9972551465034485
+      },
+      {
+        "start": 17.1,
+        "end": 17.32,
+        "word": " Grün",
+        "probability": 0.8261598944664001
+      },
+      {
+        "start": 17.32,
+        "end": 17.72,
+        "word": " springt,",
+        "probability": 0.9974753856658936
+      },
+      {
+        "start": 17.98,
+        "end": 18.24,
+        "word": " bleibst",
+        "probability": 0.9929975668589274
+      },
+      {
+        "start": 18.24,
+        "end": 18.34,
+        "word": " du",
+        "probability": 0.9836061000823975
+      },
+      {
+        "start": 18.34,
+        "end": 18.54,
+        "word": " stehen.",
+        "probability": 0.9942346215248108
+      }
+    ]
+  },
+  {
+    "start": 19.62,
+    "end": 21.2,
+    "text": " Ein Lieferwagen schießt über die Kreuzung.",
+    "words": [
+      {
+        "start": 19.62,
+        "end": 19.8,
+        "word": " Ein",
+        "probability": 0.9928784966468811
+      },
+      {
+        "start": 19.8,
+        "end": 20.22,
+        "word": " Lieferwagen",
+        "probability": 0.9419969717661539
+      },
+      {
+        "start": 20.22,
+        "end": 20.58,
+        "word": " schießt",
+        "probability": 0.9969436724980673
+      },
+      {
+        "start": 20.58,
+        "end": 20.68,
+        "word": " über",
+        "probability": 0.9979041814804077
+      },
+      {
+        "start": 20.68,
+        "end": 20.8,
+        "word": " die",
+        "probability": 0.9985066056251526
+      },
+      {
+        "start": 20.8,
+        "end": 21.2,
+        "word": " Kreuzung.",
+        "probability": 0.9720760385195414
+      }
+    ]
+  },
+  {
+    "start": 22.28,
+    "end": 23.34,
+    "text": " Der Fahrer hat Rot.",
+    "words": [
+      {
+        "start": 22.28,
+        "end": 22.66,
+        "word": " Der",
+        "probability": 0.9916024804115295
+      },
+      {
+        "start": 22.66,
+        "end": 23.0,
+        "word": " Fahrer",
+        "probability": 0.9322872757911682
+      },
+      {
+        "start": 23.0,
+        "end": 23.14,
+        "word": " hat",
+        "probability": 0.9991738200187683
+      },
+      {
+        "start": 23.14,
+        "end": 23.34,
+        "word": " Rot.",
+        "probability": 0.48791274428367615
+      }
+    ]
+  },
+  {
+    "start": 24.24,
+    "end": 28.06,
+    "text": " Du lebst, weil du etwas wusstest, dass du unmöglich wissen konntest.",
+    "words": [
+      {
+        "start": 24.24,
+        "end": 24.48,
+        "word": " Du",
+        "probability": 0.9972840547561646
+      },
+      {
+        "start": 24.48,
+        "end": 24.78,
+        "word": " lebst,",
+        "probability": 0.8914601504802704
+      },
+      {
+        "start": 25.22,
+        "end": 25.36,
+        "word": " weil",
+        "probability": 0.9990354776382446
+      },
+      {
+        "start": 25.36,
+        "end": 25.48,
+        "word": " du",
+        "probability": 0.9820209741592407
+      },
+      {
+        "start": 25.48,
+        "end": 25.7,
+        "word": " etwas",
+        "probability": 0.9957791566848755
+      },
+      {
+        "start": 25.7,
+        "end": 26.24,
+        "word": " wusstest,",
+        "probability": 0.9610481858253479
+      },
+      {
+        "start": 26.6,
+        "end": 26.7,
+        "word": " dass",
+        "probability": 0.7345637679100037
+      },
+      {
+        "start": 26.7,
+        "end": 26.86,
+        "word": " du",
+        "probability": 0.9982206225395203
+      },
+      {
+        "start": 26.86,
+        "end": 27.28,
+        "word": " unmöglich",
+        "probability": 0.9919586479663849
+      },
+      {
+        "start": 27.28,
+        "end": 27.56,
+        "word": " wissen",
+        "probability": 0.9542074799537659
+      },
+      {
+        "start": 27.56,
+        "end": 28.06,
+        "word": " konntest.",
+        "probability": 0.9855426748593649
+      }
+    ]
+  },
+  {
+    "start": 28.06,
+    "end": 32.38,
+    "text": " Was wäre, wenn du genau eine Minute in die Zukunft sehen könntest?",
+    "words": [
+      {
+        "start": 28.06,
+        "end": 29.24,
+        "word": " Was",
+        "probability": 0.6430857181549072
+      },
+      {
+        "start": 29.24,
+        "end": 29.52,
+        "word": " wäre,",
+        "probability": 0.9932996034622192
+      },
+      {
+        "start": 29.98,
+        "end": 30.1,
+        "word": " wenn",
+        "probability": 0.9971613883972168
+      },
+      {
+        "start": 30.1,
+        "end": 30.22,
+        "word": " du",
+        "probability": 0.957134485244751
+      },
+      {
+        "start": 30.22,
+        "end": 30.46,
+        "word": " genau",
+        "probability": 0.9800443053245544
+      },
+      {
+        "start": 30.46,
+        "end": 30.72,
+        "word": " eine",
+        "probability": 0.9847465753555298
+      },
+      {
+        "start": 30.72,
+        "end": 31.06,
+        "word": " Minute",
+        "probability": 0.9974138140678406
+      },
+      {
+        "start": 31.06,
+        "end": 31.24,
+        "word": " in",
+        "probability": 0.9946675300598145
+      },
+      {
+        "start": 31.24,
+        "end": 31.34,
+        "word": " die",
+        "probability": 0.9974865913391113
+      },
+      {
+        "start": 31.34,
+        "end": 31.66,
+        "word": " Zukunft",
+        "probability": 0.998954176902771
+      },
+      {
+        "start": 31.66,
+        "end": 31.96,
+        "word": " sehen",
+        "probability": 0.9955293536186218
+      },
+      {
+        "start": 31.96,
+        "end": 32.38,
+        "word": " könntest?",
+        "probability": 0.9967181980609894
+      }
+    ]
+  },
+  {
+    "start": 33.12,
+    "end": 38.64,
+    "text": " Zuerst klingt das nach der besten Superkraft überhaupt. Keine Überraschungen. Keine peinlichen",
+    "words": [
+      {
+        "start": 33.12,
+        "end": 33.72,
+        "word": " Zuerst",
+        "probability": 0.9721979300181071
+      },
+      {
+        "start": 33.72,
+        "end": 33.92,
+        "word": " klingt",
+        "probability": 0.9675419628620148
+      },
+      {
+        "start": 33.92,
+        "end": 34.12,
+        "word": " das",
+        "probability": 0.981791615486145
+      },
+      {
+        "start": 34.12,
+        "end": 34.28,
+        "word": " nach",
+        "probability": 0.9962213039398193
+      },
+      {
+        "start": 34.28,
+        "end": 34.42,
+        "word": " der",
+        "probability": 0.9975330829620361
+      },
+      {
+        "start": 34.42,
+        "end": 34.66,
+        "word": " besten",
+        "probability": 0.9935609102249146
+      },
+      {
+        "start": 34.66,
+        "end": 35.14,
+        "word": " Superkraft",
+        "probability": 0.9780396223068237
+      },
+      {
+        "start": 35.14,
+        "end": 35.48,
+        "word": " überhaupt.",
+        "probability": 0.9963439106941223
+      },
+      {
+        "start": 36.48,
+        "end": 36.8,
+        "word": " Keine",
+        "probability": 0.986877977848053
+      },
+      {
+        "start": 36.8,
+        "end": 37.36,
+        "word": " Überraschungen.",
+        "probability": 0.997305691242218
+      },
+      {
+        "start": 37.86,
+        "end": 38.22,
+        "word": " Keine",
+        "probability": 0.9950225651264191
+      },
+      {
+        "start": 38.22,
+        "end": 38.64,
+        "word": " peinlichen",
+        "probability": 0.9914337595303854
+      }
+    ]
+  },
+  {
+    "start": 38.64,
+    "end": 45.64,
+    "text": " Antworten. Immer einen Schritt voraus. Doch es gibt eine Regel. Du siehst keine ganze Minute",
+    "words": [
+      {
+        "start": 38.64,
+        "end": 39.16,
+        "word": " Antworten.",
+        "probability": 0.9974253177642822
+      },
+      {
+        "start": 40.12,
+        "end": 40.36,
+        "word": " Immer",
+        "probability": 0.987442672252655
+      },
+      {
+        "start": 40.36,
+        "end": 40.66,
+        "word": " einen",
+        "probability": 0.9968374967575073
+      },
+      {
+        "start": 40.66,
+        "end": 40.9,
+        "word": " Schritt",
+        "probability": 0.9986862540245056
+      },
+      {
+        "start": 40.9,
+        "end": 41.4,
+        "word": " voraus.",
+        "probability": 0.9972187081972758
+      },
+      {
+        "start": 42.18,
+        "end": 42.74,
+        "word": " Doch",
+        "probability": 0.9742084741592407
+      },
+      {
+        "start": 42.74,
+        "end": 42.94,
+        "word": " es",
+        "probability": 0.9932802319526672
+      },
+      {
+        "start": 42.94,
+        "end": 43.08,
+        "word": " gibt",
+        "probability": 0.9991829991340637
+      },
+      {
+        "start": 43.08,
+        "end": 43.26,
+        "word": " eine",
+        "probability": 0.9960277080535889
+      },
+      {
+        "start": 43.26,
+        "end": 43.5,
+        "word": " Regel.",
+        "probability": 0.9946422576904297
+      },
+      {
+        "start": 44.3,
+        "end": 44.48,
+        "word": " Du",
+        "probability": 0.9952511787414551
+      },
+      {
+        "start": 44.48,
+        "end": 44.78,
+        "word": " siehst",
+        "probability": 0.9964773058891296
+      },
+      {
+        "start": 44.78,
+        "end": 44.98,
+        "word": " keine",
+        "probability": 0.9982037544250488
+      },
+      {
+        "start": 44.98,
+        "end": 45.3,
+        "word": " ganze",
+        "probability": 0.994481086730957
+      },
+      {
+        "start": 45.3,
+        "end": 45.64,
+        "word": " Minute",
+        "probability": 0.9971195459365845
+      }
+    ]
+  },
+  {
+    "start": 45.64,
+    "end": 50.04,
+    "text": " wie einen Film. Du bekommst einen kurzen Ausschnitt aus deiner eigenen Perspektive,",
+    "words": [
+      {
+        "start": 45.64,
+        "end": 45.94,
+        "word": " wie",
+        "probability": 0.964574933052063
+      },
+      {
+        "start": 45.94,
+        "end": 46.14,
+        "word": " einen",
+        "probability": 0.9652427434921265
+      },
+      {
+        "start": 46.14,
+        "end": 46.42,
+        "word": " Film.",
+        "probability": 0.9982345104217529
+      },
+      {
+        "start": 47.32,
+        "end": 47.52,
+        "word": " Du",
+        "probability": 0.9976146221160889
+      },
+      {
+        "start": 47.52,
+        "end": 47.86,
+        "word": " bekommst",
+        "probability": 0.9959922631581625
+      },
+      {
+        "start": 47.86,
+        "end": 48.0,
+        "word": " einen",
+        "probability": 0.9967065453529358
+      },
+      {
+        "start": 48.0,
+        "end": 48.34,
+        "word": " kurzen",
+        "probability": 0.9892235398292542
+      },
+      {
+        "start": 48.34,
+        "end": 48.74,
+        "word": " Ausschnitt",
+        "probability": 0.9979096055030823
+      },
+      {
+        "start": 48.74,
+        "end": 48.94,
+        "word": " aus",
+        "probability": 0.9969843029975891
+      },
+      {
+        "start": 48.94,
+        "end": 49.18,
+        "word": " deiner",
+        "probability": 0.9939361214637756
+      },
+      {
+        "start": 49.18,
+        "end": 49.42,
+        "word": " eigenen",
+        "probability": 0.9947593808174133
+      },
+      {
+        "start": 49.42,
+        "end": 50.04,
+        "word": " Perspektive,",
+        "probability": 0.9991454680760702
+      }
+    ]
+  },
+  {
+    "start": 50.42,
+    "end": 55.22,
+    "text": " genau 60 Sekunden später. Er zeigt, was passieren würde, wenn du deinen bisherigen",
+    "words": [
+      {
+        "start": 50.42,
+        "end": 50.72,
+        "word": " genau",
+        "probability": 0.992337167263031
+      },
+      {
+        "start": 50.72,
+        "end": 51.02,
+        "word": " 60",
+        "probability": 0.9840549826622009
+      },
+      {
+        "start": 51.02,
+        "end": 51.48,
+        "word": " Sekunden",
+        "probability": 0.9690495729446411
+      },
+      {
+        "start": 51.48,
+        "end": 51.74,
+        "word": " später.",
+        "probability": 0.999593198299408
+      },
+      {
+        "start": 52.68,
+        "end": 52.84,
+        "word": " Er",
+        "probability": 0.9978749752044678
+      },
+      {
+        "start": 52.84,
+        "end": 53.06,
+        "word": " zeigt,",
+        "probability": 0.9844160676002502
+      },
+      {
+        "start": 53.18,
+        "end": 53.24,
+        "word": " was",
+        "probability": 0.9975069165229797
+      },
+      {
+        "start": 53.24,
+        "end": 53.6,
+        "word": " passieren",
+        "probability": 0.9960558414459229
+      },
+      {
+        "start": 53.6,
+        "end": 53.88,
+        "word": " würde,",
+        "probability": 0.9966387748718262
+      },
+      {
+        "start": 54.28,
+        "end": 54.38,
+        "word": " wenn",
+        "probability": 0.9978443384170532
+      },
+      {
+        "start": 54.38,
+        "end": 54.5,
+        "word": " du",
+        "probability": 0.9977193474769592
+      },
+      {
+        "start": 54.5,
+        "end": 54.68,
+        "word": " deinen",
+        "probability": 0.9758886694908142
+      },
+      {
+        "start": 54.68,
+        "end": 55.22,
+        "word": " bisherigen",
+        "probability": 0.9976754188537598
+      }
+    ]
+  },
+  {
+    "start": 55.22,
+    "end": 60.64,
+    "text": " Kurs beibehältst. Änderst du deine Entscheidung, verändert sich die mögliche Zukunft. Nachsehen",
+    "words": [
+      {
+        "start": 55.22,
+        "end": 55.44,
+        "word": " Kurs",
+        "probability": 0.5603325627744198
+      },
+      {
+        "start": 55.44,
+        "end": 56.12,
+        "word": " beibehältst.",
+        "probability": 0.8391810953617096
+      },
+      {
+        "start": 57.0,
+        "end": 57.4,
+        "word": " Änderst",
+        "probability": 0.7229621112346649
+      },
+      {
+        "start": 57.4,
+        "end": 57.48,
+        "word": " du",
+        "probability": 0.9755315184593201
+      },
+      {
+        "start": 57.48,
+        "end": 57.64,
+        "word": " deine",
+        "probability": 0.9710772633552551
+      },
+      {
+        "start": 57.64,
+        "end": 58.04,
+        "word": " Entscheidung,",
+        "probability": 0.9883765578269958
+      },
+      {
+        "start": 58.58,
+        "end": 58.74,
+        "word": " verändert",
+        "probability": 0.9938310384750366
+      },
+      {
+        "start": 58.74,
+        "end": 58.98,
+        "word": " sich",
+        "probability": 0.9965080618858337
+      },
+      {
+        "start": 58.98,
+        "end": 59.12,
+        "word": " die",
+        "probability": 0.9974178075790405
+      },
+      {
+        "start": 59.12,
+        "end": 59.52,
+        "word": " mögliche",
+        "probability": 0.9865582883358002
+      },
+      {
+        "start": 59.52,
+        "end": 59.78,
+        "word": " Zukunft.",
+        "probability": 0.9977409839630127
+      },
+      {
+        "start": 60.18,
+        "end": 60.64,
+        "word": " Nachsehen",
+        "probability": 0.9842059910297394
+      }
+    ]
+  },
+  {
+    "start": 60.64,
+    "end": 66.48,
+    "text": " kannst du. Zurückspulen nicht. Du probierst es aus. In der Küche siehst du Kaffee über",
+    "words": [
+      {
+        "start": 60.64,
+        "end": 60.86,
+        "word": " kannst",
+        "probability": 0.9978305697441101
+      },
+      {
+        "start": 60.86,
+        "end": 61.14,
+        "word": " du.",
+        "probability": 0.9907779693603516
+      },
+      {
+        "start": 61.52,
+        "end": 62.02,
+        "word": " Zurückspulen",
+        "probability": 0.9703998863697052
+      },
+      {
+        "start": 62.02,
+        "end": 62.24,
+        "word": " nicht.",
+        "probability": 0.9927554726600647
+      },
+      {
+        "start": 62.8,
+        "end": 62.96,
+        "word": " Du",
+        "probability": 0.9935901165008545
+      },
+      {
+        "start": 62.96,
+        "end": 63.46,
+        "word": " probierst",
+        "probability": 0.9773646593093872
+      },
+      {
+        "start": 63.46,
+        "end": 63.56,
+        "word": " es",
+        "probability": 0.9757741093635559
+      },
+      {
+        "start": 63.56,
+        "end": 63.78,
+        "word": " aus.",
+        "probability": 0.9969173669815063
+      },
+      {
+        "start": 65.04,
+        "end": 65.22,
+        "word": " In",
+        "probability": 0.9942029118537903
+      },
+      {
+        "start": 65.22,
+        "end": 65.32,
+        "word": " der",
+        "probability": 0.9995344877243042
+      },
+      {
+        "start": 65.32,
+        "end": 65.58,
+        "word": " Küche",
+        "probability": 0.9992786049842834
+      },
+      {
+        "start": 65.58,
+        "end": 65.82,
+        "word": " siehst",
+        "probability": 0.9879095554351807
+      },
+      {
+        "start": 65.82,
+        "end": 65.96,
+        "word": " du",
+        "probability": 0.9933319687843323
+      },
+      {
+        "start": 65.96,
+        "end": 66.3,
+        "word": " Kaffee",
+        "probability": 0.8575574159622192
+      },
+      {
+        "start": 66.3,
+        "end": 66.48,
+        "word": " über",
+        "probability": 0.9952048063278198
+      }
+    ]
+  },
+  {
+    "start": 66.48,
+    "end": 73.52,
+    "text": " deinen Laptop laufen. Dein Ärmel hängt neben der Tasse. Diesmal schiebst du sie weg. Eine",
+    "words": [
+      {
+        "start": 66.48,
+        "end": 66.7,
+        "word": " deinen",
+        "probability": 0.9818077683448792
+      },
+      {
+        "start": 66.7,
+        "end": 67.04,
+        "word": " Laptop",
+        "probability": 0.9913396239280701
+      },
+      {
+        "start": 67.04,
+        "end": 67.32,
+        "word": " laufen.",
+        "probability": 0.9824311137199402
+      },
+      {
+        "start": 68.04,
+        "end": 68.22,
+        "word": " Dein",
+        "probability": 0.9945213794708252
+      },
+      {
+        "start": 68.22,
+        "end": 68.5,
+        "word": " Ärmel",
+        "probability": 0.961838573217392
+      },
+      {
+        "start": 68.5,
+        "end": 68.72,
+        "word": " hängt",
+        "probability": 0.9951407313346863
+      },
+      {
+        "start": 68.72,
+        "end": 68.92,
+        "word": " neben",
+        "probability": 0.9943110942840576
+      },
+      {
+        "start": 68.92,
+        "end": 69.1,
+        "word": " der",
+        "probability": 0.9996234178543091
+      },
+      {
+        "start": 69.1,
+        "end": 69.34,
+        "word": " Tasse.",
+        "probability": 0.9273560643196106
+      },
+      {
+        "start": 70.58,
+        "end": 71.14,
+        "word": " Diesmal",
+        "probability": 0.9879065454006195
+      },
+      {
+        "start": 71.14,
+        "end": 71.64,
+        "word": " schiebst",
+        "probability": 0.9750690658887228
+      },
+      {
+        "start": 71.64,
+        "end": 71.84,
+        "word": " du",
+        "probability": 0.9936687350273132
+      },
+      {
+        "start": 71.84,
+        "end": 71.96,
+        "word": " sie",
+        "probability": 0.9988147020339966
+      },
+      {
+        "start": 71.96,
+        "end": 72.2,
+        "word": " weg.",
+        "probability": 0.9989286065101624
+      },
+      {
+        "start": 73.3,
+        "end": 73.52,
+        "word": " Eine",
+        "probability": 0.9553928375244141
+      }
+    ]
+  },
+  {
+    "start": 73.52,
+    "end": 78.8,
+    "text": " Minute später streift dein Ellbogen genau diese Stelle. Keine Tasse, kein Kaffee,",
+    "words": [
+      {
+        "start": 73.52,
+        "end": 73.82,
+        "word": " Minute",
+        "probability": 0.9933156371116638
+      },
+      {
+        "start": 73.82,
+        "end": 74.34,
+        "word": " später",
+        "probability": 0.9992454051971436
+      },
+      {
+        "start": 74.34,
+        "end": 75.14,
+        "word": " streift",
+        "probability": 0.8698147535324097
+      },
+      {
+        "start": 75.14,
+        "end": 75.32,
+        "word": " dein",
+        "probability": 0.9684395790100098
+      },
+      {
+        "start": 75.32,
+        "end": 75.82,
+        "word": " Ellbogen",
+        "probability": 0.7251401940981547
+      },
+      {
+        "start": 75.82,
+        "end": 76.3,
+        "word": " genau",
+        "probability": 0.9957790374755859
+      },
+      {
+        "start": 76.3,
+        "end": 76.52,
+        "word": " diese",
+        "probability": 0.9927347898483276
+      },
+      {
+        "start": 76.52,
+        "end": 76.78,
+        "word": " Stelle.",
+        "probability": 0.990527868270874
+      },
+      {
+        "start": 77.3,
+        "end": 77.52,
+        "word": " Keine",
+        "probability": 0.9948049783706665
+      },
+      {
+        "start": 77.52,
+        "end": 77.8,
+        "word": " Tasse,",
+        "probability": 0.9950352311134338
+      },
+      {
+        "start": 78.22,
+        "end": 78.38,
+        "word": " kein",
+        "probability": 0.9947939515113831
+      },
+      {
+        "start": 78.38,
+        "end": 78.8,
+        "word": " Kaffee,",
+        "probability": 0.9945277174313863
+      }
+    ]
+  },
+  {
+    "start": 79.16,
+    "end": 84.1,
+    "text": " kein kaputter Laptop. Draußen zeigt dein Vorausblick die geschlossenen Türen deiner",
+    "words": [
+      {
+        "start": 79.16,
+        "end": 79.34,
+        "word": " kein",
+        "probability": 0.9981316924095154
+      },
+      {
+        "start": 79.34,
+        "end": 79.72,
+        "word": " kaputter",
+        "probability": 0.9351975619792938
+      },
+      {
+        "start": 79.72,
+        "end": 80.22,
+        "word": " Laptop.",
+        "probability": 0.9973513086636862
+      },
+      {
+        "start": 81.02,
+        "end": 81.42,
+        "word": " Draußen",
+        "probability": 0.9410026371479034
+      },
+      {
+        "start": 81.42,
+        "end": 81.72,
+        "word": " zeigt",
+        "probability": 0.9912431240081787
+      },
+      {
+        "start": 81.72,
+        "end": 81.9,
+        "word": " dein",
+        "probability": 0.774716854095459
+      },
+      {
+        "start": 81.9,
+        "end": 82.48,
+        "word": " Vorausblick",
+        "probability": 0.8870437741279602
+      },
+      {
+        "start": 82.48,
+        "end": 82.96,
+        "word": " die",
+        "probability": 0.8975900411605835
+      },
+      {
+        "start": 82.96,
+        "end": 83.46,
+        "word": " geschlossenen",
+        "probability": 0.9864339381456375
+      },
+      {
+        "start": 83.46,
+        "end": 83.82,
+        "word": " Türen",
+        "probability": 0.9896910786628723
+      },
+      {
+        "start": 83.82,
+        "end": 84.1,
+        "word": " deiner",
+        "probability": 0.9872831106185913
+      }
+    ]
+  },
+  {
+    "start": 84.1,
+    "end": 90.5,
+    "text": " Bahn. Du hast sie knapp verpasst. Also läufst du los und steigst rechtzeitig ein.",
+    "words": [
+      {
+        "start": 84.1,
+        "end": 84.3,
+        "word": " Bahn.",
+        "probability": 0.2098805457353592
+      },
+      {
+        "start": 84.92,
+        "end": 85.42,
+        "word": " Du",
+        "probability": 0.986100971698761
+      },
+      {
+        "start": 85.42,
+        "end": 85.64,
+        "word": " hast",
+        "probability": 0.9981631636619568
+      },
+      {
+        "start": 85.64,
+        "end": 85.84,
+        "word": " sie",
+        "probability": 0.9902613759040833
+      },
+      {
+        "start": 85.84,
+        "end": 86.06,
+        "word": " knapp",
+        "probability": 0.9987420439720154
+      },
+      {
+        "start": 86.06,
+        "end": 86.58,
+        "word": " verpasst.",
+        "probability": 0.9939058224360148
+      },
+      {
+        "start": 87.36,
+        "end": 88.0,
+        "word": " Also",
+        "probability": 0.9807983040809631
+      },
+      {
+        "start": 88.0,
+        "end": 88.44,
+        "word": " läufst",
+        "probability": 0.9356091419855753
+      },
+      {
+        "start": 88.44,
+        "end": 88.56,
+        "word": " du",
+        "probability": 0.9313969612121582
+      },
+      {
+        "start": 88.56,
+        "end": 88.78,
+        "word": " los",
+        "probability": 0.9902689456939697
+      },
+      {
+        "start": 88.78,
+        "end": 89.34,
+        "word": " und",
+        "probability": 0.960563063621521
+      },
+      {
+        "start": 89.34,
+        "end": 89.78,
+        "word": " steigst",
+        "probability": 0.9963313142458597
+      },
+      {
+        "start": 89.78,
+        "end": 90.26,
+        "word": " rechtzeitig",
+        "probability": 0.9938867390155792
+      },
+      {
+        "start": 90.26,
+        "end": 90.5,
+        "word": " ein.",
+        "probability": 0.9969863295555115
+      }
+    ]
+  },
+  {
+    "start": 91.76,
+    "end": 97.34,
+    "text": " Zwei Entscheidungen, zwei bessere Ergebnisse. Bei der Arbeit fragt dein Chef nach einer Zahl.",
+    "words": [
+      {
+        "start": 91.76,
+        "end": 92.14,
+        "word": " Zwei",
+        "probability": 0.8838186860084534
+      },
+      {
+        "start": 92.14,
+        "end": 92.64,
+        "word": " Entscheidungen,",
+        "probability": 0.9860230386257172
+      },
+      {
+        "start": 93.0,
+        "end": 93.22,
+        "word": " zwei",
+        "probability": 0.9810386896133423
+      },
+      {
+        "start": 93.22,
+        "end": 93.78,
+        "word": " bessere",
+        "probability": 0.9995376169681549
+      },
+      {
+        "start": 93.78,
+        "end": 94.3,
+        "word": " Ergebnisse.",
+        "probability": 0.9976063966751099
+      },
+      {
+        "start": 95.32,
+        "end": 95.56,
+        "word": " Bei",
+        "probability": 0.9960218071937561
+      },
+      {
+        "start": 95.56,
+        "end": 95.66,
+        "word": " der",
+        "probability": 0.9991497993469238
+      },
+      {
+        "start": 95.66,
+        "end": 95.94,
+        "word": " Arbeit",
+        "probability": 0.9988775849342346
+      },
+      {
+        "start": 95.94,
+        "end": 96.34,
+        "word": " fragt",
+        "probability": 0.9860266447067261
+      },
+      {
+        "start": 96.34,
+        "end": 96.44,
+        "word": " dein",
+        "probability": 0.9546418786048889
+      },
+      {
+        "start": 96.44,
+        "end": 96.7,
+        "word": " Chef",
+        "probability": 0.9774412512779236
+      },
+      {
+        "start": 96.7,
+        "end": 96.9,
+        "word": " nach",
+        "probability": 0.9972519278526306
+      },
+      {
+        "start": 96.9,
+        "end": 97.12,
+        "word": " einer",
+        "probability": 0.9989855885505676
+      },
+      {
+        "start": 97.12,
+        "end": 97.34,
+        "word": " Zahl.",
+        "probability": 0.9855355024337769
+      }
+    ]
+  },
+  {
+    "start": 98.32,
+    "end": 104.12,
+    "text": " Im Vorausblick suchst du vergeblich danach. Jetzt öffnest du rechtzeitig die richtige",
+    "words": [
+      {
+        "start": 98.32,
+        "end": 98.46,
+        "word": " Im",
+        "probability": 0.9982287287712097
+      },
+      {
+        "start": 98.46,
+        "end": 99.06,
+        "word": " Vorausblick",
+        "probability": 0.9891867786645889
+      },
+      {
+        "start": 99.06,
+        "end": 99.82,
+        "word": " suchst",
+        "probability": 0.9808103442192078
+      },
+      {
+        "start": 99.82,
+        "end": 99.94,
+        "word": " du",
+        "probability": 0.9765348434448242
+      },
+      {
+        "start": 99.94,
+        "end": 100.42,
+        "word": " vergeblich",
+        "probability": 0.9627850453058878
+      },
+      {
+        "start": 100.42,
+        "end": 100.68,
+        "word": " danach.",
+        "probability": 0.9991180300712585
+      },
+      {
+        "start": 101.86,
+        "end": 102.38,
+        "word": " Jetzt",
+        "probability": 0.971278190612793
+      },
+      {
+        "start": 102.38,
+        "end": 102.94,
+        "word": " öffnest",
+        "probability": 0.9891552478075027
+      },
+      {
+        "start": 102.94,
+        "end": 103.08,
+        "word": " du",
+        "probability": 0.997282862663269
+      },
+      {
+        "start": 103.08,
+        "end": 103.6,
+        "word": " rechtzeitig",
+        "probability": 0.9978478252887726
+      },
+      {
+        "start": 103.6,
+        "end": 103.8,
+        "word": " die",
+        "probability": 0.9990748167037964
+      },
+      {
+        "start": 103.8,
+        "end": 104.12,
+        "word": " richtige",
+        "probability": 0.995628833770752
+      }
+    ]
+  },
+  {
+    "start": 104.12,
+    "end": 110.34,
+    "text": " Datei. Eine Kollegin macht gleich einen Witz. Du kennst die Ponte. Du lachst trotzdem.",
+    "words": [
+      {
+        "start": 104.12,
+        "end": 104.62,
+        "word": " Datei.",
+        "probability": 0.98780357837677
+      },
+      {
+        "start": 105.62,
+        "end": 105.82,
+        "word": " Eine",
+        "probability": 0.9892469048500061
+      },
+      {
+        "start": 105.82,
+        "end": 106.18,
+        "word": " Kollegin",
+        "probability": 0.9817536473274231
+      },
+      {
+        "start": 106.18,
+        "end": 106.48,
+        "word": " macht",
+        "probability": 0.9985222220420837
+      },
+      {
+        "start": 106.48,
+        "end": 106.78,
+        "word": " gleich",
+        "probability": 0.9972760081291199
+      },
+      {
+        "start": 106.78,
+        "end": 107.06,
+        "word": " einen",
+        "probability": 0.9986518025398254
+      },
+      {
+        "start": 107.06,
+        "end": 107.3,
+        "word": " Witz.",
+        "probability": 0.9763040542602539
+      },
+      {
+        "start": 108.0,
+        "end": 108.26,
+        "word": " Du",
+        "probability": 0.9717156887054443
+      },
+      {
+        "start": 108.26,
+        "end": 108.64,
+        "word": " kennst",
+        "probability": 0.9942117631435394
+      },
+      {
+        "start": 108.64,
+        "end": 108.8,
+        "word": " die",
+        "probability": 0.9983077049255371
+      },
+      {
+        "start": 108.8,
+        "end": 109.04,
+        "word": " Ponte.",
+        "probability": 0.8327027857303619
+      },
+      {
+        "start": 109.6,
+        "end": 109.74,
+        "word": " Du",
+        "probability": 0.9946870803833008
+      },
+      {
+        "start": 109.74,
+        "end": 110.02,
+        "word": " lachst",
+        "probability": 0.9914765159289042
+      },
+      {
+        "start": 110.02,
+        "end": 110.34,
+        "word": " trotzdem.",
+        "probability": 0.9960187077522278
+      }
+    ]
+  },
+  {
+    "start": 110.34,
+    "end": 119.18,
+    "text": " Noch. Dann kommt die Frage. Kannst du damit reich werden? Du öffnest einen Aktienkurs. Ein Blick",
+    "words": [
+      {
+        "start": 110.34,
+        "end": 111.6,
+        "word": " Noch.",
+        "probability": 0.7097598910331726
+      },
+      {
+        "start": 112.52,
+        "end": 112.92,
+        "word": " Dann",
+        "probability": 0.8953406810760498
+      },
+      {
+        "start": 112.92,
+        "end": 113.16,
+        "word": " kommt",
+        "probability": 0.9889973402023315
+      },
+      {
+        "start": 113.16,
+        "end": 113.3,
+        "word": " die",
+        "probability": 0.9983416795730591
+      },
+      {
+        "start": 113.3,
+        "end": 113.54,
+        "word": " Frage.",
+        "probability": 0.9993707537651062
+      },
+      {
+        "start": 114.34,
+        "end": 114.58,
+        "word": " Kannst",
+        "probability": 0.9769395291805267
+      },
+      {
+        "start": 114.58,
+        "end": 114.68,
+        "word": " du",
+        "probability": 0.911940336227417
+      },
+      {
+        "start": 114.68,
+        "end": 114.88,
+        "word": " damit",
+        "probability": 0.9973669648170471
+      },
+      {
+        "start": 114.88,
+        "end": 115.16,
+        "word": " reich",
+        "probability": 0.9894541203975677
+      },
+      {
+        "start": 115.16,
+        "end": 115.38,
+        "word": " werden?",
+        "probability": 0.9743292927742004
+      },
+      {
+        "start": 116.36,
+        "end": 116.5,
+        "word": " Du",
+        "probability": 0.9824802279472351
+      },
+      {
+        "start": 116.5,
+        "end": 116.88,
+        "word": " öffnest",
+        "probability": 0.9821307361125946
+      },
+      {
+        "start": 116.88,
+        "end": 117.1,
+        "word": " einen",
+        "probability": 0.9949270486831665
+      },
+      {
+        "start": 117.1,
+        "end": 117.7,
+        "word": " Aktienkurs.",
+        "probability": 0.9825350344181061
+      },
+      {
+        "start": 118.84,
+        "end": 119.0,
+        "word": " Ein",
+        "probability": 0.883669912815094
+      },
+      {
+        "start": 119.0,
+        "end": 119.18,
+        "word": " Blick",
+        "probability": 0.9845321774482727
+      }
+    ]
+  },
+  {
+    "start": 119.18,
+    "end": 126.12,
+    "text": " voraus. Der Preis steigt. Du kaufst. Kurz darauf erscheint dein erster Gewinn. Du",
+    "words": [
+      {
+        "start": 119.18,
+        "end": 119.7,
+        "word": " voraus.",
+        "probability": 0.9967252612113953
+      },
+      {
+        "start": 120.44,
+        "end": 120.66,
+        "word": " Der",
+        "probability": 0.9900429248809814
+      },
+      {
+        "start": 120.66,
+        "end": 120.92,
+        "word": " Preis",
+        "probability": 0.9921408891677856
+      },
+      {
+        "start": 120.92,
+        "end": 121.28,
+        "word": " steigt.",
+        "probability": 0.9964316189289093
+      },
+      {
+        "start": 121.78,
+        "end": 121.92,
+        "word": " Du",
+        "probability": 0.9930331707000732
+      },
+      {
+        "start": 121.92,
+        "end": 122.36,
+        "word": " kaufst.",
+        "probability": 0.9941895405451456
+      },
+      {
+        "start": 123.26,
+        "end": 123.52,
+        "word": " Kurz",
+        "probability": 0.9809414148330688
+      },
+      {
+        "start": 123.52,
+        "end": 123.86,
+        "word": " darauf",
+        "probability": 0.9970966577529907
+      },
+      {
+        "start": 123.86,
+        "end": 124.3,
+        "word": " erscheint",
+        "probability": 0.9972445964813232
+      },
+      {
+        "start": 124.3,
+        "end": 124.44,
+        "word": " dein",
+        "probability": 0.9919175505638123
+      },
+      {
+        "start": 124.44,
+        "end": 124.76,
+        "word": " erster",
+        "probability": 0.981791228055954
+      },
+      {
+        "start": 124.76,
+        "end": 125.06,
+        "word": " Gewinn.",
+        "probability": 0.9909540712833405
+      },
+      {
+        "start": 125.88,
+        "end": 126.12,
+        "word": " Du",
+        "probability": 0.9975516200065613
+      }
+    ]
+  },
+  {
+    "start": 126.12,
+    "end": 131.34,
+    "text": " versuchst es wieder. Doch Gebühren und ein schlechterer Ausführungspreis fressen einen",
+    "words": [
+      {
+        "start": 126.12,
+        "end": 126.54,
+        "word": " versuchst",
+        "probability": 0.989958663781484
+      },
+      {
+        "start": 126.54,
+        "end": 126.64,
+        "word": " es",
+        "probability": 0.9815872311592102
+      },
+      {
+        "start": 126.64,
+        "end": 126.82,
+        "word": " wieder.",
+        "probability": 0.9928790926933289
+      },
+      {
+        "start": 127.62,
+        "end": 127.8,
+        "word": " Doch",
+        "probability": 0.9945928454399109
+      },
+      {
+        "start": 127.8,
+        "end": 128.2,
+        "word": " Gebühren",
+        "probability": 0.9814711213111877
+      },
+      {
+        "start": 128.2,
+        "end": 128.6,
+        "word": " und",
+        "probability": 0.9820594191551208
+      },
+      {
+        "start": 128.6,
+        "end": 128.88,
+        "word": " ein",
+        "probability": 0.8983034491539001
+      },
+      {
+        "start": 128.88,
+        "end": 129.38,
+        "word": " schlechterer",
+        "probability": 0.9748516281445821
+      },
+      {
+        "start": 129.38,
+        "end": 130.38,
+        "word": " Ausführungspreis",
+        "probability": 0.992937421798706
+      },
+      {
+        "start": 130.38,
+        "end": 131.14,
+        "word": " fressen",
+        "probability": 0.981471061706543
+      },
+      {
+        "start": 131.14,
+        "end": 131.34,
+        "word": " einen",
+        "probability": 0.9975413084030151
+      }
+    ]
+  },
+  {
+    "start": 131.34,
+    "end": 137.48,
+    "text": " Teil davon auf. Den Kurs hast du richtig vorhergesehen. Deinen tatsächlichen Gewinn",
+    "words": [
+      {
+        "start": 131.34,
+        "end": 131.6,
+        "word": " Teil",
+        "probability": 0.9967820644378662
+      },
+      {
+        "start": 131.6,
+        "end": 131.84,
+        "word": " davon",
+        "probability": 0.996212363243103
+      },
+      {
+        "start": 131.84,
+        "end": 132.1,
+        "word": " auf.",
+        "probability": 0.9870843291282654
+      },
+      {
+        "start": 133.12,
+        "end": 133.52,
+        "word": " Den",
+        "probability": 0.9958353042602539
+      },
+      {
+        "start": 133.52,
+        "end": 133.94,
+        "word": " Kurs",
+        "probability": 0.9917633831501007
+      },
+      {
+        "start": 133.94,
+        "end": 134.36,
+        "word": " hast",
+        "probability": 0.9925851225852966
+      },
+      {
+        "start": 134.36,
+        "end": 134.52,
+        "word": " du",
+        "probability": 0.9851411581039429
+      },
+      {
+        "start": 134.52,
+        "end": 134.78,
+        "word": " richtig",
+        "probability": 0.9975806474685669
+      },
+      {
+        "start": 134.78,
+        "end": 135.34,
+        "word": " vorhergesehen.",
+        "probability": 0.8955387075742086
+      },
+      {
+        "start": 136.36,
+        "end": 136.64,
+        "word": " Deinen",
+        "probability": 0.9751019179821014
+      },
+      {
+        "start": 136.64,
+        "end": 137.14,
+        "word": " tatsächlichen",
+        "probability": 0.9874764829874039
+      },
+      {
+        "start": 137.14,
+        "end": 137.48,
+        "word": " Gewinn",
+        "probability": 0.9976422488689423
+      }
+    ]
+  },
+  {
+    "start": 137.48,
+    "end": 145.1,
+    "text": " nicht vollständig bedacht. Und die Lotto zahlen? Die Ziehung ist erst heute Abend. Dein Blick",
+    "words": [
+      {
+        "start": 137.48,
+        "end": 137.92,
+        "word": " nicht",
+        "probability": 0.8248612284660339
+      },
+      {
+        "start": 137.92,
+        "end": 138.5,
+        "word": " vollständig",
+        "probability": 0.997932493686676
+      },
+      {
+        "start": 138.5,
+        "end": 138.78,
+        "word": " bedacht.",
+        "probability": 0.9939625263214111
+      },
+      {
+        "start": 139.66,
+        "end": 140.22,
+        "word": " Und",
+        "probability": 0.9714415669441223
+      },
+      {
+        "start": 140.22,
+        "end": 140.54,
+        "word": " die",
+        "probability": 0.9893741011619568
+      },
+      {
+        "start": 140.54,
+        "end": 140.74,
+        "word": " Lotto",
+        "probability": 0.8744330108165741
+      },
+      {
+        "start": 140.74,
+        "end": 141.14,
+        "word": " zahlen?",
+        "probability": 0.6502984017133713
+      },
+      {
+        "start": 142.1,
+        "end": 142.38,
+        "word": " Die",
+        "probability": 0.94588303565979
+      },
+      {
+        "start": 142.38,
+        "end": 142.76,
+        "word": " Ziehung",
+        "probability": 0.8324139714241028
+      },
+      {
+        "start": 142.76,
+        "end": 142.94,
+        "word": " ist",
+        "probability": 0.9954264760017395
+      },
+      {
+        "start": 142.94,
+        "end": 143.12,
+        "word": " erst",
+        "probability": 0.9938457608222961
+      },
+      {
+        "start": 143.12,
+        "end": 143.42,
+        "word": " heute",
+        "probability": 0.9966551065444946
+      },
+      {
+        "start": 143.42,
+        "end": 143.68,
+        "word": " Abend.",
+        "probability": 0.9848253130912781
+      },
+      {
+        "start": 144.64,
+        "end": 144.94,
+        "word": " Dein",
+        "probability": 0.9859875440597534
+      },
+      {
+        "start": 144.94,
+        "end": 145.1,
+        "word": " Blick",
+        "probability": 0.9799219369888306
+      }
+    ]
+  },
+  {
+    "start": 145.1,
+    "end": 152.18,
+    "text": " reicht bis zur nächsten Minute. Beim Fußball wird die Grenze deutlicher. Du siehst einen Stürmer",
+    "words": [
+      {
+        "start": 145.1,
+        "end": 145.42,
+        "word": " reicht",
+        "probability": 0.99709153175354
+      },
+      {
+        "start": 145.42,
+        "end": 145.62,
+        "word": " bis",
+        "probability": 0.9985344409942627
+      },
+      {
+        "start": 145.62,
+        "end": 145.84,
+        "word": " zur",
+        "probability": 0.9748762249946594
+      },
+      {
+        "start": 145.84,
+        "end": 146.06,
+        "word": " nächsten",
+        "probability": 0.9993382096290588
+      },
+      {
+        "start": 146.06,
+        "end": 146.46,
+        "word": " Minute.",
+        "probability": 0.9958845973014832
+      },
+      {
+        "start": 147.6,
+        "end": 147.78,
+        "word": " Beim",
+        "probability": 0.9952617883682251
+      },
+      {
+        "start": 147.78,
+        "end": 148.2,
+        "word": " Fußball",
+        "probability": 0.9659256935119629
+      },
+      {
+        "start": 148.2,
+        "end": 149.06,
+        "word": " wird",
+        "probability": 0.9919003248214722
+      },
+      {
+        "start": 149.06,
+        "end": 149.2,
+        "word": " die",
+        "probability": 0.9989786148071289
+      },
+      {
+        "start": 149.2,
+        "end": 149.52,
+        "word": " Grenze",
+        "probability": 0.9967046678066254
+      },
+      {
+        "start": 149.52,
+        "end": 150.04,
+        "word": " deutlicher.",
+        "probability": 0.993967205286026
+      },
+      {
+        "start": 150.92,
+        "end": 151.24,
+        "word": " Du",
+        "probability": 0.9840302467346191
+      },
+      {
+        "start": 151.24,
+        "end": 151.54,
+        "word": " siehst",
+        "probability": 0.9960383474826813
+      },
+      {
+        "start": 151.54,
+        "end": 151.76,
+        "word": " einen",
+        "probability": 0.9983710646629333
+      },
+      {
+        "start": 151.76,
+        "end": 152.18,
+        "word": " Stürmer",
+        "probability": 0.9880722562472025
+      }
+    ]
+  },
+  {
+    "start": 152.18,
+    "end": 160.28,
+    "text": " treffen. Du setzt auf das Tor. Der Ball geht rein, du jubelst, dann meldet sich der Videoassistent.",
+    "words": [
+      {
+        "start": 152.18,
+        "end": 152.48,
+        "word": " treffen.",
+        "probability": 0.9819170832633972
+      },
+      {
+        "start": 153.46,
+        "end": 153.68,
+        "word": " Du",
+        "probability": 0.9979087114334106
+      },
+      {
+        "start": 153.68,
+        "end": 153.88,
+        "word": " setzt",
+        "probability": 0.9850013256072998
+      },
+      {
+        "start": 153.88,
+        "end": 154.12,
+        "word": " auf",
+        "probability": 0.9996230602264404
+      },
+      {
+        "start": 154.12,
+        "end": 154.32,
+        "word": " das",
+        "probability": 0.9977290034294128
+      },
+      {
+        "start": 154.32,
+        "end": 154.56,
+        "word": " Tor.",
+        "probability": 0.9797911047935486
+      },
+      {
+        "start": 155.6,
+        "end": 155.88,
+        "word": " Der",
+        "probability": 0.9823252558708191
+      },
+      {
+        "start": 155.88,
+        "end": 156.12,
+        "word": " Ball",
+        "probability": 0.9935239553451538
+      },
+      {
+        "start": 156.12,
+        "end": 156.34,
+        "word": " geht",
+        "probability": 0.9989674091339111
+      },
+      {
+        "start": 156.34,
+        "end": 156.62,
+        "word": " rein,",
+        "probability": 0.9932732582092285
+      },
+      {
+        "start": 157.08,
+        "end": 157.2,
+        "word": " du",
+        "probability": 0.9795956015586853
+      },
+      {
+        "start": 157.2,
+        "end": 157.74,
+        "word": " jubelst,",
+        "probability": 0.9512853473424911
+      },
+      {
+        "start": 158.22,
+        "end": 158.34,
+        "word": " dann",
+        "probability": 0.9962129592895508
+      },
+      {
+        "start": 158.34,
+        "end": 159.24,
+        "word": " meldet",
+        "probability": 0.985552579164505
+      },
+      {
+        "start": 159.24,
+        "end": 159.42,
+        "word": " sich",
+        "probability": 0.9993890523910522
+      },
+      {
+        "start": 159.42,
+        "end": 159.6,
+        "word": " der",
+        "probability": 0.9990025162696838
+      },
+      {
+        "start": 159.6,
+        "end": 160.28,
+        "word": " Videoassistent.",
+        "probability": 0.9421300093332926
+      }
+    ]
+  },
+  {
+    "start": 160.28,
+    "end": 167.88,
+    "text": " Abseits, die Entscheidung fällt später. Dein Ausschnitt hatte sie nicht gezeigt. Die Wette",
+    "words": [
+      {
+        "start": 160.28,
+        "end": 161.68,
+        "word": " Abseits,",
+        "probability": 0.5688941702246666
+      },
+      {
+        "start": 162.08,
+        "end": 162.36,
+        "word": " die",
+        "probability": 0.9802302718162537
+      },
+      {
+        "start": 162.36,
+        "end": 162.78,
+        "word": " Entscheidung",
+        "probability": 0.9751773476600647
+      },
+      {
+        "start": 162.78,
+        "end": 163.02,
+        "word": " fällt",
+        "probability": 0.9967232346534729
+      },
+      {
+        "start": 163.02,
+        "end": 163.48,
+        "word": " später.",
+        "probability": 0.9967724680900574
+      },
+      {
+        "start": 164.34,
+        "end": 164.78,
+        "word": " Dein",
+        "probability": 0.983538955450058
+      },
+      {
+        "start": 164.78,
+        "end": 165.2,
+        "word": " Ausschnitt",
+        "probability": 0.992725670337677
+      },
+      {
+        "start": 165.2,
+        "end": 165.78,
+        "word": " hatte",
+        "probability": 0.9653497934341431
+      },
+      {
+        "start": 165.78,
+        "end": 165.98,
+        "word": " sie",
+        "probability": 0.978592574596405
+      },
+      {
+        "start": 165.98,
+        "end": 166.18,
+        "word": " nicht",
+        "probability": 0.9976986050605774
+      },
+      {
+        "start": 166.18,
+        "end": 166.58,
+        "word": " gezeigt.",
+        "probability": 0.9962531328201294
+      },
+      {
+        "start": 167.46,
+        "end": 167.64,
+        "word": " Die",
+        "probability": 0.9873523712158203
+      },
+      {
+        "start": 167.64,
+        "end": 167.88,
+        "word": " Wette",
+        "probability": 0.9824420511722565
+      }
+    ]
+  },
+  {
+    "start": 167.88,
+    "end": 173.72,
+    "text": " ist längst abgegeben. Du hast etwas richtiges gesehen und die falsche Schlussfolgerung gezogen.",
+    "words": [
+      {
+        "start": 167.88,
+        "end": 168.12,
+        "word": " ist",
+        "probability": 0.9971839785575867
+      },
+      {
+        "start": 168.12,
+        "end": 168.5,
+        "word": " längst",
+        "probability": 0.9983476996421814
+      },
+      {
+        "start": 168.5,
+        "end": 169.0,
+        "word": " abgegeben.",
+        "probability": 0.9883115887641907
+      },
+      {
+        "start": 169.98,
+        "end": 170.1,
+        "word": " Du",
+        "probability": 0.9904624819755554
+      },
+      {
+        "start": 170.1,
+        "end": 170.32,
+        "word": " hast",
+        "probability": 0.9952176809310913
+      },
+      {
+        "start": 170.32,
+        "end": 170.62,
+        "word": " etwas",
+        "probability": 0.9803360104560852
+      },
+      {
+        "start": 170.62,
+        "end": 171.24,
+        "word": " richtiges",
+        "probability": 0.7800804674625397
+      },
+      {
+        "start": 171.24,
+        "end": 171.5,
+        "word": " gesehen",
+        "probability": 0.9940237402915955
+      },
+      {
+        "start": 171.5,
+        "end": 172.1,
+        "word": " und",
+        "probability": 0.7764397859573364
+      },
+      {
+        "start": 172.1,
+        "end": 172.28,
+        "word": " die",
+        "probability": 0.9985584616661072
+      },
+      {
+        "start": 172.28,
+        "end": 172.64,
+        "word": " falsche",
+        "probability": 0.99017533659935
+      },
+      {
+        "start": 172.64,
+        "end": 173.34,
+        "word": " Schlussfolgerung",
+        "probability": 0.9943311810493469
+      },
+      {
+        "start": 173.34,
+        "end": 173.72,
+        "word": " gezogen.",
+        "probability": 0.9941352605819702
+      }
+    ]
+  },
+  {
+    "start": 174.68,
+    "end": 178.34,
+    "text": " Genau hier wird die Fähigkeit gefährlich. Du gewünscht dich daran,",
+    "words": [
+      {
+        "start": 174.68,
+        "end": 175.06,
+        "word": " Genau",
+        "probability": 0.973336935043335
+      },
+      {
+        "start": 175.06,
+        "end": 175.26,
+        "word": " hier",
+        "probability": 0.9972787499427795
+      },
+      {
+        "start": 175.26,
+        "end": 175.44,
+        "word": " wird",
+        "probability": 0.9975572824478149
+      },
+      {
+        "start": 175.44,
+        "end": 175.58,
+        "word": " die",
+        "probability": 0.9987369179725647
+      },
+      {
+        "start": 175.58,
+        "end": 176.04,
+        "word": " Fähigkeit",
+        "probability": 0.9875602920850118
+      },
+      {
+        "start": 176.04,
+        "end": 176.6,
+        "word": " gefährlich.",
+        "probability": 0.9944649338722229
+      },
+      {
+        "start": 177.4,
+        "end": 177.66,
+        "word": " Du",
+        "probability": 0.9967634677886963
+      },
+      {
+        "start": 177.66,
+        "end": 178.02,
+        "word": " gewünscht",
+        "probability": 0.8561006188392639
+      },
+      {
+        "start": 178.02,
+        "end": 178.14,
+        "word": " dich",
+        "probability": 0.9701321721076965
+      },
+      {
+        "start": 178.14,
+        "end": 178.34,
+        "word": " daran,",
+        "probability": 0.7899006009101868
+      }
+    ]
+  },
+  {
+    "start": 178.46,
+    "end": 182.8,
+    "text": " recht zu haben. Also vergiss du, dass die Informationen fehlen können.",
+    "words": [
+      {
+        "start": 178.46,
+        "end": 178.56,
+        "word": " recht",
+        "probability": 0.35650959610939026
+      },
+      {
+        "start": 178.56,
+        "end": 178.8,
+        "word": " zu",
+        "probability": 0.9922546148300171
+      },
+      {
+        "start": 178.8,
+        "end": 178.96,
+        "word": " haben.",
+        "probability": 0.9990867376327515
+      },
+      {
+        "start": 179.96,
+        "end": 180.24,
+        "word": " Also",
+        "probability": 0.9861154556274414
+      },
+      {
+        "start": 180.24,
+        "end": 180.62,
+        "word": " vergiss",
+        "probability": 0.768141120672226
+      },
+      {
+        "start": 180.62,
+        "end": 180.82,
+        "word": " du,",
+        "probability": 0.9424718022346497
+      },
+      {
+        "start": 181.38,
+        "end": 181.48,
+        "word": " dass",
+        "probability": 0.9927639365196228
+      },
+      {
+        "start": 181.48,
+        "end": 181.62,
+        "word": " die",
+        "probability": 0.8153024911880493
+      },
+      {
+        "start": 181.62,
+        "end": 182.04,
+        "word": " Informationen",
+        "probability": 0.9943923354148865
+      },
+      {
+        "start": 182.04,
+        "end": 182.56,
+        "word": " fehlen",
+        "probability": 0.9973414242267609
+      },
+      {
+        "start": 182.56,
+        "end": 182.8,
+        "word": " können.",
+        "probability": 0.9968841671943665
+      }
+    ]
+  },
+  {
+    "start": 183.76,
+    "end": 189.54,
+    "text": " An der nächsten Kreuzung schaust du voraus. Freie Straße, du willst losgehen. Dann",
+    "words": [
+      {
+        "start": 183.76,
+        "end": 184.0,
+        "word": " An",
+        "probability": 0.9898245930671692
+      },
+      {
+        "start": 184.0,
+        "end": 184.1,
+        "word": " der",
+        "probability": 0.9992395639419556
+      },
+      {
+        "start": 184.1,
+        "end": 184.28,
+        "word": " nächsten",
+        "probability": 0.9969191551208496
+      },
+      {
+        "start": 184.28,
+        "end": 184.76,
+        "word": " Kreuzung",
+        "probability": 0.9360008239746094
+      },
+      {
+        "start": 184.76,
+        "end": 185.06,
+        "word": " schaust",
+        "probability": 0.9901642600695292
+      },
+      {
+        "start": 185.06,
+        "end": 185.18,
+        "word": " du",
+        "probability": 0.9855807423591614
+      },
+      {
+        "start": 185.18,
+        "end": 185.6,
+        "word": " voraus.",
+        "probability": 0.9959674874941508
+      },
+      {
+        "start": 186.32,
+        "end": 186.68,
+        "word": " Freie",
+        "probability": 0.925717830657959
+      },
+      {
+        "start": 186.68,
+        "end": 187.0,
+        "word": " Straße,",
+        "probability": 0.969109296798706
+      },
+      {
+        "start": 187.48,
+        "end": 187.58,
+        "word": " du",
+        "probability": 0.9913702011108398
+      },
+      {
+        "start": 187.58,
+        "end": 187.76,
+        "word": " willst",
+        "probability": 0.9938079714775085
+      },
+      {
+        "start": 187.76,
+        "end": 188.26,
+        "word": " losgehen.",
+        "probability": 0.9814048409461975
+      },
+      {
+        "start": 189.1,
+        "end": 189.54,
+        "word": " Dann",
+        "probability": 0.9915218353271484
+      }
+    ]
+  },
+  {
+    "start": 189.54,
+    "end": 195.32,
+    "text": " hältst du inne. Du hast einen einzigen Moment gesehen. Nicht alles, was während der nächsten",
+    "words": [
+      {
+        "start": 189.54,
+        "end": 190.16,
+        "word": " hältst",
+        "probability": 0.5048783598467708
+      },
+      {
+        "start": 190.16,
+        "end": 190.24,
+        "word": " du",
+        "probability": 0.8990352749824524
+      },
+      {
+        "start": 190.24,
+        "end": 190.44,
+        "word": " inne.",
+        "probability": 0.8804609775543213
+      },
+      {
+        "start": 191.3,
+        "end": 191.46,
+        "word": " Du",
+        "probability": 0.9535042643547058
+      },
+      {
+        "start": 191.46,
+        "end": 191.58,
+        "word": " hast",
+        "probability": 0.9981036186218262
+      },
+      {
+        "start": 191.58,
+        "end": 191.78,
+        "word": " einen",
+        "probability": 0.9959558248519897
+      },
+      {
+        "start": 191.78,
+        "end": 192.26,
+        "word": " einzigen",
+        "probability": 0.99931600689888
+      },
+      {
+        "start": 192.26,
+        "end": 192.46,
+        "word": " Moment",
+        "probability": 0.9861391186714172
+      },
+      {
+        "start": 192.46,
+        "end": 192.8,
+        "word": " gesehen.",
+        "probability": 0.9985370635986328
+      },
+      {
+        "start": 193.68,
+        "end": 193.88,
+        "word": " Nicht",
+        "probability": 0.9975250363349915
+      },
+      {
+        "start": 193.88,
+        "end": 194.14,
+        "word": " alles,",
+        "probability": 0.9931990504264832
+      },
+      {
+        "start": 194.48,
+        "end": 194.62,
+        "word": " was",
+        "probability": 0.9953827261924744
+      },
+      {
+        "start": 194.62,
+        "end": 194.96,
+        "word": " während",
+        "probability": 0.9933956265449524
+      },
+      {
+        "start": 194.96,
+        "end": 195.1,
+        "word": " der",
+        "probability": 0.9991624355316162
+      },
+      {
+        "start": 195.1,
+        "end": 195.32,
+        "word": " nächsten",
+        "probability": 0.9924713373184204
+      }
+    ]
+  },
+  {
+    "start": 195.32,
+    "end": 200.88,
+    "text": " Minute aus den Seitenstraßen kommen könnte. Du steckst das Handy weg und schaust nach links und",
+    "words": [
+      {
+        "start": 195.32,
+        "end": 195.76,
+        "word": " Minute",
+        "probability": 0.9920008182525635
+      },
+      {
+        "start": 195.76,
+        "end": 195.98,
+        "word": " aus",
+        "probability": 0.9892789721488953
+      },
+      {
+        "start": 195.98,
+        "end": 196.12,
+        "word": " den",
+        "probability": 0.9940686225891113
+      },
+      {
+        "start": 196.12,
+        "end": 196.74,
+        "word": " Seitenstraßen",
+        "probability": 0.9360621968905131
+      },
+      {
+        "start": 196.74,
+        "end": 196.92,
+        "word": " kommen",
+        "probability": 0.997791051864624
+      },
+      {
+        "start": 196.92,
+        "end": 197.24,
+        "word": " könnte.",
+        "probability": 0.9968859553337097
+      },
+      {
+        "start": 198.12,
+        "end": 198.4,
+        "word": " Du",
+        "probability": 0.9894018769264221
+      },
+      {
+        "start": 198.4,
+        "end": 198.74,
+        "word": " steckst",
+        "probability": 0.9741791486740112
+      },
+      {
+        "start": 198.74,
+        "end": 198.88,
+        "word": " das",
+        "probability": 0.9973938465118408
+      },
+      {
+        "start": 198.88,
+        "end": 199.1,
+        "word": " Handy",
+        "probability": 0.9899066090583801
+      },
+      {
+        "start": 199.1,
+        "end": 199.4,
+        "word": " weg",
+        "probability": 0.9958781003952026
+      },
+      {
+        "start": 199.4,
+        "end": 199.84,
+        "word": " und",
+        "probability": 0.972668468952179
+      },
+      {
+        "start": 199.84,
+        "end": 200.16,
+        "word": " schaust",
+        "probability": 0.9939193924268087
+      },
+      {
+        "start": 200.16,
+        "end": 200.38,
+        "word": " nach",
+        "probability": 0.9993889331817627
+      },
+      {
+        "start": 200.38,
+        "end": 200.62,
+        "word": " links",
+        "probability": 0.9956896901130676
+      },
+      {
+        "start": 200.62,
+        "end": 200.88,
+        "word": " und",
+        "probability": 0.9956894516944885
+      }
+    ]
+  },
+  {
+    "start": 200.88,
+    "end": 207.68,
+    "text": " rechts. Deine Superkraft braucht offenbar jemanden, der mitdenkt. Bis hierhin hast du Zeit gespart,",
+    "words": [
+      {
+        "start": 200.88,
+        "end": 201.18,
+        "word": " rechts.",
+        "probability": 0.9997815489768982
+      },
+      {
+        "start": 202.54,
+        "end": 202.76,
+        "word": " Deine",
+        "probability": 0.996770441532135
+      },
+      {
+        "start": 202.76,
+        "end": 203.2,
+        "word": " Superkraft",
+        "probability": 0.9783943891525269
+      },
+      {
+        "start": 203.2,
+        "end": 203.5,
+        "word": " braucht",
+        "probability": 0.9933050274848938
+      },
+      {
+        "start": 203.5,
+        "end": 203.94,
+        "word": " offenbar",
+        "probability": 0.9896690845489502
+      },
+      {
+        "start": 203.94,
+        "end": 204.44,
+        "word": " jemanden,",
+        "probability": 0.9738650918006897
+      },
+      {
+        "start": 204.64,
+        "end": 204.82,
+        "word": " der",
+        "probability": 0.9984122514724731
+      },
+      {
+        "start": 204.82,
+        "end": 205.26,
+        "word": " mitdenkt.",
+        "probability": 0.9548009634017944
+      },
+      {
+        "start": 206.28,
+        "end": 206.5,
+        "word": " Bis",
+        "probability": 0.9888491630554199
+      },
+      {
+        "start": 206.5,
+        "end": 206.88,
+        "word": " hierhin",
+        "probability": 0.9886826276779175
+      },
+      {
+        "start": 206.88,
+        "end": 207.0,
+        "word": " hast",
+        "probability": 0.9982154369354248
+      },
+      {
+        "start": 207.0,
+        "end": 207.12,
+        "word": " du",
+        "probability": 0.9799196720123291
+      },
+      {
+        "start": 207.12,
+        "end": 207.3,
+        "word": " Zeit",
+        "probability": 0.9793403148651123
+      },
+      {
+        "start": 207.3,
+        "end": 207.68,
+        "word": " gespart,",
+        "probability": 0.96507528424263
+      }
+    ]
+  },
+  {
+    "start": 208.14,
+    "end": 214.56,
+    "text": " Fehler vermieden und Geld gewonnen. Jetzt sitzt dir dein bester Freund gegenüber. Eratmeten",
+    "words": [
+      {
+        "start": 208.14,
+        "end": 208.32,
+        "word": " Fehler",
+        "probability": 0.9888810515403748
+      },
+      {
+        "start": 208.32,
+        "end": 208.88,
+        "word": " vermieden",
+        "probability": 0.9903274377187093
+      },
+      {
+        "start": 208.88,
+        "end": 209.26,
+        "word": " und",
+        "probability": 0.9661523103713989
+      },
+      {
+        "start": 209.26,
+        "end": 209.5,
+        "word": " Geld",
+        "probability": 0.9960606694221497
+      },
+      {
+        "start": 209.5,
+        "end": 209.84,
+        "word": " gewonnen.",
+        "probability": 0.9970836341381073
+      },
+      {
+        "start": 210.8,
+        "end": 211.1,
+        "word": " Jetzt",
+        "probability": 0.9751015901565552
+      },
+      {
+        "start": 211.1,
+        "end": 211.46,
+        "word": " sitzt",
+        "probability": 0.8993521332740784
+      },
+      {
+        "start": 211.46,
+        "end": 211.68,
+        "word": " dir",
+        "probability": 0.602142333984375
+      },
+      {
+        "start": 211.68,
+        "end": 211.86,
+        "word": " dein",
+        "probability": 0.9463824033737183
+      },
+      {
+        "start": 211.86,
+        "end": 212.22,
+        "word": " bester",
+        "probability": 0.9948478043079376
+      },
+      {
+        "start": 212.22,
+        "end": 212.42,
+        "word": " Freund",
+        "probability": 0.9992454051971436
+      },
+      {
+        "start": 212.42,
+        "end": 212.84,
+        "word": " gegenüber.",
+        "probability": 0.9942717552185059
+      },
+      {
+        "start": 213.98,
+        "end": 214.56,
+        "word": " Eratmeten",
+        "probability": 0.7358689904212952
+      }
+    ]
+  },
+  {
+    "start": 214.56,
+    "end": 221.44,
+    "text": " tief ein. Du schaust voraus. Eine Minute später sagt er, ich habe heute meinen Job verloren.",
+    "words": [
+      {
+        "start": 214.56,
+        "end": 214.96,
+        "word": " tief",
+        "probability": 0.8035793900489807
+      },
+      {
+        "start": 214.96,
+        "end": 215.22,
+        "word": " ein.",
+        "probability": 0.9915732741355896
+      },
+      {
+        "start": 215.78,
+        "end": 215.84,
+        "word": " Du",
+        "probability": 0.9613228440284729
+      },
+      {
+        "start": 215.84,
+        "end": 216.08,
+        "word": " schaust",
+        "probability": 0.9936474760373434
+      },
+      {
+        "start": 216.08,
+        "end": 216.52,
+        "word": " voraus.",
+        "probability": 0.993927538394928
+      },
+      {
+        "start": 217.24,
+        "end": 217.54,
+        "word": " Eine",
+        "probability": 0.9406114220619202
+      },
+      {
+        "start": 217.54,
+        "end": 217.76,
+        "word": " Minute",
+        "probability": 0.9912185072898865
+      },
+      {
+        "start": 217.76,
+        "end": 218.06,
+        "word": " später",
+        "probability": 0.9980944991111755
+      },
+      {
+        "start": 218.06,
+        "end": 218.32,
+        "word": " sagt",
+        "probability": 0.9110239148139954
+      },
+      {
+        "start": 218.32,
+        "end": 218.52,
+        "word": " er,",
+        "probability": 0.9967890977859497
+      },
+      {
+        "start": 219.36,
+        "end": 219.54,
+        "word": " ich",
+        "probability": 0.4958001971244812
+      },
+      {
+        "start": 219.54,
+        "end": 219.7,
+        "word": " habe",
+        "probability": 0.9947054982185364
+      },
+      {
+        "start": 219.7,
+        "end": 219.94,
+        "word": " heute",
+        "probability": 0.9873600602149963
+      },
+      {
+        "start": 219.94,
+        "end": 220.1,
+        "word": " meinen",
+        "probability": 0.2471456080675125
+      },
+      {
+        "start": 220.1,
+        "end": 221.26,
+        "word": " Job",
+        "probability": 0.9874054789543152
+      },
+      {
+        "start": 221.26,
+        "end": 221.44,
+        "word": " verloren.",
+        "probability": 0.9002233743667603
+      }
+    ]
+  },
+  {
+    "start": 222.84,
+    "end": 229.74,
+    "text": " Sofort suchst du die perfekte Antwort. Mut machen, nachfragen, Hilfe anbieten. Du",
+    "words": [
+      {
+        "start": 222.84,
+        "end": 223.52,
+        "word": " Sofort",
+        "probability": 0.9131322205066681
+      },
+      {
+        "start": 223.52,
+        "end": 224.04,
+        "word": " suchst",
+        "probability": 0.9903961420059204
+      },
+      {
+        "start": 224.04,
+        "end": 224.14,
+        "word": " du",
+        "probability": 0.9300540685653687
+      },
+      {
+        "start": 224.14,
+        "end": 224.26,
+        "word": " die",
+        "probability": 0.9979372024536133
+      },
+      {
+        "start": 224.26,
+        "end": 224.68,
+        "word": " perfekte",
+        "probability": 0.9970027605692545
+      },
+      {
+        "start": 224.68,
+        "end": 224.94,
+        "word": " Antwort.",
+        "probability": 0.997562050819397
+      },
+      {
+        "start": 225.86,
+        "end": 226.18,
+        "word": " Mut",
+        "probability": 0.9854280352592468
+      },
+      {
+        "start": 226.18,
+        "end": 226.42,
+        "word": " machen,",
+        "probability": 0.946098804473877
+      },
+      {
+        "start": 226.88,
+        "end": 227.38,
+        "word": " nachfragen,",
+        "probability": 0.8211870888868967
+      },
+      {
+        "start": 227.82,
+        "end": 228.0,
+        "word": " Hilfe",
+        "probability": 0.9950640797615051
+      },
+      {
+        "start": 228.0,
+        "end": 228.4,
+        "word": " anbieten.",
+        "probability": 0.9979302883148193
+      },
+      {
+        "start": 229.52,
+        "end": 229.74,
+        "word": " Du",
+        "probability": 0.9973822236061096
+      }
+    ]
+  },
+  {
+    "start": 229.74,
+    "end": 235.86,
+    "text": " prüfst eine Reaktion. Im nächsten Vorausblick wirkt er verletzt. Also, versuchst du eine",
+    "words": [
+      {
+        "start": 229.74,
+        "end": 230.28,
+        "word": " prüfst",
+        "probability": 0.9793469111124674
+      },
+      {
+        "start": 230.28,
+        "end": 230.5,
+        "word": " eine",
+        "probability": 0.9959474205970764
+      },
+      {
+        "start": 230.5,
+        "end": 231.08,
+        "word": " Reaktion.",
+        "probability": 0.9950506289800009
+      },
+      {
+        "start": 231.8,
+        "end": 231.94,
+        "word": " Im",
+        "probability": 0.9978686571121216
+      },
+      {
+        "start": 231.94,
+        "end": 232.16,
+        "word": " nächsten",
+        "probability": 0.9978633522987366
+      },
+      {
+        "start": 232.16,
+        "end": 232.74,
+        "word": " Vorausblick",
+        "probability": 0.9883470088243484
+      },
+      {
+        "start": 232.74,
+        "end": 233.08,
+        "word": " wirkt",
+        "probability": 0.9941404461860657
+      },
+      {
+        "start": 233.08,
+        "end": 233.18,
+        "word": " er",
+        "probability": 0.9932801127433777
+      },
+      {
+        "start": 233.18,
+        "end": 233.52,
+        "word": " verletzt.",
+        "probability": 0.9928551514943441
+      },
+      {
+        "start": 234.14,
+        "end": 234.46,
+        "word": " Also,",
+        "probability": 0.9816033840179443
+      },
+      {
+        "start": 235.06,
+        "end": 235.58,
+        "word": " versuchst",
+        "probability": 0.9893383979797363
+      },
+      {
+        "start": 235.58,
+        "end": 235.66,
+        "word": " du",
+        "probability": 0.9885677099227905
+      },
+      {
+        "start": 235.66,
+        "end": 235.86,
+        "word": " eine",
+        "probability": 0.9885293841362
+      }
+    ]
+  },
+  {
+    "start": 235.86,
+    "end": 242.1,
+    "text": " andere. Wieder nachsehen, wieder korrigieren. Während du mögliche Gespräche ausprobierst,",
+    "words": [
+      {
+        "start": 235.86,
+        "end": 236.14,
+        "word": " andere.",
+        "probability": 0.9934892654418945
+      },
+      {
+        "start": 237.1,
+        "end": 237.32,
+        "word": " Wieder",
+        "probability": 0.9311381578445435
+      },
+      {
+        "start": 237.32,
+        "end": 237.78,
+        "word": " nachsehen,",
+        "probability": 0.9530110657215118
+      },
+      {
+        "start": 238.24,
+        "end": 238.36,
+        "word": " wieder",
+        "probability": 0.9763027429580688
+      },
+      {
+        "start": 238.36,
+        "end": 238.96,
+        "word": " korrigieren.",
+        "probability": 0.9962570865948995
+      },
+      {
+        "start": 240.08,
+        "end": 240.4,
+        "word": " Während",
+        "probability": 0.9956971108913422
+      },
+      {
+        "start": 240.4,
+        "end": 240.52,
+        "word": " du",
+        "probability": 0.9867677092552185
+      },
+      {
+        "start": 240.52,
+        "end": 241.0,
+        "word": " mögliche",
+        "probability": 0.9904926419258118
+      },
+      {
+        "start": 241.0,
+        "end": 241.36,
+        "word": " Gespräche",
+        "probability": 0.9977827370166779
+      },
+      {
+        "start": 241.36,
+        "end": 242.1,
+        "word": " ausprobierst,",
+        "probability": 0.9807044267654419
+      }
+    ]
+  },
+  {
+    "start": 242.1,
+    "end": 249.3,
+    "text": " findet das echte längst statt. Dein Freund erzählt. Du nix automatisch. Dein Blick wandert weg, dann fragt",
+    "words": [
+      {
+        "start": 242.1,
+        "end": 242.64,
+        "word": " findet",
+        "probability": 0.2780666947364807
+      },
+      {
+        "start": 242.64,
+        "end": 242.84,
+        "word": " das",
+        "probability": 0.9939197301864624
+      },
+      {
+        "start": 242.84,
+        "end": 243.1,
+        "word": " echte",
+        "probability": 0.9824017584323883
+      },
+      {
+        "start": 243.1,
+        "end": 243.46,
+        "word": " längst",
+        "probability": 0.8093548119068146
+      },
+      {
+        "start": 243.46,
+        "end": 243.66,
+        "word": " statt.",
+        "probability": 0.9988018274307251
+      },
+      {
+        "start": 244.62,
+        "end": 244.82,
+        "word": " Dein",
+        "probability": 0.9858909547328949
+      },
+      {
+        "start": 244.82,
+        "end": 245.0,
+        "word": " Freund",
+        "probability": 0.999061644077301
+      },
+      {
+        "start": 245.0,
+        "end": 245.34,
+        "word": " erzählt.",
+        "probability": 0.9921299815177917
+      },
+      {
+        "start": 245.98,
+        "end": 246.1,
+        "word": " Du",
+        "probability": 0.9724367260932922
+      },
+      {
+        "start": 246.1,
+        "end": 246.28,
+        "word": " nix",
+        "probability": 0.546136885881424
+      },
+      {
+        "start": 246.28,
+        "end": 246.96,
+        "word": " automatisch.",
+        "probability": 0.8844984769821167
+      },
+      {
+        "start": 247.62,
+        "end": 247.8,
+        "word": " Dein",
+        "probability": 0.9854183495044708
+      },
+      {
+        "start": 247.8,
+        "end": 247.94,
+        "word": " Blick",
+        "probability": 0.9631158709526062
+      },
+      {
+        "start": 247.94,
+        "end": 248.26,
+        "word": " wandert",
+        "probability": 0.9960874021053314
+      },
+      {
+        "start": 248.26,
+        "end": 248.48,
+        "word": " weg,",
+        "probability": 0.997728168964386
+      },
+      {
+        "start": 248.82,
+        "end": 248.98,
+        "word": " dann",
+        "probability": 0.9947503209114075
+      },
+      {
+        "start": 248.98,
+        "end": 249.3,
+        "word": " fragt",
+        "probability": 0.9960514307022095
+      }
+    ]
+  },
+  {
+    "start": 249.3,
+    "end": 255.58,
+    "text": " er, hörst du mir überhaupt zu? Diesen Satz hattest du nicht erwartet. Du warst so beschäftigt mit",
+    "words": [
+      {
+        "start": 249.3,
+        "end": 249.4,
+        "word": " er,",
+        "probability": 0.9936118721961975
+      },
+      {
+        "start": 250.14,
+        "end": 250.46,
+        "word": " hörst",
+        "probability": 0.7131041884422302
+      },
+      {
+        "start": 250.46,
+        "end": 250.54,
+        "word": " du",
+        "probability": 0.9674262404441833
+      },
+      {
+        "start": 250.54,
+        "end": 250.64,
+        "word": " mir",
+        "probability": 0.9955173134803772
+      },
+      {
+        "start": 250.64,
+        "end": 250.92,
+        "word": " überhaupt",
+        "probability": 0.995128870010376
+      },
+      {
+        "start": 250.92,
+        "end": 251.2,
+        "word": " zu?",
+        "probability": 0.9968819618225098
+      },
+      {
+        "start": 252.14,
+        "end": 252.5,
+        "word": " Diesen",
+        "probability": 0.9767926037311554
+      },
+      {
+        "start": 252.5,
+        "end": 252.72,
+        "word": " Satz",
+        "probability": 0.995060920715332
+      },
+      {
+        "start": 252.72,
+        "end": 252.92,
+        "word": " hattest",
+        "probability": 0.9975760579109192
+      },
+      {
+        "start": 252.92,
+        "end": 253.04,
+        "word": " du",
+        "probability": 0.9949026107788086
+      },
+      {
+        "start": 253.04,
+        "end": 253.16,
+        "word": " nicht",
+        "probability": 0.997398853302002
+      },
+      {
+        "start": 253.16,
+        "end": 253.52,
+        "word": " erwartet.",
+        "probability": 0.995992124080658
+      },
+      {
+        "start": 254.48,
+        "end": 254.7,
+        "word": " Du",
+        "probability": 0.9963527917861938
+      },
+      {
+        "start": 254.7,
+        "end": 254.92,
+        "word": " warst",
+        "probability": 0.9752192795276642
+      },
+      {
+        "start": 254.92,
+        "end": 255.0,
+        "word": " so",
+        "probability": 0.9961913824081421
+      },
+      {
+        "start": 255.0,
+        "end": 255.46,
+        "word": " beschäftigt",
+        "probability": 0.9938104152679443
+      },
+      {
+        "start": 255.46,
+        "end": 255.58,
+        "word": " mit",
+        "probability": 0.9943707585334778
+      }
+    ]
+  },
+  {
+    "start": 255.58,
+    "end": 260.58,
+    "text": " der nächsten Minute, dass du den Menschen vor dir übersehen hast. Langsam merkst du,",
+    "words": [
+      {
+        "start": 255.58,
+        "end": 255.7,
+        "word": " der",
+        "probability": 0.9986640214920044
+      },
+      {
+        "start": 255.7,
+        "end": 255.88,
+        "word": " nächsten",
+        "probability": 0.9931550621986389
+      },
+      {
+        "start": 255.88,
+        "end": 256.28,
+        "word": " Minute,",
+        "probability": 0.9910385608673096
+      },
+      {
+        "start": 256.58,
+        "end": 256.82,
+        "word": " dass",
+        "probability": 0.976069986820221
+      },
+      {
+        "start": 256.82,
+        "end": 256.96,
+        "word": " du",
+        "probability": 0.9968518614768982
+      },
+      {
+        "start": 256.96,
+        "end": 257.1,
+        "word": " den",
+        "probability": 0.998512327671051
+      },
+      {
+        "start": 257.1,
+        "end": 257.36,
+        "word": " Menschen",
+        "probability": 0.9985059499740601
+      },
+      {
+        "start": 257.36,
+        "end": 257.62,
+        "word": " vor",
+        "probability": 0.997623860836029
+      },
+      {
+        "start": 257.62,
+        "end": 257.74,
+        "word": " dir",
+        "probability": 0.9960618615150452
+      },
+      {
+        "start": 257.74,
+        "end": 258.12,
+        "word": " übersehen",
+        "probability": 0.9845171272754669
+      },
+      {
+        "start": 258.12,
+        "end": 258.4,
+        "word": " hast.",
+        "probability": 0.982431948184967
+      },
+      {
+        "start": 259.6,
+        "end": 260.08,
+        "word": " Langsam",
+        "probability": 0.9910331666469574
+      },
+      {
+        "start": 260.08,
+        "end": 260.42,
+        "word": " merkst",
+        "probability": 0.99661585688591
+      },
+      {
+        "start": 260.42,
+        "end": 260.58,
+        "word": " du,",
+        "probability": 0.9934491515159607
+      }
+    ]
+  },
+  {
+    "start": 260.76,
+    "end": 264.86,
+    "text": " was dich die Fähigkeit kostet. Eine Überraschung verliert ihren Zauber,",
+    "words": [
+      {
+        "start": 260.76,
+        "end": 260.86,
+        "word": " was",
+        "probability": 0.9982050657272339
+      },
+      {
+        "start": 260.86,
+        "end": 261.0,
+        "word": " dich",
+        "probability": 0.9859720468521118
+      },
+      {
+        "start": 261.0,
+        "end": 261.16,
+        "word": " die",
+        "probability": 0.9944356679916382
+      },
+      {
+        "start": 261.16,
+        "end": 261.58,
+        "word": " Fähigkeit",
+        "probability": 0.9924852848052979
+      },
+      {
+        "start": 261.58,
+        "end": 262.04,
+        "word": " kostet.",
+        "probability": 0.9983681738376617
+      },
+      {
+        "start": 263.4,
+        "end": 263.52,
+        "word": " Eine",
+        "probability": 0.9941017031669617
+      },
+      {
+        "start": 263.52,
+        "end": 263.98,
+        "word": " Überraschung",
+        "probability": 0.9988388568162918
+      },
+      {
+        "start": 263.98,
+        "end": 264.34,
+        "word": " verliert",
+        "probability": 0.9995656311511993
+      },
+      {
+        "start": 264.34,
+        "end": 264.46,
+        "word": " ihren",
+        "probability": 0.9773951172828674
+      },
+      {
+        "start": 264.46,
+        "end": 264.86,
+        "word": " Zauber,",
+        "probability": 0.9949293931325277
+      }
+    ]
+  },
+  {
+    "start": 264.92,
+    "end": 269.74,
+    "text": " sobald du sie kontrollierst. Ein Witz wartet nur darauf, endlich ausgesprochen zu werden.",
+    "words": [
+      {
+        "start": 264.92,
+        "end": 265.18,
+        "word": " sobald",
+        "probability": 0.9936527212460836
+      },
+      {
+        "start": 265.18,
+        "end": 265.26,
+        "word": " du",
+        "probability": 0.9953101277351379
+      },
+      {
+        "start": 265.26,
+        "end": 265.36,
+        "word": " sie",
+        "probability": 0.9985969662666321
+      },
+      {
+        "start": 265.36,
+        "end": 265.96,
+        "word": " kontrollierst.",
+        "probability": 0.9822116692860922
+      },
+      {
+        "start": 266.9,
+        "end": 267.12,
+        "word": " Ein",
+        "probability": 0.99234539270401
+      },
+      {
+        "start": 267.12,
+        "end": 267.36,
+        "word": " Witz",
+        "probability": 0.9840829074382782
+      },
+      {
+        "start": 267.36,
+        "end": 268.18,
+        "word": " wartet",
+        "probability": 0.8729092180728912
+      },
+      {
+        "start": 268.18,
+        "end": 268.34,
+        "word": " nur",
+        "probability": 0.977564811706543
+      },
+      {
+        "start": 268.34,
+        "end": 268.58,
+        "word": " darauf,",
+        "probability": 0.9808351397514343
+      },
+      {
+        "start": 268.58,
+        "end": 268.86,
+        "word": " endlich",
+        "probability": 0.9955517649650574
+      },
+      {
+        "start": 268.86,
+        "end": 269.38,
+        "word": " ausgesprochen",
+        "probability": 0.9969884753227234
+      },
+      {
+        "start": 269.38,
+        "end": 269.58,
+        "word": " zu",
+        "probability": 0.9989963173866272
+      },
+      {
+        "start": 269.58,
+        "end": 269.74,
+        "word": " werden.",
+        "probability": 0.998661994934082
+      }
+    ]
+  },
+  {
+    "start": 270.68,
+    "end": 276.24,
+    "text": " Du kennst Nachrichten, bevor sie ankommen. Reaktionen, bevor du die Frage gestellt hast.",
+    "words": [
+      {
+        "start": 270.68,
+        "end": 271.26,
+        "word": " Du",
+        "probability": 0.5610386729240417
+      },
+      {
+        "start": 271.26,
+        "end": 271.6,
+        "word": " kennst",
+        "probability": 0.9819836914539337
+      },
+      {
+        "start": 271.6,
+        "end": 272.04,
+        "word": " Nachrichten,",
+        "probability": 0.9937674701213837
+      },
+      {
+        "start": 272.14,
+        "end": 272.3,
+        "word": " bevor",
+        "probability": 0.9969391822814941
+      },
+      {
+        "start": 272.3,
+        "end": 272.48,
+        "word": " sie",
+        "probability": 0.8544172644615173
+      },
+      {
+        "start": 272.48,
+        "end": 272.82,
+        "word": " ankommen.",
+        "probability": 0.9182196855545044
+      },
+      {
+        "start": 273.88,
+        "end": 274.46,
+        "word": " Reaktionen,",
+        "probability": 0.9720280369122823
+      },
+      {
+        "start": 274.92,
+        "end": 275.1,
+        "word": " bevor",
+        "probability": 0.9970111846923828
+      },
+      {
+        "start": 275.1,
+        "end": 275.26,
+        "word": " du",
+        "probability": 0.9713716506958008
+      },
+      {
+        "start": 275.26,
+        "end": 275.38,
+        "word": " die",
+        "probability": 0.9953243136405945
+      },
+      {
+        "start": 275.38,
+        "end": 275.66,
+        "word": " Frage",
+        "probability": 0.9965644478797913
+      },
+      {
+        "start": 275.66,
+        "end": 275.92,
+        "word": " gestellt",
+        "probability": 0.9959396123886108
+      },
+      {
+        "start": 275.92,
+        "end": 276.24,
+        "word": " hast.",
+        "probability": 0.9992140531539917
+      }
+    ]
+  },
+  {
+    "start": 277.58,
+    "end": 283.82,
+    "text": " Jeder Blick macht den nächsten verlockender. Am Abend sitzt du vor deinem Essen. Du könntest",
+    "words": [
+      {
+        "start": 277.58,
+        "end": 277.82,
+        "word": " Jeder",
+        "probability": 0.9750036001205444
+      },
+      {
+        "start": 277.82,
+        "end": 278.14,
+        "word": " Blick",
+        "probability": 0.9723931550979614
+      },
+      {
+        "start": 278.14,
+        "end": 278.56,
+        "word": " macht",
+        "probability": 0.9966617822647095
+      },
+      {
+        "start": 278.56,
+        "end": 278.74,
+        "word": " den",
+        "probability": 0.9968249797821045
+      },
+      {
+        "start": 278.74,
+        "end": 279.04,
+        "word": " nächsten",
+        "probability": 0.8573822379112244
+      },
+      {
+        "start": 279.04,
+        "end": 279.7,
+        "word": " verlockender.",
+        "probability": 0.8952046831448873
+      },
+      {
+        "start": 281.06,
+        "end": 281.2,
+        "word": " Am",
+        "probability": 0.9740753173828125
+      },
+      {
+        "start": 281.2,
+        "end": 281.52,
+        "word": " Abend",
+        "probability": 0.9974229335784912
+      },
+      {
+        "start": 281.52,
+        "end": 281.68,
+        "word": " sitzt",
+        "probability": 0.9122437834739685
+      },
+      {
+        "start": 281.68,
+        "end": 281.88,
+        "word": " du",
+        "probability": 0.994598388671875
+      },
+      {
+        "start": 281.88,
+        "end": 282.02,
+        "word": " vor",
+        "probability": 0.9990936517715454
+      },
+      {
+        "start": 282.02,
+        "end": 282.26,
+        "word": " deinem",
+        "probability": 0.9969044923782349
+      },
+      {
+        "start": 282.26,
+        "end": 282.46,
+        "word": " Essen.",
+        "probability": 0.992872953414917
+      },
+      {
+        "start": 283.42,
+        "end": 283.54,
+        "word": " Du",
+        "probability": 0.9943587183952332
+      },
+      {
+        "start": 283.54,
+        "end": 283.82,
+        "word": " könntest",
+        "probability": 0.98451167345047
+      }
+    ]
+  },
+  {
+    "start": 283.82,
+    "end": 288.68,
+    "text": " prüfen, ob gleich jemand anruft, ob dein Handy herunterfällt, ob dir der erste Bissen schmeckt.",
+    "words": [
+      {
+        "start": 283.82,
+        "end": 284.18,
+        "word": " prüfen,",
+        "probability": 0.9936106006304423
+      },
+      {
+        "start": 284.24,
+        "end": 284.3,
+        "word": " ob",
+        "probability": 0.998734176158905
+      },
+      {
+        "start": 284.3,
+        "end": 284.5,
+        "word": " gleich",
+        "probability": 0.9831206798553467
+      },
+      {
+        "start": 284.5,
+        "end": 284.72,
+        "word": " jemand",
+        "probability": 0.9983981251716614
+      },
+      {
+        "start": 284.72,
+        "end": 285.16,
+        "word": " anruft,",
+        "probability": 0.9901488820711771
+      },
+      {
+        "start": 285.72,
+        "end": 285.82,
+        "word": " ob",
+        "probability": 0.98951655626297
+      },
+      {
+        "start": 285.82,
+        "end": 285.96,
+        "word": " dein",
+        "probability": 0.9952867031097412
+      },
+      {
+        "start": 285.96,
+        "end": 286.18,
+        "word": " Handy",
+        "probability": 0.997745931148529
+      },
+      {
+        "start": 286.18,
+        "end": 286.72,
+        "word": " herunterfällt,",
+        "probability": 0.9645216912031174
+      },
+      {
+        "start": 287.36,
+        "end": 287.58,
+        "word": " ob",
+        "probability": 0.9949343800544739
+      },
+      {
+        "start": 287.58,
+        "end": 287.7,
+        "word": " dir",
+        "probability": 0.9839783310890198
+      },
+      {
+        "start": 287.7,
+        "end": 287.84,
+        "word": " der",
+        "probability": 0.9927542805671692
+      },
+      {
+        "start": 287.84,
+        "end": 288.06,
+        "word": " erste",
+        "probability": 0.962864100933075
+      },
+      {
+        "start": 288.06,
+        "end": 288.32,
+        "word": " Bissen",
+        "probability": 0.9040873050689697
+      },
+      {
+        "start": 288.32,
+        "end": 288.68,
+        "word": " schmeckt.",
+        "probability": 0.9974420964717865
+      }
+    ]
+  },
+  {
+    "start": 289.48,
+    "end": 295.84,
+    "text": " Nur kurz, nur zur Sicherheit. Eine Minute einfach verstreichen zu lassen ist plötzlich anstrengend.",
+    "words": [
+      {
+        "start": 289.48,
+        "end": 289.64,
+        "word": " Nur",
+        "probability": 0.9901188611984253
+      },
+      {
+        "start": 289.64,
+        "end": 289.92,
+        "word": " kurz,",
+        "probability": 0.8800978064537048
+      },
+      {
+        "start": 290.38,
+        "end": 290.62,
+        "word": " nur",
+        "probability": 0.9787920713424683
+      },
+      {
+        "start": 290.62,
+        "end": 290.94,
+        "word": " zur",
+        "probability": 0.9638875126838684
+      },
+      {
+        "start": 290.94,
+        "end": 291.42,
+        "word": " Sicherheit.",
+        "probability": 0.9981752634048462
+      },
+      {
+        "start": 292.32,
+        "end": 292.66,
+        "word": " Eine",
+        "probability": 0.9697326421737671
+      },
+      {
+        "start": 292.66,
+        "end": 292.96,
+        "word": " Minute",
+        "probability": 0.996295154094696
+      },
+      {
+        "start": 292.96,
+        "end": 293.32,
+        "word": " einfach",
+        "probability": 0.875286340713501
+      },
+      {
+        "start": 293.32,
+        "end": 293.8,
+        "word": " verstreichen",
+        "probability": 0.8660778105258942
+      },
+      {
+        "start": 293.8,
+        "end": 294.0,
+        "word": " zu",
+        "probability": 0.9979190230369568
+      },
+      {
+        "start": 294.0,
+        "end": 294.22,
+        "word": " lassen",
+        "probability": 0.9991146922111511
+      },
+      {
+        "start": 294.22,
+        "end": 294.84,
+        "word": " ist",
+        "probability": 0.4715060889720917
+      },
+      {
+        "start": 294.84,
+        "end": 295.26,
+        "word": " plötzlich",
+        "probability": 0.985949695110321
+      },
+      {
+        "start": 295.26,
+        "end": 295.84,
+        "word": " anstrengend.",
+        "probability": 0.9961365163326263
+      }
+    ]
+  },
+  {
+    "start": 296.48,
+    "end": 301.18,
+    "text": " Früher musstest du mit Unsicherheit leben. Jetzt müsstest du sie freiwillig zulassen.",
+    "words": [
+      {
+        "start": 296.48,
+        "end": 297.04,
+        "word": " Früher",
+        "probability": 0.6999616324901581
+      },
+      {
+        "start": 297.04,
+        "end": 297.48,
+        "word": " musstest",
+        "probability": 0.9468908309936523
+      },
+      {
+        "start": 297.48,
+        "end": 297.58,
+        "word": " du",
+        "probability": 0.9382348656654358
+      },
+      {
+        "start": 297.58,
+        "end": 297.7,
+        "word": " mit",
+        "probability": 0.9940493106842041
+      },
+      {
+        "start": 297.7,
+        "end": 298.38,
+        "word": " Unsicherheit",
+        "probability": 0.9897815783818563
+      },
+      {
+        "start": 298.38,
+        "end": 298.6,
+        "word": " leben.",
+        "probability": 0.9963338375091553
+      },
+      {
+        "start": 299.24,
+        "end": 299.52,
+        "word": " Jetzt",
+        "probability": 0.9884029030799866
+      },
+      {
+        "start": 299.52,
+        "end": 300.08,
+        "word": " müsstest",
+        "probability": 0.9732886850833893
+      },
+      {
+        "start": 300.08,
+        "end": 300.22,
+        "word": " du",
+        "probability": 0.9956907629966736
+      },
+      {
+        "start": 300.22,
+        "end": 300.32,
+        "word": " sie",
+        "probability": 0.991105854511261
+      },
+      {
+        "start": 300.32,
+        "end": 300.82,
+        "word": " freiwillig",
+        "probability": 0.9978594382603964
+      },
+      {
+        "start": 300.82,
+        "end": 301.18,
+        "word": " zulassen.",
+        "probability": 0.9842053055763245
+      }
+    ]
+  },
+  {
+    "start": 301.9,
+    "end": 306.62,
+    "text": " Genau das versuchst du. Du rufst deinen Freund an und stellst auf Lautsprecher,",
+    "words": [
+      {
+        "start": 301.9,
+        "end": 302.26,
+        "word": " Genau",
+        "probability": 0.9406522512435913
+      },
+      {
+        "start": 302.26,
+        "end": 302.48,
+        "word": " das",
+        "probability": 0.99068683385849
+      },
+      {
+        "start": 302.48,
+        "end": 302.94,
+        "word": " versuchst",
+        "probability": 0.9967366854349772
+      },
+      {
+        "start": 302.94,
+        "end": 303.04,
+        "word": " du.",
+        "probability": 0.9827054738998413
+      },
+      {
+        "start": 304.0,
+        "end": 304.12,
+        "word": " Du",
+        "probability": 0.9898462891578674
+      },
+      {
+        "start": 304.12,
+        "end": 304.38,
+        "word": " rufst",
+        "probability": 0.9664928118387858
+      },
+      {
+        "start": 304.38,
+        "end": 304.52,
+        "word": " deinen",
+        "probability": 0.9669020175933838
+      },
+      {
+        "start": 304.52,
+        "end": 304.74,
+        "word": " Freund",
+        "probability": 0.9966112971305847
+      },
+      {
+        "start": 304.74,
+        "end": 305.04,
+        "word": " an",
+        "probability": 0.9975320100784302
+      },
+      {
+        "start": 305.04,
+        "end": 305.6,
+        "word": " und",
+        "probability": 0.9858662486076355
+      },
+      {
+        "start": 305.6,
+        "end": 305.92,
+        "word": " stellst",
+        "probability": 0.9977774620056152
+      },
+      {
+        "start": 305.92,
+        "end": 306.06,
+        "word": " auf",
+        "probability": 0.9958738684654236
+      },
+      {
+        "start": 306.06,
+        "end": 306.62,
+        "word": " Lautsprecher,",
+        "probability": 0.961387425661087
+      }
+    ]
+  },
+  {
+    "start": 307.62,
+    "end": 312.32,
+    "text": " ohne seine Antwort vorher zu prüfen. Vorhin war ich abgelenkt, sagst du.",
+    "words": [
+      {
+        "start": 307.62,
+        "end": 307.9,
+        "word": " ohne",
+        "probability": 0.9909769296646118
+      },
+      {
+        "start": 307.9,
+        "end": 308.2,
+        "word": " seine",
+        "probability": 0.9881519675254822
+      },
+      {
+        "start": 308.2,
+        "end": 308.54,
+        "word": " Antwort",
+        "probability": 0.9976440072059631
+      },
+      {
+        "start": 308.54,
+        "end": 308.84,
+        "word": " vorher",
+        "probability": 0.9528562426567078
+      },
+      {
+        "start": 308.84,
+        "end": 309.0,
+        "word": " zu",
+        "probability": 0.9046796560287476
+      },
+      {
+        "start": 309.0,
+        "end": 309.32,
+        "word": " prüfen.",
+        "probability": 0.9973262747128805
+      },
+      {
+        "start": 310.32,
+        "end": 310.74,
+        "word": " Vorhin",
+        "probability": 0.7500433623790741
+      },
+      {
+        "start": 310.74,
+        "end": 310.86,
+        "word": " war",
+        "probability": 0.986115574836731
+      },
+      {
+        "start": 310.86,
+        "end": 311.0,
+        "word": " ich",
+        "probability": 0.9985108971595764
+      },
+      {
+        "start": 311.0,
+        "end": 311.52,
+        "word": " abgelenkt,",
+        "probability": 0.9713858664035797
+      },
+      {
+        "start": 311.9,
+        "end": 312.16,
+        "word": " sagst",
+        "probability": 0.9710886478424072
+      },
+      {
+        "start": 312.16,
+        "end": 312.32,
+        "word": " du.",
+        "probability": 0.9881735444068909
+      }
+    ]
+  },
+  {
+    "start": 313.26,
+    "end": 317.78,
+    "text": " Erzähl mir bitte noch mal, was passiert ist. Zum ersten Mal heute kennst du den",
+    "words": [
+      {
+        "start": 313.26,
+        "end": 313.58,
+        "word": " Erzähl",
+        "probability": 0.9059835076332092
+      },
+      {
+        "start": 313.58,
+        "end": 313.7,
+        "word": " mir",
+        "probability": 0.9664643406867981
+      },
+      {
+        "start": 313.7,
+        "end": 313.86,
+        "word": " bitte",
+        "probability": 0.9733033776283264
+      },
+      {
+        "start": 313.86,
+        "end": 314.04,
+        "word": " noch",
+        "probability": 0.6074622869491577
+      },
+      {
+        "start": 314.04,
+        "end": 314.2,
+        "word": " mal,",
+        "probability": 0.9403815865516663
+      },
+      {
+        "start": 314.28,
+        "end": 314.32,
+        "word": " was",
+        "probability": 0.9956058859825134
+      },
+      {
+        "start": 314.32,
+        "end": 314.6,
+        "word": " passiert",
+        "probability": 0.9893632531166077
+      },
+      {
+        "start": 314.6,
+        "end": 314.82,
+        "word": " ist.",
+        "probability": 0.9985412359237671
+      },
+      {
+        "start": 315.9,
+        "end": 316.26,
+        "word": " Zum",
+        "probability": 0.9912390112876892
+      },
+      {
+        "start": 316.26,
+        "end": 316.6,
+        "word": " ersten",
+        "probability": 0.9885576963424683
+      },
+      {
+        "start": 316.6,
+        "end": 316.88,
+        "word": " Mal",
+        "probability": 0.9410144090652466
+      },
+      {
+        "start": 316.88,
+        "end": 317.12,
+        "word": " heute",
+        "probability": 0.9078037738800049
+      },
+      {
+        "start": 317.12,
+        "end": 317.52,
+        "word": " kennst",
+        "probability": 0.9882328808307648
+      },
+      {
+        "start": 317.52,
+        "end": 317.64,
+        "word": " du",
+        "probability": 0.9952805638313293
+      },
+      {
+        "start": 317.64,
+        "end": 317.78,
+        "word": " den",
+        "probability": 0.9966604709625244
+      }
+    ]
+  },
+  {
+    "start": 317.78,
+    "end": 324.02,
+    "text": " nächsten Satz nicht. Du hörst zu. Eine Minute Vorsprung hat dir das Leben gerettet.",
+    "words": [
+      {
+        "start": 317.78,
+        "end": 318.06,
+        "word": " nächsten",
+        "probability": 0.9946267008781433
+      },
+      {
+        "start": 318.06,
+        "end": 318.44,
+        "word": " Satz",
+        "probability": 0.9968138039112091
+      },
+      {
+        "start": 318.44,
+        "end": 318.62,
+        "word": " nicht.",
+        "probability": 0.997416615486145
+      },
+      {
+        "start": 319.52,
+        "end": 319.7,
+        "word": " Du",
+        "probability": 0.9128521084785461
+      },
+      {
+        "start": 319.7,
+        "end": 320.02,
+        "word": " hörst",
+        "probability": 0.9901564419269562
+      },
+      {
+        "start": 320.02,
+        "end": 320.28,
+        "word": " zu.",
+        "probability": 0.9959393739700317
+      },
+      {
+        "start": 321.28,
+        "end": 321.54,
+        "word": " Eine",
+        "probability": 0.9688830375671387
+      },
+      {
+        "start": 321.54,
+        "end": 321.82,
+        "word": " Minute",
+        "probability": 0.9866852760314941
+      },
+      {
+        "start": 321.82,
+        "end": 322.44,
+        "word": " Vorsprung",
+        "probability": 0.8157776196797689
+      },
+      {
+        "start": 322.44,
+        "end": 322.96,
+        "word": " hat",
+        "probability": 0.9690361618995667
+      },
+      {
+        "start": 322.96,
+        "end": 323.06,
+        "word": " dir",
+        "probability": 0.9952528476715088
+      },
+      {
+        "start": 323.06,
+        "end": 323.26,
+        "word": " das",
+        "probability": 0.9986758828163147
+      },
+      {
+        "start": 323.26,
+        "end": 323.52,
+        "word": " Leben",
+        "probability": 0.9995245933532715
+      },
+      {
+        "start": 323.52,
+        "end": 324.02,
+        "word": " gerettet.",
+        "probability": 0.992496391137441
+      }
+    ]
+  },
+  {
+    "start": 324.96000000000004,
+    "end": 331.8,
+    "text": " Trotzdem hat sie dir nicht gesagt, wie du es leben sollst. Würdest du ständig nachsehen? Nur bei",
+    "words": [
+      {
+        "start": 324.96000000000004,
+        "end": 325.66,
+        "word": " Trotzdem",
+        "probability": 0.8106513321399689
+      },
+      {
+        "start": 325.66,
+        "end": 326.22,
+        "word": " hat",
+        "probability": 0.8777583837509155
+      },
+      {
+        "start": 326.22,
+        "end": 326.34,
+        "word": " sie",
+        "probability": 0.9986121654510498
+      },
+      {
+        "start": 326.34,
+        "end": 326.48,
+        "word": " dir",
+        "probability": 0.9950436353683472
+      },
+      {
+        "start": 326.48,
+        "end": 326.64,
+        "word": " nicht",
+        "probability": 0.9968063831329346
+      },
+      {
+        "start": 326.64,
+        "end": 327.06,
+        "word": " gesagt,",
+        "probability": 0.9938803911209106
+      },
+      {
+        "start": 327.56,
+        "end": 327.72,
+        "word": " wie",
+        "probability": 0.9989560842514038
+      },
+      {
+        "start": 327.72,
+        "end": 327.82,
+        "word": " du",
+        "probability": 0.9949693083763123
+      },
+      {
+        "start": 327.82,
+        "end": 327.94,
+        "word": " es",
+        "probability": 0.9981400966644287
+      },
+      {
+        "start": 327.94,
+        "end": 328.16,
+        "word": " leben",
+        "probability": 0.9719235301017761
+      },
+      {
+        "start": 328.16,
+        "end": 328.62,
+        "word": " sollst.",
+        "probability": 0.9869831502437592
+      },
+      {
+        "start": 329.46,
+        "end": 329.78,
+        "word": " Würdest",
+        "probability": 0.955852210521698
+      },
+      {
+        "start": 329.78,
+        "end": 329.98,
+        "word": " du",
+        "probability": 0.9867911338806152
+      },
+      {
+        "start": 329.98,
+        "end": 330.38,
+        "word": " ständig",
+        "probability": 0.9973136186599731
+      },
+      {
+        "start": 330.38,
+        "end": 330.82,
+        "word": " nachsehen?",
+        "probability": 0.9912182986736298
+      },
+      {
+        "start": 331.34,
+        "end": 331.6,
+        "word": " Nur",
+        "probability": 0.9950142502784729
+      },
+      {
+        "start": 331.6,
+        "end": 331.8,
+        "word": " bei",
+        "probability": 0.9967222809791565
+      }
+    ]
+  },
+  {
+    "start": 331.8,
+    "end": 337.9,
+    "text": " echter Gefahr? Oder würdest du diese Fähigkeit irgendwann wieder loswerden wollen? Schreib",
+    "words": [
+      {
+        "start": 331.8,
+        "end": 332.14,
+        "word": " echter",
+        "probability": 0.98867467045784
+      },
+      {
+        "start": 332.14,
+        "end": 332.58,
+        "word": " Gefahr?",
+        "probability": 0.9982753098011017
+      },
+      {
+        "start": 333.14,
+        "end": 333.44,
+        "word": " Oder",
+        "probability": 0.9940599799156189
+      },
+      {
+        "start": 333.44,
+        "end": 333.8,
+        "word": " würdest",
+        "probability": 0.9582364857196808
+      },
+      {
+        "start": 333.8,
+        "end": 333.96,
+        "word": " du",
+        "probability": 0.9939510822296143
+      },
+      {
+        "start": 333.96,
+        "end": 334.14,
+        "word": " diese",
+        "probability": 0.9938272833824158
+      },
+      {
+        "start": 334.14,
+        "end": 334.76,
+        "word": " Fähigkeit",
+        "probability": 0.9945640166600546
+      },
+      {
+        "start": 334.76,
+        "end": 335.18,
+        "word": " irgendwann",
+        "probability": 0.9882326722145081
+      },
+      {
+        "start": 335.18,
+        "end": 335.56,
+        "word": " wieder",
+        "probability": 0.9981270432472229
+      },
+      {
+        "start": 335.56,
+        "end": 336.1,
+        "word": " loswerden",
+        "probability": 0.9069505135218302
+      },
+      {
+        "start": 336.1,
+        "end": 336.3,
+        "word": " wollen?",
+        "probability": 0.9844539761543274
+      },
+      {
+        "start": 337.4,
+        "end": 337.9,
+        "word": " Schreib",
+        "probability": 0.9013752341270447
+      }
+    ]
+  },
+  {
+    "start": 337.9,
+    "end": 342.9,
+    "text": " deine Entscheidung in die Kommentare und abonnier den Kanal für das nächste Was wäre wenn?",
+    "words": [
+      {
+        "start": 337.9,
+        "end": 338.08,
+        "word": " deine",
+        "probability": 0.9825435280799866
+      },
+      {
+        "start": 338.08,
+        "end": 338.5,
+        "word": " Entscheidung",
+        "probability": 0.8284977078437805
+      },
+      {
+        "start": 338.5,
+        "end": 338.74,
+        "word": " in",
+        "probability": 0.9984331727027893
+      },
+      {
+        "start": 338.74,
+        "end": 338.84,
+        "word": " die",
+        "probability": 0.9996103644371033
+      },
+      {
+        "start": 338.84,
+        "end": 339.28,
+        "word": " Kommentare",
+        "probability": 0.9979554414749146
+      },
+      {
+        "start": 339.28,
+        "end": 340.04,
+        "word": " und",
+        "probability": 0.899292528629303
+      },
+      {
+        "start": 340.04,
+        "end": 340.54,
+        "word": " abonnier",
+        "probability": 0.8531388839085897
+      },
+      {
+        "start": 340.54,
+        "end": 340.72,
+        "word": " den",
+        "probability": 0.9742212295532227
+      },
+      {
+        "start": 340.72,
+        "end": 341.14,
+        "word": " Kanal",
+        "probability": 0.9978650212287903
+      },
+      {
+        "start": 341.14,
+        "end": 341.3,
+        "word": " für",
+        "probability": 0.9878445267677307
+      },
+      {
+        "start": 341.3,
+        "end": 341.46,
+        "word": " das",
+        "probability": 0.996738612651825
+      },
+      {
+        "start": 341.46,
+        "end": 341.76,
+        "word": " nächste",
+        "probability": 0.8321788311004639
+      },
+      {
+        "start": 341.76,
+        "end": 342.38,
+        "word": " Was",
+        "probability": 0.5968406200408936
+      },
+      {
+        "start": 342.38,
+        "end": 342.68,
+        "word": " wäre",
+        "probability": 0.7288715243339539
+      },
+      {
+        "start": 342.68,
+        "end": 342.9,
+        "word": " wenn?",
+        "probability": 0.8405781984329224
+      }
+    ]
+  }
+]
