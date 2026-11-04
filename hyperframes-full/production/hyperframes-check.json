@@ -1,0 +1,637 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 10 has 36 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/workspace/Absurditas/hyperframes-full/compositions/emphasis.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      }
+    ],
+    "filesScanned": 24
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "duration": 303,
+    "samples": [
+      16.833,
+      50.5,
+      84.167,
+      117.833,
+      151.5,
+      185.167,
+      218.833,
+      252.5,
+      286.167
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 0,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      16.833,
+      84.167,
+      151.5,
+      218.833,
+      286.167
+    ],
+    "checked": 2,
+    "passed": 2
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 28,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 4.05 s (14.67–18.72 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 14.669,
+        "seconds": 4.047,
+        "floorSeconds": 3,
+        "until": 18.716
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 4.55 s (33.89–38.44 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 33.891,
+        "seconds": 4.553,
+        "floorSeconds": 3,
+        "until": 38.444
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 8.60 s (40.47–49.07 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 40.467,
+        "seconds": 8.6,
+        "floorSeconds": 3,
+        "until": 49.067
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"VORAUSBLICK +60 SEKUNDEN\" (3 words) is on screen 0.85 s (±0.02 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "VORAUSBLICK +60 SEKUNDEN",
+        "selector": "#host-limits > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/limits.html",
+        "bbox": {
+          "x": 1523.67,
+          "y": 103,
+          "width": 217.32999999999993,
+          "height": 38
+        },
+        "time": 66.708,
+        "words": 3,
+        "seconds": 0.854,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 6.07 s (73.85–79.92 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 73.853,
+        "seconds": 6.07,
+        "floorSeconds": 3,
+        "until": 79.923
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 4.55 s (83.46–88.02 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 83.464,
+        "seconds": 4.553,
+        "floorSeconds": 3,
+        "until": 88.017
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 11.13 s (95.10–106.23 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 95.098,
+        "seconds": 11.129,
+        "floorSeconds": 3,
+        "until": 106.227
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 6.07 s (119.89–125.95 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 119.885,
+        "seconds": 6.07,
+        "floorSeconds": 3,
+        "until": 125.955
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 4.05 s (135.06–139.11 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 135.06,
+        "seconds": 4.047,
+        "floorSeconds": 3,
+        "until": 139.107
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 5.06 s (142.65–147.71 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 142.648,
+        "seconds": 5.058,
+        "floorSeconds": 3,
+        "until": 147.706
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 6.07 s (152.26–158.33 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 152.259,
+        "seconds": 6.07,
+        "floorSeconds": 3,
+        "until": 158.329
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"VORAUSBLICK +60 SEKUNDEN\" (3 words) is on screen 0.95 s (±0.02 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "VORAUSBLICK +60 SEKUNDEN",
+        "selector": "#host-horizon > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/horizon.html",
+        "bbox": {
+          "x": 1523.67,
+          "y": 103,
+          "width": 217.32999999999993,
+          "height": 38
+        },
+        "time": 161.238,
+        "words": 3,
+        "seconds": 0.949,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 5.56 s (163.39–168.95 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 163.387,
+        "seconds": 5.565,
+        "floorSeconds": 3,
+        "until": 168.952
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 3.04 s (172.49–175.53 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 172.492,
+        "seconds": 3.036,
+        "floorSeconds": 3,
+        "until": 175.528
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 4.05 s (182.10–186.15 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 182.104,
+        "seconds": 4.046,
+        "floorSeconds": 3,
+        "until": 186.15
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"VORAUSBLICK +60 SEKUNDEN\" (3 words) is on screen 0.66 s (±0.02 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "VORAUSBLICK +60 SEKUNDEN",
+        "selector": "#host-repeat > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/repeat.html",
+        "bbox": {
+          "x": 1523.67,
+          "y": 103,
+          "width": 217.32999999999993,
+          "height": 38
+        },
+        "time": 193.2,
+        "words": 3,
+        "seconds": 0.664,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 5.06 s (203.85–208.91 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 203.855,
+        "seconds": 5.058,
+        "floorSeconds": 3,
+        "until": 208.913
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"VORAUSBLICK +60 SEKUNDEN\" (3 words) is on screen 0.66 s (±0.02 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "VORAUSBLICK +60 SEKUNDEN",
+        "selector": "#host-conversation > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/conversation.html",
+        "bbox": {
+          "x": 1523.67,
+          "y": 103,
+          "width": 217.32999999999993,
+          "height": 38
+        },
+        "time": 209.419,
+        "words": 3,
+        "seconds": 0.664,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 11.13 s (210.43–221.56 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 210.431,
+        "seconds": 11.128,
+        "floorSeconds": 3,
+        "until": 221.559
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 3.03 s (225.61–228.64 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 225.606,
+        "seconds": 3.035,
+        "floorSeconds": 3,
+        "until": 228.641
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 6.07 s (232.18–238.25 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 232.182,
+        "seconds": 6.07,
+        "floorSeconds": 3,
+        "until": 238.252
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 10.62 s (238.76–249.38 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 238.758,
+        "seconds": 10.623,
+        "floorSeconds": 3,
+        "until": 249.381
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 3.54 s (259.50–263.04 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 259.497,
+        "seconds": 3.541,
+        "floorSeconds": 3,
+        "until": 263.038
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 6.58 s (263.54–270.12 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 263.544,
+        "seconds": 6.576,
+        "floorSeconds": 3,
+        "until": 270.12
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"VORAUSBLICK +60 SEKUNDEN\" (3 words) is on screen 0.95 s (±0.02 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "VORAUSBLICK +60 SEKUNDEN",
+        "selector": "#host-street-reprise > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/street-reprise.html",
+        "bbox": {
+          "x": 1523.67,
+          "y": 103,
+          "width": 217.32999999999993,
+          "height": 38
+        },
+        "time": 270.215,
+        "words": 3,
+        "seconds": 0.949,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"+60 SEKUNDEN\" (2 words) is on screen 0.95 s (±0.02 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "+60 SEKUNDEN",
+        "selector": "#host-street-reprise > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/street-reprise.html",
+        "bbox": {
+          "x": 1523.67,
+          "y": 147,
+          "width": 221.32999999999993,
+          "height": 38
+        },
+        "time": 270.215,
+        "words": 2,
+        "seconds": 0.949,
+        "floorSeconds": 2
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 7.59 s (271.64–279.23 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 271.638,
+        "seconds": 7.587,
+        "floorSeconds": 3,
+        "until": 279.225
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 3.03 s (296.93–299.96 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 296.93,
+        "seconds": 3.035,
+        "floorSeconds": 3,
+        "until": 299.965
+      }
+    ],
+    "enabled": true,
+    "step": 0.5060000000000002,
+    "samples": 599
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "saved": {
+    "id": "c817bcd8-5d87-4ba8-854c-0b051ecca23b",
+    "revision": "a0543e90-70c3-4ab2-9639-4f47389a1d13",
+    "report": "/workspace/Absurditas/hyperframes-full/.hyperframes/artifacts/checks/c817bcd8-5d87-4ba8-854c-0b051ecca23b.json",
+    "attribution": "recorded-revision"
+  },
+  "_meta": {
+    "version": "0.9.12",
+    "latestVersion": "0.9.12",
+    "updateAvailable": false,
+    "checkedAt": "2026-11-04T13:59:40.217Z"
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "reported_start": 14.669,
+    "checked_times": [
+      14.666666666666666,
+      17.7
+    ],
+    "mean_pixel_change": 17.76738823784722
+  },
+  {
+    "reported_start": 33.891,
+    "checked_times": [
+      34.46666666666667,
+      36.0
+    ],
+    "mean_pixel_change": 16.815547236689813
+  },
+  {
+    "reported_start": 40.467,
+    "checked_times": [
+      40.5,
+      42.0
+    ],
+    "mean_pixel_change": 36.146484375
+  },
+  {
+    "reported_start": 73.853,
+    "checked_times": [
+      73.53333333333333,
+      78.0
+    ],
+    "mean_pixel_change": 10.98952907986111
+  },
+  {
+    "reported_start": 83.464,
+    "checked_times": [
+      84.0,
+      87.0
+    ],
+    "mean_pixel_change": 11.041621455439815
+  },
+  {
+    "reported_start": 95.098,
+    "checked_times": [
+      95.4,
+      98.06666666666666
+    ],
+    "mean_pixel_change": 7.966254340277778
+  },
+  {
+    "reported_start": 119.885,
+    "checked_times": [
+      120.0,
+      123.0
+    ],
+    "mean_pixel_change": 17.56226490162037
+  },
+  {
+    "reported_start": 135.06,
+    "checked_times": [
+      135.0,
+      138.0
+    ],
+    "mean_pixel_change": 13.455376519097221
+  },
+  {
+    "reported_start": 142.648,
+    "checked_times": [
+      144.0,
+      147.0
+    ],
+    "mean_pixel_change": 8.392225477430555
+  },
+  {
+    "reported_start": 152.259,
+    "checked_times": [
+      153.0,
+      156.0
+    ],
+    "mean_pixel_change": 9.576741536458334
+  },
+  {
+    "reported_start": 163.387,
+    "checked_times": [
+      162.0,
+      165.0
+    ],
+    "mean_pixel_change": 16.548186125578702
+  },
+  {
+    "reported_start": 172.492,
+    "checked_times": [
+      171.0,
+      174.0
+    ],
+    "mean_pixel_change": 51.13502785011574
+  },
+  {
+    "reported_start": 182.104,
+    "checked_times": [
+      183.0,
+      186.0
+    ],
+    "mean_pixel_change": 0.33559389467592593
+  },
+  {
+    "reported_start": 203.855,
+    "checked_times": [
+      204.0,
+      207.0
+    ],
+    "mean_pixel_change": 4.188747829861111
+  },
+  {
+    "reported_start": 210.431,
+    "checked_times": [
+      210.0,
+      213.0
+    ],
+    "mean_pixel_change": 14.83617259837963
+  },
+  {
+    "reported_start": 225.606,
+    "checked_times": [
+      225.46666666666667,
+      228.53333333333333
+    ],
+    "mean_pixel_change": 8.55417209201389
+  },
+  {
+    "reported_start": 232.182,
+    "checked_times": [
+      232.03333333333333,
+      235.2
+    ],
+    "mean_pixel_change": 19.47927517361111
+  },
+  {
+    "reported_start": 238.758,
+    "checked_times": [
+      238.6,
+      241.8
+    ],
+    "mean_pixel_change": 4.178005642361111
+  },
+  {
+    "reported_start": 259.497,
+    "checked_times": [
+      258.0,
+      262.4
+    ],
+    "mean_pixel_change": 14.302860966435185
+  },
+  {
+    "reported_start": 263.544,
+    "checked_times": [
+      263.6,
+      266.6
+    ],
+    "mean_pixel_change": 10.11183449074074
+  },
+  {
+    "reported_start": 271.638,
+    "checked_times": [
+      273.0,
+      274.2
+    ],
+    "mean_pixel_change": 10.78933376736111
+  },
+  {
+    "reported_start": 296.93,
+    "checked_times": [
+      297.0,
+      300.0
+    ],
+    "mean_pixel_change": 5.526638454861111
+  }
+]

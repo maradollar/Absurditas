@@ -1,0 +1,13 @@
+{
+  "name": "absurditas-whatif-hyperframes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.9.12 preview",
+    "check": "npx --yes hyperframes@0.9.12 check",
+    "render": "npx --yes hyperframes@0.9.12 render",
+    "publish": "npx --yes hyperframes@0.9.12 publish",
+    "build": "python3 scripts/build_film.py",
+    "qc": "python3 scripts/qc_film.py renders/WhatIf_Eine_Minute_Voraus_HyperFrames_1080p.mp4"
+  }
+}

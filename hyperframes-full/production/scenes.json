@@ -1,0 +1,134 @@
+[
+  {
+    "id": "opening",
+    "start": 0,
+    "end": 1.98,
+    "kind": "street"
+  },
+  {
+    "id": "vision",
+    "start": 1.78,
+    "end": 5.72,
+    "kind": "vision"
+  },
+  {
+    "id": "phone",
+    "start": 5.42,
+    "end": 8.98,
+    "kind": "phone"
+  },
+  {
+    "id": "wheel",
+    "start": 8.82,
+    "end": 11.98,
+    "kind": "wheel"
+  },
+  {
+    "id": "safe",
+    "start": 11.68,
+    "end": 17.65,
+    "kind": "safe"
+  },
+  {
+    "id": "crossing",
+    "start": 17.34,
+    "end": 28.48,
+    "kind": "crossing"
+  },
+  {
+    "id": "reflection",
+    "start": 28.02,
+    "end": 40.92,
+    "kind": "reflection"
+  },
+  {
+    "id": "rule-window",
+    "start": 40.5,
+    "end": 56.88,
+    "kind": "rules"
+  },
+  {
+    "id": "limits",
+    "start": 56.5,
+    "end": 73.56,
+    "kind": "limits"
+  },
+  {
+    "id": "decision",
+    "start": 73.2,
+    "end": 88.68,
+    "kind": "decision"
+  },
+  {
+    "id": "cafe-cup",
+    "start": 88.24,
+    "end": 110.8,
+    "kind": "cafe"
+  },
+  {
+    "id": "rain",
+    "start": 110.4,
+    "end": 130.56,
+    "kind": "rain"
+  },
+  {
+    "id": "money",
+    "start": 130.2,
+    "end": 148.4,
+    "kind": "money"
+  },
+  {
+    "id": "horizon",
+    "start": 148,
+    "end": 169.4,
+    "kind": "horizon"
+  },
+  {
+    "id": "messages",
+    "start": 169,
+    "end": 192.05,
+    "kind": "messages"
+  },
+  {
+    "id": "repeat",
+    "start": 191.7,
+    "end": 203.65,
+    "kind": "repeat"
+  },
+  {
+    "id": "conversation",
+    "start": 203.3,
+    "end": 225.45,
+    "kind": "conversation"
+  },
+  {
+    "id": "departure",
+    "start": 225.1,
+    "end": 238.6,
+    "kind": "departure"
+  },
+  {
+    "id": "restore",
+    "start": 238.24,
+    "end": 255.98,
+    "kind": "restore"
+  },
+  {
+    "id": "choice",
+    "start": 255.6,
+    "end": 269.05,
+    "kind": "choice"
+  },
+  {
+    "id": "street-reprise",
+    "start": 268.7,
+    "end": 279.72,
+    "kind": "reprise"
+  },
+  {
+    "id": "finish",
+    "start": 279.34,
+    "end": 303.0,
+    "kind": "finish"
+  }
+]

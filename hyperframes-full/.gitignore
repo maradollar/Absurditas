@@ -1,0 +1,9 @@
+node_modules/
+renders/
+review/
+*.log
+.media/
+.hyperframes/
+__pycache__/
+assets/audio/*
+!assets/audio/CREDITS.md

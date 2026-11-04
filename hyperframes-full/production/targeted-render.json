@@ -1,0 +1,11 @@
+{
+  "start": 40,
+  "end": 74,
+  "frames": 1020,
+  "reason": "Move the friend from the road to the near sidewalk in the two rule scenes.",
+  "changed_compositions": [
+    "compositions/limits.html",
+    "compositions/rule-window.html"
+  ],
+  "other_compositions_byte_identical": true
+}

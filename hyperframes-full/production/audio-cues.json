@@ -1,0 +1,158 @@
+{
+  "duration": 303,
+  "sample_rate": 48000,
+  "source_sha256": "d54ed8be995d71499cfd792b74270e03743a26c5a00c287bd1e6ab546c62d893",
+  "source_duration": 302.132188,
+  "speed": 1,
+  "pitch_changed": false,
+  "source_kept_complete": true,
+  "music_tracks": [
+    "The Descent",
+    "Carefree",
+    "Dream Culture"
+  ],
+  "speech_ducking": true,
+  "raw_mix_peak": 0.8502029180526733,
+  "safety_gain": 1,
+  "master_gain_db": -0.6500000000000004,
+  "measured_before_master": {
+    "lufs": "-13.85",
+    "true_peak_db": "-1.40"
+  },
+  "mix_peak": 0.788901150226593,
+  "events": [
+    {
+      "time": 0,
+      "end": 90.24,
+      "type": "music",
+      "file": "the-descent.mp3",
+      "source_offset": 23.3,
+      "gain": 0.105
+    },
+    {
+      "time": 87.84,
+      "end": 171.0,
+      "type": "music",
+      "file": "carefree.mp3",
+      "source_offset": 15.0,
+      "gain": 0.105
+    },
+    {
+      "time": 168.5,
+      "end": 303.0,
+      "type": "music",
+      "file": "dream-culture.mp3",
+      "source_offset": 19.785714,
+      "gain": 0.13
+    },
+    {
+      "time": 9.46,
+      "duration": 1.05,
+      "type": "original-location-foley",
+      "name": "Reifen in der Vision"
+    },
+    {
+      "time": 20.85,
+      "duration": 5.1,
+      "type": "original-location-foley",
+      "name": "Annäherung und Vorbeifahrt links nach rechts"
+    },
+    {
+      "time": 21.87,
+      "duration": 0.17,
+      "type": "original-location-foley",
+      "name": "Fuß bleibt auf dem Gehweg"
+    },
+    {
+      "time": 95.83,
+      "duration": 0.3,
+      "type": "original-location-foley",
+      "name": "Ärmel beim Versetzen der Tasse"
+    },
+    {
+      "time": 241.75,
+      "duration": 0.28,
+      "type": "original-location-foley",
+      "name": "Telefon ablegen / Kleidung"
+    },
+    {
+      "time": 113.55,
+      "duration": 6.7,
+      "type": "CC0 field recording",
+      "name": "Regen in der Vision"
+    },
+    {
+      "time": 122.2,
+      "duration": 8,
+      "type": "CC0 field recording",
+      "name": "Tatsächlicher Regen außerhalb der Markise"
+    },
+    {
+      "time": 1.8,
+      "duration": 0.5747083333333334,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "whoosh-short.mp3"
+    },
+    {
+      "time": 11.72,
+      "duration": 0.5747083333333334,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "whoosh.mp3"
+    },
+    {
+      "time": 92.43,
+      "duration": 0.5747083333333334,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "whoosh-short.mp3"
+    },
+    {
+      "time": 175.65,
+      "duration": 0.5747083333333334,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "whoosh-short.mp3"
+    },
+    {
+      "time": 186.4,
+      "duration": 0.5747083333333334,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "whoosh.mp3"
+    },
+    {
+      "time": 225.2,
+      "duration": 0.5747083333333334,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "whoosh-short.mp3"
+    },
+    {
+      "time": 238.4,
+      "duration": 0.5747083333333334,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "whoosh.mp3"
+    },
+    {
+      "time": 177.65,
+      "duration": 0.8,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "notification.mp3"
+    },
+    {
+      "time": 187.3,
+      "duration": 0.8,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "notification.mp3"
+    },
+    {
+      "time": 190.12,
+      "duration": 0.36572916666666666,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "click-soft.mp3"
+    },
+    {
+      "time": 300.35,
+      "duration": 0.36572916666666666,
+      "type": "HyperFrames bundled Pixabay SFX",
+      "file": "click-soft.mp3"
+    }
+  ],
+  "listening": "Measured and inspected as waveform; no critical human listening claimed."
+}
